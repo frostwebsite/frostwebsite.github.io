@@ -43,11 +43,9 @@ https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 https://c.mjh.nz/abc-sa.m3u8
 #EXTINF:-1 tvg-id="WFXTDT1.us",Fox 25 Boston (WFXT-TV)
 https://dai.google.com/linear/hls/pa/event/1kItNgwtQUe54NjjBiiTGg/stream/e8094076-4743-4d08-aeee-516fec5ca5f9:MRN2/master.m3u8
-#EXTINF:-1 tvg-id="AdultSwimEast.us",Adult Swim
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="CNes",Cartoon Network Español
+#EXTINF:-1 tvg-id="CNes",Cartoon Network LA
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-id="NickLA",Nickelodeon LA
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
@@ -57,16 +55,22 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us",Telemundo US
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 tvg-id="UniMasEast.us",UniMás East
-https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="UnivisionEast.us",Univision East
-https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="GalavisionEast.us",Galavisión East
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="disn_arg",Disney Channel Argentina
+http://181.191.140.241:9981/stream/channelid/410488522?profile=pass
+#EXTINF:-1 tvg-id="disn-us",Disney Channel
+http://93.174.93.237:25461/live/242306/210404/21795.m3u8?token=ShRZAEYJFQxGCQBbU1MCBwENB1MFVl8HUFFVBQcBUQUADgEHVFMPD1EaShpGQUQDVlVuXFUXAwQEVQ4CHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRVAQMEQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUA1gGVhUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1ICWAYARkU=
+#EXTINF:-1 tvg-id="disn_xd",Disney XD
+http://93.174.93.237:25461/live/242306/210404/21801.m3u8?token=ShRZAEYJFQxGAAIKAA0DV1JcVw0HV1pTU1cAUgNQBFBXBwNVVgJVAgIaShpGQUQDVlVuXFUXAwQEWgcGHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAgcIVxdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1ACVQQUSBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MBUgYEXRob
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="nickjr.us",Nick Jr.
+http://lb38.fortv.cc:25461/N0QaDD/625713/9807?token=ThFcUhFaQQwRBldQBwRQBQAABVVVVQNWUgECUAFXUAMMAldVWlRSUgAQHkdBQURQV1g7WFQWCgtbUlQfG0ZAV0dsXVdACEEOAAQBVxAZFEFfWAETCgUHA1FQUgANCgUeF0NdV0AIQQcEAABREBkUUE5BAUNeVVxtBwcVWlpWEQhbRlhfThAMWGxWVwhTW1IXDBdUExwWWUETQFldTF9fHhdRXUcQUxdTEQgQVgINAxcaFwdeRVpEQBpAWRFsYBEeF1ZMRwdcEF9cXBBfEEFFFxoXDUJvRlVBFxAGUlRWQRAPEQQRThAOV0ttUQpcW1NWQlwLX0MWChBSUkEfG15cXFxHW0E9QgpSEQgQVgADBwwUSA==
+#EXTINF:-1 tvg-id="cn-as-ti",Cartoon Network
+http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJBwdQAFEBAQMEBgEHA1sHAwBWBV8IUwBQBQdUVQAaShpGQUQDVlVuXFUXAwQEVQ4FHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkReCAACQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUB1EEWBUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1cBWQAUGQ==
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East
 http://170.254.18.106/AMC/mono.m3u8
+#EXTINF:-1 tvg-id="boom",Boomerang
+http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="TBSEast.us",TBS
@@ -77,6 +81,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="discovery-fam.us",Discovery Family
+http://23.227.150.202:25461/Jennifer/Year!/39748?token=QxcKA0ZRRFsTAgELUgVQUFcCUFBTUlADBgMCVgZVVQQAUVBRA1hfBVBESRFAREdTAA48W1MUWFILVgFaHBMUR11HPQtRG1xDCFRVER8SQV8MBkEIBgFTUwBQBlQAAU0WSFwGQA8bV1AJVVARHxJQThUGEVxWWj0FVxdcAVUTW1pNWQ5OF1YIPlUDCFJdVBcMQ1JBHhVfEREQW1sXXF1NFlpcFhBUTQNDC0RQCgEFFxpDAAxHWUIQGBBbFzdjE00WXU0WB1tKDw5fRF8RR0MXGkMKEG1FUxEVQARUD1VDQw4aBUBOF1QHGW4FCl1dVVZCCAwNQRUMQFMQTRcPX18IQFdHPRJcXURbE1JVAQQIF0s=
 #EXTINF:-1 tvg-id="AztecaGuatemala.gt",Azteca Guatemala
 http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt",Guatevision
@@ -87,24 +93,44 @@ http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1 tvg-id="lol",Laff
+185.245.0.208:8080/live/play/TVZkWE5YcHBXV2s1UTFaa2VqRTFPVTVXVTNGMVdtVlZjbkZ4Y1hGU1NsUjNUR1ZPYlZoak9WRmpkejA9/793363
+#EXTINF:-1 tvg-id="cozi",COZI TV
+http://46.151.196.180/live/play/ZG1oS2FDdFFLM0Z6U2s1b2NURkJaMjVxZUVSUmFHeFlVVGxWYWs1eWEzQlBkMWhpU1UwNE5EbGhUVDA9/45590
 #EXTINF:-1 tvg-id="BET-english",BET
 http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 tvg-id="ff",Freeform
+http://46.151.196.180/live/play/YkM5TmRuQTFhWHBKYVUxRlRtMUNOakZSYjBSTGRuRkNWa0l3YjBwbFZVMHpkVzVzUWpacFdHOTRjejA9/45557
 #EXTINF:-1 tvg-id="FX Espanol",FX LA
 http://170.254.18.106/FX/index.m3u
+#EXTINF:-1 tvg-id="f2x",FXX
+185.243.7.136:8080/live/play/TjBGak4zRjFPRGR0TWs1WU1XSXZXREJ6VG00cmRFZ3dhV04xYldOYVVtOVNhbkIyWXpabGFVVnJORDA9/45449
 #EXTINF:-1 tvg-id="HBOfam",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="boom-ca",Boomerang Canada
+http://85.92.112.51:8080/live/play/UzJSaGNrY3hibFJ5ZUhoT1UzTkJlSFJGT1ZOTlNucHJTeXMyWm1oT1JVcE1ZVGRpUWpKRGVuQnVTVDA9/177332
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
+#EXTINF:-1 tvg-id="dabble",Dabl
+http://185.243.7.136:8080/live/play/UWxkSFlVUTBNVVVyTTJWWFZIUkNhbGxxY1ZVek0wWk5TVmgzVkRCVE16bHdZbEl4V25sS1NYbHJTVDA9/1139730
 #EXTINF:-1 tvg-id="V",VH1
 http://170.254.18.106/VH1/index.m3u8
+#EXTINF:-1 tvg-id="fx-2",FXM
+http://185.243.7.136:8080/live/play/VWtoNU1ITkpNRmN5WkN0dmNqUnJhbTU1VUcwcldGZFpjM014Y2pWUFJYSk5PRUl2ZVd4UVNUZGhiejA9/45450
+#EXTINF:-1 tvg-id="tn",TeenNick
+http://lb38.fortv.cc:25461/N0QaDD/625713/140004?token=ThFcUhFaQQwRBgZRBgEOUFdRB1MEDVMCUFUFVlwKUgtTVlAFVwRRDwoQHkdBQURQV1g7WFQWCgNXUlMDDR8RR0ZWRmwLVkEMEQoBUwEHFBkUQQ1cVRYKA1RTUQEIAAcCBB8WQwtWQQwRBwZcCgIUGRRQHEVVRl5TDz0HVk9aUFcXCVpGDl5PFFxcbQFXWFdbUhdeEwAWHBAKERMRA11GXlkfFlELRhFXR1cQXxAGAgwBF0gTU1tFXBcQGhEDEWZhFx8WVhpGBlhAW10LEA8UQUUXSBNZR29ABhEXQVxSXldHEQ4RUhBPFF5TSjpRWlhbU1YQWF9aQxBZQFIDGx8RX1pdXUcNQDxGWlYQXxAGBQQDBEZM
+#EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
+http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="truTVLatinAmerica.us",TruTV LA
 http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us",Cartoonito LA
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.es",Baby TV LA
 http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1 tvg-id="effects",FX
+http://185.243.7.136:8080/live/play/VG04MVZrMVVVVGQ2ZUhJMVJVeG9SMlpCTUd4R2FubEdXWEl4U25SVFZrbDJSbGxsWVhCeE0wdDRORDA9/45451
 #EXTINF:-1 tvg-id="unitl",Universal TV LA
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="nbu",NBC Universo
