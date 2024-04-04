@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg id="Discovery Kids"
+#EXTINF:-1 tvg id="Discovery Kids",Discovery Kids Guatemala
 http://138.59.177.34:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-id="Canal 5 Mexico"
+#EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5 CDMX
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Tooncast"
+#EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
-#EXTINF:-1 tvg-id="De Película"
+#EXTINF:-1 tvg-id="De Película",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="De Película Plus"
+#EXTINF:-1 tvg-id="De Película Plus",De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS New York WNET"
+#EXTINF:-1 tvg-id="PBS New York WNET",PBS WNET New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
-#EXTINF:-1 tvg-id="Boing"
+#EXTINF:-1 tvg-id="Boing.es",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Clan TVE Internacional"
+#EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-id="Distrito Comedia"
+#EXTINF:-1 tvg-id="Distrito Comedia",Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="24h TVE"
+#EXTINF:-1 tvg-id="24h TVE",24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-id="Disney Channel Spain"
+#EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel Espana
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="POP Max"
+#EXTINF:-1 tvg-id="POP Max",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="CBeebies Asia"
+#EXTINF:-1 tvg-id="CBeebies Asia",CBeebies Asia
 http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
@@ -45,13 +45,13 @@ https://dai.google.com/linear/hls/pa/event/1kItNgwtQUe54NjjBiiTGg/stream/e809407
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="",Cartoon Network Español
+#EXTINF:-1 tvg-id="CNes",Cartoon Network Español
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1 tvg-id="",Nickelodeon LA
+#EXTINF:-1 tvg-id="NickLA",Nickelodeon LA
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="",MTV LA Español
+#EXTINF:-1 tvg-id="mtvLA",MTV LA Español
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us",Telemundo US
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
@@ -61,17 +61,17 @@ https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/l
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="GalavisionEast.us",Galavisión East
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)
+#EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East
 http://170.254.18.106/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="TBSEast.us",TBS East (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TBSEast.us",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT East"
+#EXTINF:-1 tvg-id="TNT East", RNR
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="",A&E LA
+#EXTINF:-1 tvg-id="AEla",A&E LA
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
@@ -79,23 +79,23 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt",Guatevision
 http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
-#EXTINF:-1 tvg-id="",TNT Sports HD
+#EXTINF:-1 tvg-id="tsHD",TNT Sports HD
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar",TyC Sports
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-id="BET"
+#EXTINF:-1 tvg-id="BET",BET
 http://170.254.18.106/BET/index.m3u8
-#EXTINF:-1 tvg-id="FX Espanol"
+#EXTINF:-1 tvg-id="FX Espanol",FX LA
 http://170.254.18.106/FX/index.m3u
-#EXTINF:-1 tvg-id="",HBO Family
+#EXTINF:-1 tvg-id="HBOfam",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Comedy Central"
+#EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="MTV"
+#EXTINF:-1 tvg-id="MTV",MTV
 http://170.254.18.106/MTV/index.m3u8
-#EXTINF:-1 tvg-id="VH1"
+#EXTINF:-1 tvg-id="VH1",VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="truTVLatinAmerica.us",TruTV LA
 http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
@@ -103,9 +103,9 @@ http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.es",Baby TV LA
 http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
-#EXTINF:-1 tvg-id="",Universal TV LA
+#EXTINF:-1 tvg-id="unitl",Universal TV LA
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBC Universo
+#EXTINF:-1 tvg-id="nbu",NBC Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 #EXTINF:-1 tvg-id="Pasiones.us",Pasiones
 http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
@@ -113,13 +113,11 @@ http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrenEspanol.us",Nick Jr LA
 http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
-#EXTINF:-1 tvg-id="",Paramount Network LA
+#EXTINF:-1 tvg-id="paramountnetla",Paramount Network LA
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-id="IFCEast.us",IFC East
-https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="",USA Network LA
+#EXTINF:-1 tvg-id="usnetla",USA Network LA
 http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
