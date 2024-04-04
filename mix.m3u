@@ -12,13 +12,15 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS WNET New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="Boing.es",Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
+#EXTINF:-1 tvg-id="tdp-tve",Teledeporte
+http://live1.jellytogether.com:34400/stream/615bee976c8f84e517c6bcc94c37b0ed
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="24h TVE",24h
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+http://live1.jellytogether.com:34400/stream/455e1693531a8dc78ebd71c7e09a9f4a
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel Espana
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
