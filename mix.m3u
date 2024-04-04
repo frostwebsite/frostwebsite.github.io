@@ -27,6 +27,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv-ca",YTV
 http://iptvtree.net:8080/AmirBilali/76448035/9199
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
@@ -37,6 +39,10 @@ https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co",RCN Novelas
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co",Canal RCN
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-id="CNes",Cartoon Network LA
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-id="NickLA",Nickelodeon LA
@@ -45,6 +51,10 @@ http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvLA",MTV LA
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
+#EXTINF:-1 tvg-id="",National Geographic
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us",HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us",Telemundo US
