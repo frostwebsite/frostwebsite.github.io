@@ -113,14 +113,8 @@ http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 http://85.92.112.51:8080/live/play/UzJSaGNrY3hibFJ5ZUhoT1UzTkJlSFJGT1ZOTlNucHJTeXMyWm1oT1JVcE1ZVGRpUWpKRGVuQnVTVDA9/177332
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
-#EXTINF:-1 tvg-id="dabble",Dabl
-http://185.243.7.136:8080/live/play/UWxkSFlVUTBNVVVyTTJWWFZIUkNhbGxxY1ZVek0wWk5TVmgzVkRCVE16bHdZbEl4V25sS1NYbHJTVDA9/1139730
 #EXTINF:-1 tvg-id="V",VH1
 http://170.254.18.106/VH1/index.m3u8
-#EXTINF:-1 tvg-id="fx-2",FXM
-http://185.243.7.136:8080/live/play/VWtoNU1ITkpNRmN5WkN0dmNqUnJhbTU1VUcwcldGZFpjM014Y2pWUFJYSk5PRUl2ZVd4UVNUZGhiejA9/45450
-#EXTINF:-1 tvg-id="tn",TeenNick
-http://lb38.fortv.cc:25461/N0QaDD/625713/140004?token=ThFcUhFaQQwRBgZRBgEOUFdRB1MEDVMCUFUFVlwKUgtTVlAFVwRRDwoQHkdBQURQV1g7WFQWCgNXUlMDDR8RR0ZWRmwLVkEMEQoBUwEHFBkUQQ1cVRYKA1RTUQEIAAcCBB8WQwtWQQwRBwZcCgIUGRRQHEVVRl5TDz0HVk9aUFcXCVpGDl5PFFxcbQFXWFdbUhdeEwAWHBAKERMRA11GXlkfFlELRhFXR1cQXxAGAgwBF0gTU1tFXBcQGhEDEWZhFx8WVhpGBlhAW10LEA8UQUUXSBNZR29ABhEXQVxSXldHEQ4RUhBPFF5TSjpRWlhbU1YQWF9aQxBZQFIDGx8RX1pdXUcNQDxGWlYQXxAGBQQDBEZM
 #EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="truTVLatinAmerica.us",TruTV LA
@@ -129,8 +123,6 @@ http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.es",Baby TV LA
 http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
-#EXTINF:-1 tvg-id="effects",FX
-http://185.243.7.136:8080/live/play/VG04MVZrMVVVVGQ2ZUhJMVJVeG9SMlpCTUd4R2FubEdXWEl4U25SVFZrbDJSbGxsWVhCeE0wdDRORDA9/45451
 #EXTINF:-1 tvg-id="unitl",Universal TV LA
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="nbu",NBC Universo
