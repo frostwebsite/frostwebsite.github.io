@@ -17,6 +17,8 @@ http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="History.mx",History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="24h TVE",24h
 http://live1.jellytogether.com:34400/stream/455e1693531a8dc78ebd71c7e09a9f4a
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel Espana
