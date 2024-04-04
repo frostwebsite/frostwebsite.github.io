@@ -43,6 +43,8 @@ http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvLA",MTV LA
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us",Telemundo US
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u
 #EXTINF:-1 tvg-id="disn-us",Disney Channel
@@ -55,6 +57,14 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJBwdQAFEBAQMEBgEHA1sHAwBWBV8IUwBQBQdUVQAaShpGQUQDVlVuXFUXAwQEVQ4FHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkReCAACQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUB1EEWBUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1cBWQAUGQ==
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East
 http://170.254.18.106/AMC/mono.m3u8
+#EXTINF:-1 tvg-id="fs2.es",Fox Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us",Sony Movies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 tvg-id="sony1",Sony Channel
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1 tvg-id="nickmtv",Nick Music
+http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="boom",Boomerang
 http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
