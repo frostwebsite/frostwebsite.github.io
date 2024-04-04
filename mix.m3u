@@ -13,8 +13,6 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="Boing.es",Boing
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
-#EXTINF:-1 tvg-id="Banda",Bandamax
-http://45.228.234.77:4430/play/bandamax/index.m3u8
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
@@ -29,6 +27,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="hgtv.us",HGTV
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1350074&extension=ts&play_token=3uhEwOXcZt
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv-ca",YTV
