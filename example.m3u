@@ -85,7 +85,7 @@ http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-id="BET",BET
+#EXTINF:-1 tvg-id="BET-english",BET
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="FX Espanol",FX LA
 http://170.254.18.106/FX/index.m3u
@@ -93,9 +93,9 @@ http://170.254.18.106/FX/index.m3u
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="MTV",MTV
+#EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
-#EXTINF:-1 tvg-id="VH1",VH1
+#EXTINF:-1 tvg-id="V",VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="truTVLatinAmerica.us",TruTV LA
 http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
