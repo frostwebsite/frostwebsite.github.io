@@ -25,14 +25,14 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="CBA",CBeebies Asia
 http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
-EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.html
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCMESydney.au",ABC Me
-https://c.mjh.nz/abc-me.m3u8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1712209092~exp=1712209992~acl=/*~hmac=197a4b5f8f7de8eae50f0f2671387e017ecda6d40497174e6d7425ce6bafd041
 #EXTINF:-1 tvg-id="9GoSydney.au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="9LifeSydney.au",9Life
@@ -127,5 +127,5 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="POP UK Rakuten",POP UK Rakuten
+#EXTINF:-1 tvg-id="Pop-u-r",POP UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
