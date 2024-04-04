@@ -1,4 +1,19 @@
 #EXTM3U
-
-#EXTINF:-1, Discovery Kids
+#EXTINF:-1 tvg id="Discovery Kids"
 http://138.59.177.34:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="Canal 5 Mexico"
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Tooncast"
+http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
+#EXTINF:-1 tvg-id="De Película"
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="De Película Plus"
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS New York WNET"
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="Boing"
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Clan TVE Internacional"
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-id="Distrito Comedia"
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
