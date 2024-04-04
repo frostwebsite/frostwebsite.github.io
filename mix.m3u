@@ -13,8 +13,6 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="Boing.es",Boing
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
-#EXTINF:-1 tvg-id="tdp-tve",Teledeporte
-http://live1.jellytogether.com:34400/stream/615bee976c8f84e517c6bcc94c37b0ed
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
@@ -29,20 +27,12 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv-ca",YTV
 http://iptvtree.net:8080/AmirBilali/76448035/9199
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America
-https://channel01.akamaized.net/hls/live/2022749/event01/index.html
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCMESydney.au",ABC Me
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1712209092~exp=1712209992~acl=/*~hmac=197a4b5f8f7de8eae50f0f2671387e017ecda6d40497174e6d7425ce6bafd041
 #EXTINF:-1 tvg-id="9GoSydney.au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="9LifeSydney.au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-id="ABCTVSA.au",ABC TV Adelaide
-https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-id="WFXTDT1.us",Fox 25 Boston (WFXT-TV)
-https://dai.google.com/linear/hls/pa/event/1kItNgwtQUe54NjjBiiTGg/stream/e8094076-4743-4d08-aeee-516fec5ca5f9:MRN2/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="CNes",Cartoon Network LA
@@ -54,17 +44,13 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvLA",MTV LA
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us",Telemundo US
-http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 tvg-id="disn_arg",Disney Channel Argentina
-http://181.191.140.241:9981/stream/channelid/410488522?profile=pass
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u
 #EXTINF:-1 tvg-id="disn-us",Disney Channel
 http://93.174.93.237:25461/live/242306/210404/21795.m3u8?token=ShRZAEYJFQxGCQBbU1MCBwENB1MFVl8HUFFVBQcBUQUADgEHVFMPD1EaShpGQUQDVlVuXFUXAwQEVQ4CHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRVAQMEQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUA1gGVhUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1ICWAYARkU=
 #EXTINF:-1 tvg-id="disn_xd",Disney XD
 http://93.174.93.237:25461/live/242306/210404/21801.m3u8?token=ShRZAEYJFQxGAAIKAA0DV1JcVw0HV1pTU1cAUgNQBFBXBwNVVgJVAgIaShpGQUQDVlVuXFUXAwQEWgcGHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAgcIVxdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1ACVQQUSBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MBUgYEXRob
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="nickjr.us",Nick Jr.
-http://lb38.fortv.cc:25461/N0QaDD/625713/9807?token=ThFcUhFaQQwRBldQBwRQBQAABVVVVQNWUgECUAFXUAMMAldVWlRSUgAQHkdBQURQV1g7WFQWCgtbUlQfG0ZAV0dsXVdACEEOAAQBVxAZFEFfWAETCgUHA1FQUgANCgUeF0NdV0AIQQcEAABREBkUUE5BAUNeVVxtBwcVWlpWEQhbRlhfThAMWGxWVwhTW1IXDBdUExwWWUETQFldTF9fHhdRXUcQUxdTEQgQVgINAxcaFwdeRVpEQBpAWRFsYBEeF1ZMRwdcEF9cXBBfEEFFFxoXDUJvRlVBFxAGUlRWQRAPEQQRThAOV0ttUQpcW1NWQlwLX0MWChBSUkEfG15cXFxHW0E9QgpSEQgQVgADBwwUSA==
 #EXTINF:-1 tvg-id="cn-as-ti",Cartoon Network
 http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJBwdQAFEBAQMEBgEHA1sHAwBWBV8IUwBQBQdUVQAaShpGQUQDVlVuXFUXAwQEVQ4FHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkReCAACQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUB1EEWBUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1cBWQAUGQ==
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East
@@ -91,34 +77,22 @@ http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar",TyC Sports
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us",HBO
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us",HBO LA
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-id="lol",Laff
-185.245.0.208:8080/live/play/TVZkWE5YcHBXV2s1UTFaa2VqRTFPVTVXVTNGMVdtVlZjbkZ4Y1hGU1NsUjNUR1ZPYlZoak9WRmpkejA9/793363
-#EXTINF:-1 tvg-id="cozi",COZI TV
-http://46.151.196.180/live/play/ZG1oS2FDdFFLM0Z6U2s1b2NURkJaMjVxZUVSUmFHeFlVVGxWYWs1eWEzQlBkMWhpU1UwNE5EbGhUVDA9/45590
 #EXTINF:-1 tvg-id="BET-english",BET
 http://170.254.18.106/BET/index.m3u8
-#EXTINF:-1 tvg-id="ff",Freeform
-http://46.151.196.180/live/play/YkM5TmRuQTFhWHBKYVUxRlRtMUNOakZSYjBSTGRuRkNWa0l3YjBwbFZVMHpkVzVzUWpacFdHOTRjejA9/45557
 #EXTINF:-1 tvg-id="FX Espanol",FX LA
 http://170.254.18.106/FX/index.m3u
-#EXTINF:-1 tvg-id="f2x",FXX
-185.243.7.136:8080/live/play/TjBGak4zRjFPRGR0TWs1WU1XSXZXREJ6VG00cmRFZ3dhV04xYldOYVVtOVNhbkIyWXpabGFVVnJORDA9/45449
 #EXTINF:-1 tvg-id="HBOfam",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="boom-ca",Boomerang Canada
-http://85.92.112.51:8080/live/play/UzJSaGNrY3hibFJ5ZUhoT1UzTkJlSFJGT1ZOTlNucHJTeXMyWm1oT1JVcE1ZVGRpUWpKRGVuQnVTVDA9/177332
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="V",VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
-#EXTINF:-1 tvg-id="truTVLatinAmerica.us",TruTV LA
-http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us",Cartoonito LA
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.es",Baby TV LA
