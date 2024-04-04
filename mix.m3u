@@ -13,6 +13,8 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS WNET New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="cb-uk",CBeebies
+http://81.137.213.119:4200/bysid/4672
 #EXTINF:-1 tvg-id="Boing.es",Boing
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
