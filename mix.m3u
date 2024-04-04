@@ -79,6 +79,8 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJBwdQAFEBAQMEBgEHA1sHAwBWBV8IUwBQBQdUVQAaShpGQUQDVlVuXFUXAwQEVQ4FHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkReCAACQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUB1EEWBUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1cBWQAUGQ==
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East
 http://170.254.18.106/AMC/mono.m3u8
+#EXTINF:-1 tvg-id="challenge",Challenge UK
+https://dpjhjf99gqyr4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvzenqyvh6pyy/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="fs2.es",Fox Sports 2
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us",Sony Movies
