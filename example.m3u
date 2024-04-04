@@ -23,7 +23,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="POP Max",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="CBeebies Asia",CBeebies Asia
+#EXTINF:-1 tvg-id="CBA",CBeebies Asia
 http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
@@ -51,7 +51,7 @@ http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="mtvLA",MTV LA Español
+#EXTINF:-1 tvg-id="mtvLA",MTV LA
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us",Telemundo US
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
@@ -69,7 +69,7 @@ http://170.254.18.106/AMC/mono.m3u8
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="TBSEast.us",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT East", RNR
+#EXTINF:-1 tvg-id="TNT East",TMT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="AEla",A&E LA
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
@@ -127,5 +127,5 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="POP UK Rakuten"
+#EXTINF:-1 tvg-id="POP UK Rakuten",POP UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
