@@ -4,17 +4,13 @@ http://138.59.177.34:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5 CDMX
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1 tvg-id="TooncastEng",Tooncast English
-http://89.187.181.148/live/play/WkZsR1FVWkJiMkV2TmxSdlpqUXhORTVNUjB0RlNtRkRWamxVVUhaWk9UUjNTM2hQU0RZeVFUbENSVDA9/533761
+http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
 #EXTINF:-1 tvg-id="De Película",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="De Película Plus",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS WNET New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
-#EXTINF:-1 tvg-id="cb-uk",CBeebies
-http://81.137.213.119:4200/bysid/4672
 #EXTINF:-1 tvg-id="Boing.es",Boing
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
@@ -63,14 +59,12 @@ http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvLA",MTV LA
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
-#EXTINF:-1 tvg-id="",National Geographic
+#EXTINF:-1 tvg-id="",National Geographic LA
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us",HBO2
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us",HBO2 LA
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoEast.us",Telemundo US
-http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u
 #EXTINF:-1 tvg-id="disn-us",Disney Channel
 http://93.174.93.237:25461/live/242306/210404/21795.m3u8?token=ShRZAEYJFQxGCQBbU1MCBwENB1MFVl8HUFFVBQcBUQUADgEHVFMPD1EaShpGQUQDVlVuXFUXAwQEVQ4CHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRVAQMEQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUA1gGVhUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1ICWAYARkU=
 #EXTINF:-1 tvg-id="disn_xd",Disney XD
