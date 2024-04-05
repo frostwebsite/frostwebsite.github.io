@@ -15,8 +15,6 @@ https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
 #EXTINF:-1 tvg-id="cnasia",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="sunshine",Sunshine Network (Not 24/7)
-https://twitch.tv/sunshinetvnetwork
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan TVE España
@@ -87,11 +85,11 @@ http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/291073
 http://95.222.162.245:9981/stream/channelid/1159199871?profile=pass
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
-#EXTINF:-1 tvg-id="9GoSydney.au",9Go!
+#EXTINF:-1 tvg-id="9GoSydney.au",9Go! (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="bbc2",BBC Two
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=30580&extension=ts&play_token=nFSwHS08ya
-#EXTINF:-1 tvg-id="9LifeSydney.au",9Life
+#EXTINF:-1 tvg-id="9LifeSydney.au",9Life (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
