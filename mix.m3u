@@ -4,8 +4,6 @@ http://138.59.177.34:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5 CDMX
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
-http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
-#EXTINF:-1 tvg-id="Tooncast2",Tooncast (Backup Feed)
 https://oneb.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/48?token=QhRRBEJaQAxBA18GWlJTBwIMAAsCBAMBWlUABFRdUl1cAAlSUFdQBQBHShBLQkQGAFVuWlQXCQMAGBNGRl1DOlBSG18TAUAaQREPX10UDFJWCQMBCAYDBw0YE0NcXBNfGwIIVggFVQVBSURXQEJTEQ9ZXWxUUEVeW1ETCVtNXQkVFFYLblYHWwILAhACFAZBTRpYQEAXCVlNWF0fF1pYEUtXTQATCEAEVlJQEBQUVQwUVkVBSRcJFW1nEx8XXUkRXFhKDF5cQAxBERUQFBRfED5KVEBER1ZWVVFDEQ8aAEcVFFQESW0BWQ0LA1FMX1kNEhoLEQAXHxVVW19aQVdDOklfXUcLEFAEUFNETw==
 #EXTINF:-1 tvg-id="De Película",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
