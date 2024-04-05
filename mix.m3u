@@ -39,10 +39,6 @@ https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1350074&extension=ts&play_token=3uhEwOXcZt
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1 tvg-id="US1",Univision NY
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/498
-#EXTINF:-1 tvg-id="aaa",Telemundo NY
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/486
 #EXTINF:-1 tvg-id="ytv-ca",YTV
 http://iptvtree.net:8080/AmirBilali/76448035/9199
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
@@ -67,6 +63,10 @@ http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 tvg-id="univision-ny",Univision NY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/498
+#EXTINF:-1 tvg-id="telem-ny",Telemundo NY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/486
 #EXTINF:-1 tvg-id="gala",Galavision
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/390
 #EXTINF:-1 tvg-id="mtvLA",MTV LA
