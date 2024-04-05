@@ -39,9 +39,9 @@ https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1350074&extension=ts&play_token=3uhEwOXcZt
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1 tvg-id="US1",UNIVISION NY
+#EXTINF:-1 tvg-id="US1",Univision NY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/498
-#EXTINF:-1 tvg-id=,"aaa",TELEMUNDO NY
+#EXTINF:-1 tvg-id="aaa",Telemundo NY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/486
 #EXTINF:-1 tvg-id="ytv-ca",YTV
 http://iptvtree.net:8080/AmirBilali/76448035/9199
@@ -57,10 +57,6 @@ https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co",RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#EXTINF:-1 tvg-id="cbsny",CBS New York
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/431
-#EXTINF:-1 tvg-id="abcny",ABC New York
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/426
 #EXTINF:-1 tvg-id="CanalRCN.co",Canal RCN
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-id="food",Food Network
