@@ -4,7 +4,7 @@ http://138.59.177.34:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5 CDMX
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
-http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1 tvg-id="De Película",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="De Película Plus",De Película Plus
@@ -25,10 +25,6 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="televisanueve",Nu9ve
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="discovery-fam.es",Discovery Familia
-https://twob.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/137?token=QhRRBEJaQAxBVgMBXQRQBVdeUANSBVYECQNVVQJdBAYPBQhXAgdQVwBHShBLQkQGAFVuWlQXCQYLAx0RQEtUF2ZfXUcLEFEUT0cSW1VTFFlQDwABAgAKDwEEHRFFUVVHAxQLUAQEWw9TR0oQXU5CBhNWUF9vUVZBUVdUEQ9WRAlVGhsKX20GUw4ECFYaDBRTQxQTWkNFEQ1WQV1fGRpTDE1EWBFUEFgUVlxVARoaFAAOTV9HQkwRDRphYhEZGlQdTVNXFlhdDBRZRxJBGhoUChJnQ1ZDQUFSWVlUQRcCE1QbGhsIUEo9VQwLCFdbQl8MD0sTCRIFERsaWV5dXExeF2ZGUAETCEAHUVNVCgAEFB4=
-#EXTINF:-1 tvg-id="nickmx",Nick Mexico
-https://twob.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/163?token=QhRRBEJaQAxBV1MBCVUFAFkJBwVUUQFWXQJTAgVeCVMNUFxcAwVTAAZHShBLQkQGAFVuWlQXCQYOBx0RQEtUF2ZfXUcLEFEUT0cSW1VTFFlQDwABAgAKDgoMHRFFUVVHAxQLUAQAVA5aR0oQXU5CBhNWUF9vUVZBUVdUEQ9WRAlVGhsKX20GUw4ECFYaDBRTQxQTWkNFEQ1WQV1fGRpTDE1EWBFUEFgUUlRSABoaFAAOTV9HQkwRDRphYhEZGlQdTVNXFlhdDBRZRxJBGhoUChJnQ1ZDQUFSWVlUQRcCE1QbGhsIUEo9VQwLCFdbQl8MD0sTCRIFERsaWV5dXExeF2ZGUAETCEAHUVNSAw0EFB4=
 #EXTINF:-1 tvg-id="24h TVE",24h
 http://live1.jellytogether.com:34400/stream/455e1693531a8dc78ebd71c7e09a9f4a
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel Espana
@@ -37,8 +33,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="tsl",Tigo Sports Latino
-https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="banda",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hgtv.us",HGTV
@@ -61,12 +55,10 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/435
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="tn23",TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="rmtv",Real Madrid TV
-https://linear-491.frequency.stream/mt/studio/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="beinxtra.es",BeIN Sports Xtra Español
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv-ca",YTV
-http://iptvtree.net:8080/AmirBilali/76448035/9199
+http://fortv.cc:8080/N0QaDD/625713/63850
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="p-luche",La Familia P. Luche 24/7
@@ -79,8 +71,6 @@ https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="nesnsports",NESN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/471
-#EXTINF:-1 tvg-id="teennick.es",TeenNick Espańa
-http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/291073
 #EXTINF:-1 tvg-id="itvbe",ITVBe
 http://95.222.162.245:9981/stream/channelid/1159199871?profile=pass
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
@@ -179,8 +169,6 @@ http://170.254.18.106/VH1/index.m3u8
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us",Cartoonito LA
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyTV.es",Baby TV LA
-http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="unitl",Universal TV LA
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="usanet.us",USA Network
