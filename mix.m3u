@@ -53,6 +53,8 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/435
 #EXTINF:-1 tvg-id="tlnovelas1",TLNovelas
 http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="tlsur",TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tn23",TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="beinxtra.es",BeIN Sports Xtra Español
@@ -61,6 +63,10 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 http://fortv.cc:8080/N0QaDD/625713/63850
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="megatv",MEGA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/54
+#EXTINF:-1 tvg-id="6ta",La Sexta
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="p-luche",La Familia P. Luche 24/7
 https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="unafamiliadediez",Una Familia de Diez 24/7
@@ -83,6 +89,8 @@ http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=30580&exte
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="nbcny",NBC New York
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/321
 #EXTINF:-1 tvg-id="RCNNovelas.co",RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co",Canal RCN
@@ -121,14 +129,28 @@ http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJB
 http://170.254.18.106/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="challenge",Challenge UK
 https://dpjhjf99gqyr4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvzenqyvh6pyy/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-id="fs2.es",Fox Sports 2
+#EXTINF:-1 tvg-id="fs2.es",Fox Sports 2 Espanol
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="goltves",GolTV Espanol
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/333
 #EXTINF:-1 tvg-id="SonyMovies.us",Sony Movies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-id="sony1",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="nickmtv",Nick Music
 http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1 tvg-id="syfy",SYFY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/400
+#EXTINF:-1 tvg-id="ff",Freeform
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/565
+#EXTINF:-1 tvg-id="fx2",FXM
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/572
+#EXTINF:-1 tvg-id="fxx",FXX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/582
+#EXTINF:-1 tvg-id"fx.us",FX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/878
+#EXTINF:-1 tvg-id="starzkidsfam",Starz Kids & Family
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/515
 #EXTINF:-1 tvg-id="boom",Boomerang
 http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
@@ -147,6 +169,12 @@ http://23.227.150.202:25461/Jennifer/Year!/39748?token=QxcKA0ZRRFsTAgELUgVQUFcCU
 http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt",Guatevision
 http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
+#EXTINF:-1 tvg-id="telem-int",Telemundo Internacional
+http://138.59.177.34:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id"teennickla",TeenNick LA
+http://138.59.177.34:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="animalplanet.la",Animal Planet LA
+http://138.59.177.34:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="tsHD",TNT Sports
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar",TyC Sports
