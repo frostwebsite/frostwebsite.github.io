@@ -168,6 +168,16 @@ http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id"teennickla",TeenNick LA
 http://138.59.177.34:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="cc-la",Comedy Central LA
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1 tvg-id="dreamworks",DreamWorks Channel LA
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery-hh",H&H
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+#EXTINF:-1 tvg-id="fs3",Fox Sports 3 Espanol
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery-turbo",Discovery Turbo
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1 tvg-id="animalplanet.la",Animal Planet LA
 http://138.59.177.34:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="tsHD",TNT Sports
