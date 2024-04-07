@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 #EXTINF:-1 tvg id="Discovery Kids",Discovery Kids Guatemala
 http://138.59.177.34:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5 CDMX
