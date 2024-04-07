@@ -74,8 +74,6 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 http://fortv.cc:8080/N0QaDD/625713/63850
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="megatv",MEGA
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/54
 #EXTINF:-1 tvg-id="6ta",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="p-luche",La Familia P. Luche 24/7
@@ -142,26 +140,12 @@ http://170.254.18.106/AMC/mono.m3u8
 https://dpjhjf99gqyr4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvzenqyvh6pyy/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="fs2.es",Fox Sports 2 Espanol
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-id="goltves",GolTV Espanol
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/333
 #EXTINF:-1 tvg-id="SonyMovies.us",Sony Movies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-id="sony1",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="nickmtv",Nick Music
 http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
-#EXTINF:-1 tvg-id="syfy",SYFY
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/400
-#EXTINF:-1 tvg-id="ff",Freeform
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/565
-#EXTINF:-1 tvg-id="fx2",FXM
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/572
-#EXTINF:-1 tvg-id="fxx",FXX
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/582
-#EXTINF:-1 tvg-id"fx.us",FX
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/878
-#EXTINF:-1 tvg-id="starzkidsfam",Starz Kids & Family
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/515
 #EXTINF:-1 tvg-id="boom",Boomerang
 http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
@@ -194,8 +178,6 @@ http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-id="BET-english",BET
 http://170.254.18.106/BET/index.m3u8
-#EXTINF:-1 tvg-id="FX Espanol",FX LA
-http://170.254.18.106/FX/index.m3u
 #EXTINF:-1 tvg-id="HBOfam",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
