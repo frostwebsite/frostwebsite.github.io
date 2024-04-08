@@ -48,12 +48,6 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
 #EXTINF:-1 tvg-id="hgtv.us",HGTV
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1350074&extension=ts&play_token=3uhEwOXcZt
-#EXTINF:-1 tvg-id="bbcamerica",BBC America
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/37.m3u8
-#EXTINF:-1 tvg-id="bravo.us",Bravo
-23.175.48.252:25461/live/televall/tm2CfUujSc/51.m3u8
-#EXTINF:-1 tvg-id="lifetime1",Lifetime
-23.175.48.252:25461/live/televall/tm2CfUujSc/132.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit1",Telehit
@@ -63,11 +57,11 @@ https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit3",Telehit Música Plus
 https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us",FOX Deportes
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/501
+http://45.90.105.74:25461/bud-1882009/1e621f3272/1510
 #EXTINF:-1 tvg-id="skysoccerlaliga",Sky Sports LaLiga
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us",ESPN Deportes
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/435
+http://45.90.105.74:25461/bud-1882009/1e621f3272/15453
 #EXTINF:-1 tvg-id="tlnovelas1",TLNovelas
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="tlsur",TeleSUR
