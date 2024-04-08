@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg id="Discovery Kids",Discovery Kids Guatemala
 http://138.59.177.34:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5 CDMX
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1 tvg-id="De Película",De Película
@@ -26,7 +26,7 @@ http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan TVE España
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="History.mx",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="televisanueve",Nu9ve
