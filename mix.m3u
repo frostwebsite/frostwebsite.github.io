@@ -101,7 +101,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/321
 #EXTINF:-1 tvg-id="RCNNovelas.co",RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co",Nuestra Tele Internacional
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-id="CNes",Cartoon Network Mexico
 http://181.78.105.146:2000/play/a03k/index.m3u8
@@ -117,13 +117,13 @@ http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
 http://138.59.177.34:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="disn-us",Disney Channel
+#EXTINF:-1 tvg-id="disn-us",Disney Channel .unstable
 http://93.174.93.237:25461/live/242306/210404/21795.m3u8?token=ShRZAEYJFQxGCQBbU1MCBwENB1MFVl8HUFFVBQcBUQUADgEHVFMPD1EaShpGQUQDVlVuXFUXAwQEVQ4CHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRVAQMEQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUA1gGVhUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1ICWAYARkU=
-#EXTINF:-1 tvg-id="disn_xd",Disney XD
+#EXTINF:-1 tvg-id="disn_xd",Disney XD .unstable
 http://93.174.93.237:25461/live/242306/210404/21801.m3u8?token=ShRZAEYJFQxGAAIKAA0DV1JcVw0HV1pTU1cAUgNQBFBXBwNVVgJVAgIaShpGQUQDVlVuXFUXAwQEWgcGHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAgcIVxdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1ACVQQUSBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MBUgYEXRob
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="cn-as-ti",Cartoon Network
+#EXTINF:-1 tvg-id="cn-as-ti",Cartoon Network .unstable
 http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJBwdQAFEBAQMEBgEHA1sHAwBWBV8IUwBQBQdUVQAaShpGQUQDVlVuXFUXAwQEVQ4FHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkReCAACQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUB1EEWBUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1cBWQAUGQ==
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East
 http://170.254.18.106/AMC/mono.m3u8
@@ -137,7 +137,7 @@ http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="nickmtv",Nick Music
 http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
-#EXTINF:-1 tvg-id="boom",Boomerang
+#EXTINF:-1 tvg-id="boom",Boomerang .broken
 http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
