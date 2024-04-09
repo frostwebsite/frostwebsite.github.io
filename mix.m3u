@@ -41,13 +41,14 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="aztecauno",Azteca Uno
 #EXTINF:-1 tvg-id="banda",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="skysportsfootball.uk",Sky Sports Soccer (Ingles)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
 #EXTINF:-1 tvg-id="hgtv.us",HGTV
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1350074&extension=ts&play_token=3uhEwOXcZt
+#EXTINF:-1 tvg-id="syfy.east",SYFY
+http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit1",Telehit
@@ -84,8 +85,6 @@ https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="vecinos",Vecinos 24/7
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="nesnsports",NESN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/471
 #EXTINF:-1 tvg-id="itvbe",ITVBe
 http://95.222.162.245:9981/stream/channelid/1159199871?profile=pass
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
@@ -104,28 +103,20 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/321
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co",Canal RCN
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1 tvg-id="food",Food Network
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/384
-#EXTINF:-1 tvg-id="CNes",Cartoon Network LA
-http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1 tvg-id="CNes",Cartoon Network Mexico
+http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="NickLA",Nickelodeon LA
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="univision-ny",Univision NY
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/498
-#EXTINF:-1 tvg-id="telem-ny",Telemundo NY
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/486
-#EXTINF:-1 tvg-id="gala",Galavision
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/390
 #EXTINF:-1 tvg-id="mtvLA",MTV LA
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
-#EXTINF:-1 tvg-id="",National Geographic LA
+#EXTINF:-1 tvg-id="natla",National Geographic LA
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us",HBO2 LA
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+http://138.59.177.34:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="disn-us",Disney Channel
 http://93.174.93.237:25461/live/242306/210404/21795.m3u8?token=ShRZAEYJFQxGCQBbU1MCBwENB1MFVl8HUFFVBQcBUQUADgEHVFMPD1EaShpGQUQDVlVuXFUXAwQEVQ4CHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRVAQMEQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUA1gGVhUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1ICWAYARkU=
 #EXTINF:-1 tvg-id="disn_xd",Disney XD
@@ -172,7 +163,7 @@ http://138.59.177.34:8000/play/a02x/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks",DreamWorks Channel LA
 http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
-#EXTINF:-1 tvg-id="discovery-hh",H&H
+#EXTINF:-1 tvg-id="discovery-hh",Discovery H&H
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1 tvg-id="fs3",Fox Sports 3 Espanol
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
@@ -207,13 +198,13 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/350
 #EXTINF:-1 tvg-id="cozi",COZI TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/351
 #EXTINF:-1 tvg-id="unimas.us",UniMas
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/353
+http://45.90.105.74:25461/bud-1882009/1e621f3272/51652
 #EXTINF:-1 tvg-id="nbu",NBC Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 #EXTINF:-1 tvg-id="Pasiones.us",Pasiones
 http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/341
+http://thevdm.xyz:25461/timmadden/timmad4765/44182
 #EXTINF:-1 tvg-id="WarnerTV.es",Warner TV
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrenEspanol.us",Nick Jr LA
