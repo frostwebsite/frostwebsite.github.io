@@ -4,7 +4,9 @@ http://138.59.177.34:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5 CDMX
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
-http://138.59.177.34:8000/play/a04x/index.m3u8
+http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
+#EXTINF:-1 tvg-id"tooncasteningles",Tooncast English
+http://line.iptveros.com/play/live.php?mac=00:1A:79:5E:35:3E&stream=533761&extension=ts&play_token=tbYCysMuyo
 #EXTINF:-1 tvg-id="De Película",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="De Película Plus",De Película Plus
@@ -25,6 +27,8 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
 #EXTINF:-1 tvg-id"telem-nj",Telemundo 47
 http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
+#EXTINF:-1 tvg-id"canal3",Canal 3
+http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan TVE España
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
