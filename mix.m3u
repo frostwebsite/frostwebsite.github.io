@@ -23,6 +23,8 @@ http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
 #EXTINF:-1 tvg-id="lados",La 2
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
+#EXTINF:-1 tvg-id"telem-nj",Telemundo 47
+http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan TVE España
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
