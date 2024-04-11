@@ -19,16 +19,24 @@ http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-id="tdp",Teledeporte
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/9082
+#EXTINF:-1 tvg-id="telemadrid1",Telemadrid
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/126
 #EXTINF:-1 tvg-id="fx-es",FX Español
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es",La 1
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
 #EXTINF:-1 tvg-id="lados",La 2
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
-#EXTINF:-1 tvg-id"telem-nj",Telemundo 47
+#EXTINF:-1 tvg-id="telem-nj",Telemundo 47
 http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
-#EXTINF:-1 tvg-id"canal3",Canal 3
+#EXTINF:-1 tvg-id="canal3",Canal 3
 http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
+#EXTINF:-1 tvg-id="cinelatino",Cine Latino
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/89723
+#EXTINF:-1 tvg-id="discofam",Discovery Familia
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/97
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan TVE España
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
