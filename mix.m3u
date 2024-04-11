@@ -29,6 +29,8 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
 http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
 #EXTINF:-1 tvg-id="canal3",Canal 3
 http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
+#EXTINF:-1 tvg-id="19.sv",Canal 19 El Salvador
+http://stream.flynetwifi.com:1935/live/mobile-050/playlist.m3u8
 #EXTINF:-1 tvg-id="cinelatino",Cine Latino
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/89723
 #EXTINF:-1 tvg-id="discofam",Discovery Familia
@@ -40,8 +42,9 @@ http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="History.mx",History Espanol
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="history2",History 2 Espanol
-#EXTINF:-1 tvg-id="televisanueve",Nu9ve
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="ivc",IVC
+http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
 #EXTINF:-1 tvg-id="24h TVE",24h
 http://live1.jellytogether.com:34400/stream/455e1693531a8dc78ebd71c7e09a9f4a
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel Espana
@@ -50,6 +53,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="cn.us",Cartoon Network
+http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJBwdQAFEBAQMEBgEHA1sHAwBWBV8IUwBQBQdUVQAaShpGQUQDVlVuXFUXAwQEVQ4FHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkReCAACQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUB1EEWBUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1cBWQAUGQ==
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="skysportsfootball.uk",Sky Sports Soccer (Ingles)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
 #EXTINF:-1 tvg-id="hgtv.us",HGTV
