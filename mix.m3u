@@ -46,7 +46,7 @@ http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="ivc",IVC
 http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
 #EXTINF:-1 tvg-id="24h TVE",24h
-http://live1.jellytogether.com:34400/stream/455e1693531a8dc78ebd71c7e09a9f4a
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel Espana
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="beinsports.es1",BeIN Sports Espanol
@@ -64,6 +64,30 @@ http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30991
 #EXTINF:-1 tvg-id="cncanada",Cartoon Network Canada
 http://fortv.cc:8080/N0QaDD/625713/57356
+#EXTINF:-1 tvg-id="5.uk",Channel 5 UK
+https://helpfulpost.net/channel5/tracks-v1a1/mono.m3u8?token=44f2d09a2c140345071d7bd8e5b180b3877a0b88-492496a91c18414fb5c9cdbb566bd8d7-1712819191-1712808391
+#EXTINF:-1 tvg-id="bbc1",BBC One
+https://helpfulpost.net/bbcone/tracks-v1a1/mono.m3u8?token=5a9160bde0dc32bae2634e22113e0cfcb39de9bb-211bc67896a33b5baf12fa5a968dc392-1712819571-1712808771
+#EXTINF:-1 tvg-id="bbc3",BBC Three
+https://helpfulpost.net/bbcthree/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bbc4",BBC Four
+https://helpfulpost.net/bbcfour/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="itv1",ITV1
+https://helpfulpost.net/itv1/index.m3u8?token=41238511bbee398414f5db8df26979a63e220280-11b7e41bb2e29d5a67a6bf184e35afb8-1712820872-1712810072
+#EXTINF:-1 tvg-id="itv2",ITV2
+https://helpfulpost.net/itv2/tracks-v1a1/mono.m3u8?token=94c1c5bd64114d355d68df70259537570f1b428d-30cde55cd3609aded90d1520d060bcc1-1712820972-1712810172
+#EXTINF:-1 tvg-id="itv3",ITV3
+https://helpfulpost.net/itv3/tracks-v1a1/mono.m3u8?token=c325910273bdb059fb1454b722e320b211fe0d69-289ac328f395e828de1d6197e5afaa27-1712819573-1712808773
+#EXTINF:-1 tvg-id="dave",Dave UK
+https://helpfulpost.net/dave/tracks-v1a1/mono.m3u8?token=c553ad7c648c1b42c80b44f32508b5b1557cd450-0861a4fddfa9932b12714199b2e345c1-1712819299-1712808499
+#EXTINF:-1 tvg-id="E4.uk",E4 UK
+https://helpfulpost.net/e4/tracks-v1a1/mono.m3u8?token=c67ef85e633333961db8ddb0401b0c0b8b96495b-0b57e64da8dae3f8415db8929df0cb02-1712820976-1712810176
+#EXTINF:-1 tvg-id="more4",More4 UK
+https://helpfulpost.net/more4/tracks-v1a1/mono.m3u8?token=b2989c8ba57706394154ab2bbe80101345784c1c-a7e215b4cb971614f65dfe8070ee9bf9-1712821332-1712810532
+#EXTINF:-1 tvg-id="news12",News12 New York
+https://lnc-news12.tubi.video/primary/2.m3u8
+#EXTINF:-1 tvg-id="pbskids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="nickcanada",Nick Canada
 http://supersonictv.live:8080/952499/321158/21972
 #EXTINF:-1 tvg-id="cnito.asia",Cartoonito Asia
@@ -107,7 +131,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
 #EXTINF:-1 tvg-id="9GoSydney.au",9Go! (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="bbc2",BBC Two
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=30580&extension=ts&play_token=nFSwHS08ya
+https://helpfulpost.net/bbctwo/tracks-v1a1/mono.m3u8?token=915f02bc2a1edd73f59c88c54df93856ba50fd9b-4ecc99d22eb9f0b37500dc31cbde1e61-1712821338-1712810538
 #EXTINF:-1 tvg-id="9LifeSydney.au",9Life (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
