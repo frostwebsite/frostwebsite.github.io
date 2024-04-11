@@ -105,16 +105,8 @@ https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 http://95.222.162.245:9981/stream/channelid/1159199871?profile=pass
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
-#EXTINF:-1 tvg-id="universalkids.us",Universal Kids
-https://v3.thetvapp.to/hls/UniversalKidsEast_high.m3u8?token=oO-xU5v_cwcvA7nhHDRtwA&expires=1712834404
-#EXTINF:-1 tvg-id="cw.ny",The CW NY
-https://v3.thetvapp.to/hls/WPIX_high.m3u8?token=4HT12UoELT-lupt7s2q50w&expires=1712834461
-#EXTINF:-1 tvg-id="ION",ION East
-https://v3.thetvapp.to/hls/IONTVEast_high.m3u8?token=Nq5uqFy-2wbg3F_Yn-RrcA&expires=1712834286
 #EXTINF:-1 tvg-id="9GoSydney.au",9Go! (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-id="bbc2",BBC Two
-https://helpfulpost.net/bbctwo/tracks-v1a1/mono.m3u8?token=915f02bc2a1edd73f59c88c54df93856ba50fd9b-4ecc99d22eb9f0b37500dc31cbde1e61-1712821338-1712810538
 #EXTINF:-1 tvg-id="9LifeSydney.au",9Life (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
@@ -211,10 +203,6 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="unitl",Universal TV LA
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
-#EXTINF:-1 tvg-id="usanet.us",USA Network
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/350
-#EXTINF:-1 tvg-id="cozi",COZI TV
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/351
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 http://45.90.105.74:25461/bud-1882009/1e621f3272/51652
 #EXTINF:-1 tvg-id="nbu",NBC Universo
