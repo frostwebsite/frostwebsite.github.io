@@ -64,6 +64,10 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1350074&extension=ts&play_token=3uhEwOXcZt
 #EXTINF:-1 tvg-id="syfy.east",SYFY
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
+#EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
+http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
+#EXTINF:-1 tvg-id="disneyxd.east",Disney XD
+http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30991
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit1",Telehit
@@ -148,7 +152,7 @@ http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="nickmtv",Nick Music
 http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
-#EXTINF:-1 tvg-id="boom",Boomerang .broken
+#EXTINF:-1 tvg-id="boom",Boomerang
 http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
