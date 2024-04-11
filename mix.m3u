@@ -53,9 +53,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="cn.us",Cartoon Network
-http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJBwdQAFEBAQMEBgEHA1sHAwBWBV8IUwBQBQdUVQAaShpGQUQDVlVuXFUXAwQEVQ4FHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkReCAACQxlDUk4QXRRWVFlpAlJOWFZUFwNYQA5bGxNbCDlVU1wAWwUVDEYJRBQXXEUWFQJfQF1ZFRRXC0NFUEADRAsUB1EEWBUaRlsJTVtBRB8VAhNgYhcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQ0TGRNYVlhcFlhFbkQPAhMME1cBWQAUGQ==
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1350074&extension=ts&play_token=3uhEwOXcZt
 #EXTINF:-1 tvg-id="syfy.east",SYFY
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
 #EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
@@ -128,6 +125,12 @@ https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 http://95.222.162.245:9981/stream/channelid/1159199871?profile=pass
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
+#EXTINF:-1 tvg-id="universalkids.us",Universal Kids
+https://v3.thetvapp.to/hls/UniversalKidsEast_high.m3u8?token=oO-xU5v_cwcvA7nhHDRtwA&expires=1712834404
+#EXTINF:-1 tvg-id="cw.ny",The CW NY
+https://v3.thetvapp.to/hls/WPIX_high.m3u8?token=4HT12UoELT-lupt7s2q50w&expires=1712834461
+#EXTINF:-1 tvg-id="ION",ION East
+https://v3.thetvapp.to/hls/IONTVEast_high.m3u8?token=Nq5uqFy-2wbg3F_Yn-RrcA&expires=1712834286
 #EXTINF:-1 tvg-id="9GoSydney.au",9Go! (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="bbc2",BBC Two
