@@ -7,11 +7,7 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
 #EXTINF:-1 tvg-id"tooncasteningles",Tooncast English
 http://line.iptveros.com/play/live.php?mac=00:1A:79:5E:35:3E&stream=533761&extension=ts&play_token=tbYCysMuyo
-#EXTINF:-1 tvg-id="De Película",De Película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="De Película Plus",De Película Plus
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS New York WNET",PBS WNET New York
+#EXTINF:-1 tvg-id="PBS New York WNET",PBS New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="Boing.es",Boing
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
