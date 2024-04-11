@@ -54,10 +54,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="banda",Bandamax
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="skysportsfootball.uk",Sky Sports Soccer (Ingles)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
 #EXTINF:-1 tvg-id="hgtv.us",HGTV
@@ -68,14 +64,16 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
 #EXTINF:-1 tvg-id="disneyxd.east",Disney XD
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30991
+#EXTINF:-1 tvg-id="cncanada",Cartoon Network Canada
+http://fortv.cc:8080/N0QaDD/625713/57356
+#EXTINF:-1 tvg-id="nickcanada",Nick Canada
+http://supersonictv.live:8080/952499/321158/21972
+#EXTINF:-1 tvg-id="cnito.asia",Cartoonito Asia
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="CBeebies.southafrica",CBeebies South Africa
+http://myteve.online:8080/stadnik2/7082341272/297385
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1 tvg-id="telehit1",Telehit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="telehit2",Telehit Música
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="telehit3",Telehit Música Plus
-https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us",FOX Deportes
 http://45.90.105.74:25461/bud-1882009/1e621f3272/1510
 #EXTINF:-1 tvg-id="skysoccerlaliga",Sky Sports LaLiga
