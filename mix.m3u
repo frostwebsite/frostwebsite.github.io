@@ -59,14 +59,14 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
 #EXTINF:-1 tvg-id="disneyxd.east",Disney XD
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30991
+#EXTINF:-1 tvg-id="fxx.east",FXX
+http://fortv.cc:8080/N0QaDD/625713/46699
 #EXTINF:-1 tvg-id="cncanada",Cartoon Network Canada
 http://fortv.cc:8080/N0QaDD/625713/57356
 #EXTINF:-1 tvg-id="news12",News12 New York
 https://lnc-news12.tubi.video/primary/2.m3u8
 #EXTINF:-1 tvg-id="pbskids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="nickcanada",Nick Canada
-http://supersonictv.live:8080/952499/321158/21972
 #EXTINF:-1 tvg-id="cnito.asia",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CBeebies.southafrica",CBeebies South Africa
