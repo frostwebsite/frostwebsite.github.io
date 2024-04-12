@@ -25,6 +25,8 @@ http://fortv.cc:8080/N0QaDD/625713/120749
 http://fortv.cc:8080/N0QaDD/625713/121139
 #EXTINF:-1 tvg-id="Boing.es",Boing
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
+#EXTINF:-1 tvg-id="univ",Univision 41
+http://fortv.cc:8080/N0QaDD/625713/15336
 #EXTINF:-1 tvg-id="cnasia",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Clan TVE Internacional",Clan TVE Internacional
@@ -41,6 +43,8 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
 #EXTINF:-1 tvg-id="telem-nj",Telemundo 47
 http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
+#EXTINF:-1 tvg-id="e4.uk",E4 UK
+http://fortv.cc:8080/N0QaDD/625713/53672
 #EXTINF:-1 tvg-id="canal3",Canal 3
 http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
 #EXTINF:-1 tvg-id="19.sv",Canal 19 El Salvador
@@ -67,12 +71,20 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="cbbc",CBBC
-http://lb44.fortv.cc:25461/live/N0QaDD/625713/53720.m3u8?token=ThFcUhFaQQwRCwtRV1NXV1MNVgBRBgZRAVMCAQ8GUAMEAlIEUFBXBFAQHkdBQURQV1g7WFQWCgdQVVEDFRFGQVBBa1oGEFkUCwEEVgAXGhdCXAlUEg4AHkESClcbCREDBAsBAFAQTxRWSkYAQFtXWWlRAUdZV1UQWQwWX1UfEV1bbFBWD1MNUhEIEFUQGRRcRUVGC15BXF5PQAFaTUFSRlARDhFTClUDER4QBl1AWEFETEYLEmFjEE9ABktNVl1BXFxaEVgQDgVGChBJEFxFakRQF0VCUVFfBhBBCRsDER4XXlVLPVEMWF1XURFbWlhGFA9GAAAWHBAODQ1aTVxBbUVaUBFYEFIGCgYFR08=
 #EXTINF:-1 tvg-id="syfy.east",SYFY
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
 #EXTINF:-1 tvg-id="Freeform.east",Freeform
-http://lb27.fortv.cc:25461/live/N0QaDD/625713/13370.m3u8?token=ThFcUhFaQQwRAApRBVEGBFVXBlAAAAFWBQcHAgFQVQJXVQAEBAdXAgYQHkdBQURQV1g7WFQWCgNQUVQDFRFGQVBBa1oGEFkUCwEEVgAXGhdCXAlUEg4AHkESClcbCREGAwcAAUAeQVNLRlcXXFRaalJQElhTURIIDRcPXxURXFxqV1FeA1wHFAkQAkceF19GRhdeX0VYXB5BAApHS1JHVxcJFgFSAlQUHxBRCkdbQkdPF14TZWcSHkEHG0dcXUBbWl0WCUBfUEMLEB5HW0ZpR1NGEENVVV1XEUBZEQkRHxBYUkxsAV0NWFZRRgxdW0UXDBdVARIYEl8MDApHVkFsQlxXFglAA1EBCgQQGA==
+http://fortv.cc:8080/N0QaDD/625713/13370
+#EXTINF:-1 tvg-id="my9",My9
+http://fortv.cc:8080/N0QaDD/625713/176368
+#EXTINF:-1 tvg-id="universalkids",Universal Kids
+http://fortv.cc:8080/N0QaDD/625713/9235
+#EXTINF:-1 tvg-id="fx.east",FX
+http://fortv.cc:8080/N0QaDD/625713/46690
+#EXTINF:-1 tvg-id="FXM",FXM
+http://fortv.cc:8080/N0QaDD/625713/10260
+#EXTINF:-1 tvg-id="gala",Galavision
+http://fortv.cc:8080/N0QaDD/625713/58770
 #EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
 #EXTINF:-1 tvg-id="disneyxd.east",Disney XD
