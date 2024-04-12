@@ -11,6 +11,8 @@ http://fortv.cc:8080/N0QaDD/625713/53730
 http://fortv.cc:8080/N0QaDD/625713/46708
 #EXTINF:-1 tvg-id="laff.tx",Laff
 http://fortv.cc:8080/N0QaDD/625713/17777
+#EXTINF:-1 tvg-id="discoveryeast",Discovery Channel
+http://fortv.cc:8080/N0QaDD/625713/9811
 #EXTINF:-1 tvg-id"tooncasteningles",Tooncast English
 http://line.iptveros.com/play/live.php?mac=00:1A:79:5E:35:3E&stream=533761&extension=ts&play_token=tbYCysMuyo
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS New York
@@ -43,8 +45,24 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
 #EXTINF:-1 tvg-id="telem-nj",Telemundo 47
 http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
+#EXTINF:-1 tvg-id="euhieuh849",Cozi TV
+http://fortv.cc:8080/N0QaDD/625713/11868
+#EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
+http://fortv.cc:8080/N0QaDD/625713/9807
 #EXTINF:-1 tvg-id="e4uk",E4
 http://fortv.cc:8080/N0QaDD/625713/53672
+#EXTINF:-1 tvg-id="more4",More4
+http://fortv.cc:8080/N0QaDD/625713/53673
+#EXTINF:-1 tvg-id="itv1",ITV1
+http://fortv.cc:8080/N0QaDD/625713/53651
+#EXTINF:-1 tvg-id="itv3",ITV3
+http://fortv.cc:8080/N0QaDD/625713/53665
+#EXTINF:-1 tvg-id="itv4",ITV4
+http://fortv.cc:8080/N0QaDD/625713/53666
+#EXTINF:-1 tvg-id="5uk",Channel 5 UK
+http://fortv.cc:8080/N0QaDD/625713/53675
+#EXTINF:-1 tvg-id="5g8ftn",Dave UK
+http://fortv.cc:8080/N0QaDD/625713/53659
 #EXTINF:-1 tvg-id="canal3",Canal 3
 http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
 #EXTINF:-1 tvg-id="19.sv",Canal 19 El Salvador
