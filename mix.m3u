@@ -5,10 +5,24 @@ http://138.59.177.34:8000/play/a06a/index.m3u8
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://kstv.us:8080/live/tH300gvHff/8606073792/46927.ts
+#EXTINF:-1 tvg-id="pop.uk",Pop UK
+http://fortv.cc:8080/N0QaDD/625713/53730
+#EXTINF:-1 tvg-id="cn.east",Cartoon Network
+http://fortv.cc:8080/N0QaDD/625713/46708
+#EXTINF:-1 tvg-id="laff.tx",Laff
+http://fortv.cc:8080/N0QaDD/625713/17777
 #EXTINF:-1 tvg-id"tooncasteningles",Tooncast English
 http://line.iptveros.com/play/live.php?mac=00:1A:79:5E:35:3E&stream=533761&extension=ts&play_token=tbYCysMuyo
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="nbcny",NBC New York
+http://fortv.cc:8080/N0QaDD/625713/120751
+#EXTINF:-1 tvg-id="foxny",FOX New York
+http://fortv.cc:8080/N0QaDD/625713/120750
+#EXTINF:-1 tvg-id="cbsny",CBS New York
+http://fortv.cc:8080/N0QaDD/625713/120749
+#EXTINF:-1 tvg-id="abcny",ABC New York
+http://fortv.cc:8080/N0QaDD/625713/121139
 #EXTINF:-1 tvg-id="Boing.es",Boing
 http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
 #EXTINF:-1 tvg-id="cnasia",Cartoon Network Asia
@@ -233,5 +247,3 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="Pop-u-r",POP UK Rakuten
-https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
