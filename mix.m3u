@@ -43,7 +43,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
 #EXTINF:-1 tvg-id="telem-nj",Telemundo 47
 http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
-#EXTINF:-1 tvg-id="e4.uk",E4 UK
+#EXTINF:-1 tvg-id="e4uk",E4
 http://fortv.cc:8080/N0QaDD/625713/53672
 #EXTINF:-1 tvg-id="canal3",Canal 3
 http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
@@ -75,15 +75,15 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
 #EXTINF:-1 tvg-id="Freeform.east",Freeform
 http://fortv.cc:8080/N0QaDD/625713/13370
-#EXTINF:-1 tvg-id="my9",My9
+#EXTINF:-1 tvg-id="mynine",MyTV 9
 http://fortv.cc:8080/N0QaDD/625713/176368
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
 http://fortv.cc:8080/N0QaDD/625713/9235
-#EXTINF:-1 tvg-id="fx.east",FX
+#EXTINF:-1 tvg-id="fxtveast",FX East
 http://fortv.cc:8080/N0QaDD/625713/46690
-#EXTINF:-1 tvg-id="FXM",FXM
+#EXTINF:-1 tvg-id="efexem",FXM East
 http://fortv.cc:8080/N0QaDD/625713/10260
-#EXTINF:-1 tvg-id="gala",Galavision
+#EXTINF:-1 tvg-id="galatv",Galavision East
 http://fortv.cc:8080/N0QaDD/625713/58770
 #EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
