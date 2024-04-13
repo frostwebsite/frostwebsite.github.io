@@ -277,3 +277,11 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.la",Discovery Science LA
+http://181.191.140.241:9981/stream/channelid/1921921725?profile=pass
+#EXTINF:-1 tvg-id="discoverytheater.la",Discovery Theater LA
+http://181.191.140.241:9981/stream/channelid/1387718077?profile=pass
+#EXTINF:-1 tvg-id="discoveryworld.la",Discovery World LA
+http://181.191.140.241:9981/stream/channelid/1406345330?profile=pass
+#EXTINF:-1 tvg-id="disneychannel.la",Disney Channel LA
+http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
