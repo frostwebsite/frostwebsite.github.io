@@ -13,8 +13,6 @@ http://93.174.93.237:25461/live/242306/210404/21792.m3u8?token=ShRZAEYJFQxGDFYJB
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/86038
 #EXTINF:-1 tvg-id="discoveryeast",Discovery Channel
 http://fortv.cc:8080/N0QaDD/625713/9811
-#EXTINF:-1 tvg-id"tooncasteningles",Tooncast English
-http://line.iptveros.com/play/live.php?mac=00:1A:79:5E:35:3E&stream=533761&extension=ts&play_token=tbYCysMuyo
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="nbcny",NBC New York
