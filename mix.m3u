@@ -26,7 +26,7 @@ http://fortv.cc:8080/N0QaDD/625713/120749
 #EXTINF:-1 tvg-id="abcny",ABC New York
 http://fortv.cc:8080/N0QaDD/625713/121139
 #EXTINF:-1 tvg-id="Boing.es",Boing
-http://live1.jellytogether.com:34400/stream/13e2b9e61683673873c30b50193ed9d4
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="univ",Univision 41
 http://fortv.cc:8080/N0QaDD/625713/15336
 #EXTINF:-1 tvg-id="cnasia",Cartoon Network Asia
