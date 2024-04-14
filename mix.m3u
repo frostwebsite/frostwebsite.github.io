@@ -18,13 +18,15 @@ http://line.iptveros.com/play/live.php?mac=00:1A:79:5E:35:3E&stream=533761&exten
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS New York
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="nbcny",NBC New York
-http://fortv.cc:8080/N0QaDD/625713/120751
+http://thevdm.xyz:25461/Jennifer/Year!/39810
 #EXTINF:-1 tvg-id="foxny",FOX New York
-http://fortv.cc:8080/N0QaDD/625713/120750
+http://thevdm.xyz:25461/Jennifer/Year!/39759
 #EXTINF:-1 tvg-id="cbsny",CBS New York
-http://fortv.cc:8080/N0QaDD/625713/120749
+http://thevdm.xyz:25461/Jennifer/Year!/39726
 #EXTINF:-1 tvg-id="abcny",ABC New York
-http://fortv.cc:8080/N0QaDD/625713/121139
+http://thevdm.xyz:25461/Jennifer/Year!/39696
+#EXTINF:-1 tvg-id="ceuhe90uc",ABC Spark
+http://thevdm.xyz:25461/Jennifer/Year!/77110
 #EXTINF:-1 tvg-id="Boing.es",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="univ",Univision 41
@@ -54,7 +56,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
 #EXTINF:-1 tvg-id="euhieuh849",Cozi TV
 http://fortv.cc:8080/N0QaDD/625713/11868
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
-http://fortv.cc:8080/N0QaDD/625713/9807
+http://thevdm.xyz:25461/Jennifer/Year!/20874
 #EXTINF:-1 tvg-id="e4uk",E4
 http://fortv.cc:8080/N0QaDD/625713/53672
 #EXTINF:-1 tvg-id="more4",More4
@@ -97,18 +99,20 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="syfy.east",SYFY
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
-#EXTINF:-1 tvg-id="Freeform.east",Freeform
-http://fortv.cc:8080/N0QaDD/625713/13370
+#EXTINF:-1 tvg-id="j9e",Freeform
+http://thevdm.xyz:25461/Jennifer/Year!/31419
 #EXTINF:-1 tvg-id="mynine",MyTV 9
 http://fortv.cc:8080/N0QaDD/625713/176368
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
-http://fortv.cc:8080/N0QaDD/625713/9235
+http://thevdm.xyz:25461/Jennifer/Year!/20881
 #EXTINF:-1 tvg-id="fxtveast",FX East
-http://fortv.cc:8080/N0QaDD/625713/46690
+http://thevdm.xyz:25461/Jennifer/Year!/39767
 #EXTINF:-1 tvg-id="efexem",FXM East
-http://fortv.cc:8080/N0QaDD/625713/10260
+http://thevdm.xyz:25461/Jennifer/Year!/39768
+#EXTINF:-1 tvg-id="fxx.east",FXX East
+http://thevdm.xyz:25461/Jennifer/Year!/31423
 #EXTINF:-1 tvg-id="galatv",Galavision East
-http://fortv.cc:8080/N0QaDD/625713/58770
+http://thevdm.xyz:25461/Jennifer/Year!/19905
 #EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
 http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
 #EXTINF:-1 tvg-id="disneyxd.east",Disney XD
@@ -197,8 +201,8 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-id="sony1",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1 tvg-id="nickmtv",Nick Music
-http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1 tvg-id="nickmtv",NickMusic
+http://thevdm.xyz:25461/Jennifer/Year!/20878
 #EXTINF:-1 tvg-id="boom",Boomerang
 http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
