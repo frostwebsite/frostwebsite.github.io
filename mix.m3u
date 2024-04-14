@@ -37,6 +37,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
 http://131.161.53.2:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="cneduhehrd",Cartoon Network Colombia
+http://138.59.177.34:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="eidjeijd",El Gourmet
 http://131.161.53.2:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="telemadrid1",Telemadrid
