@@ -29,6 +29,8 @@ http://thevdm.xyz:25461/Jennifer/Year!/39696
 http://thevdm.xyz:25461/Jennifer/Year!/77110
 #EXTINF:-1 tvg-id="Boing.es",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="boom",Boomerang
+http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30922
 #EXTINF:-1 tvg-id="univ",Univision 41
 http://fortv.cc:8080/N0QaDD/625713/15336
 #EXTINF:-1 tvg-id="cnasia",Cartoon Network Asia
@@ -201,8 +203,6 @@ http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="nickmtv",NickMusic
 http://thevdm.xyz:25461/Jennifer/Year!/20878
-#EXTINF:-1 tvg-id="boom",Boomerang
-http://93.174.93.237:25461/live/242306/210404/21791.m3u8?token=ShRZAEYJFQxGD15bB1YFAlJcCAxTBlhUVlAFBgUMUQMIAgMHBgICAVwaShpGQUQDVlVuXFUXAwQEVQ4GHRYTFVREbghRQw0UVQxfCQMXGkRDUVxQEw8JGhcSXlMTDkRSAAEHVhdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMME1MDUw4USBoFV0BbQhROGgsXZGYbGhcHT0NUWhUPXlgTWxcMBENcGkoaXEZpFFJLRUdUVFRTR0ANFQEWSkRcV0k+Vg5ZWAFbElFaW0VEDRoEFx0XVFlbC0NYQ2sWD1UUC0MEWAYHVhob
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="TBSEast.us",TBS
