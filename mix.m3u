@@ -233,7 +233,7 @@ http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1 tvg-id="animalplanet.la",Animal Planet LA
 http://138.59.177.34:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="animalplanet.us", Animal Planet East
+#EXTINF:-1 tvg-id="animalplanet.us",Animal Planet East
 http://thevdm.xyz:25461/Jennifer/Year!/39705
 #EXTINF:-1 tvg-id="tsHD",TNT Sports
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
