@@ -25,6 +25,8 @@ http://thevdm.xyz:25461/Jennifer/Year!/39726
 http://thevdm.xyz:25461/Jennifer/Year!/39696
 #EXTINF:-1 tvg-id="ceuhe90uc",ABC Spark
 http://thevdm.xyz:25461/Jennifer/Year!/77110
+#EXTINF:-1 tvg-id="ej8cnrmex876gnmheuw",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="uhhhhhheu83",BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Boing.es",Boing
