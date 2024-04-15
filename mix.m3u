@@ -77,7 +77,7 @@ http://fortv.cc:8080/N0QaDD/625713/53675
 http://fortv.cc:8080/N0QaDD/625713/53659
 #EXTINF:-1 tvg-id="uhr2893rn.3",A&E East
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/85994
-#EXTINF:-1 tvg-id="93un8r39.38n",TruTV East
+#EXTINF:-1 tvg-id="93un8r39.38n",Adult Swim LA
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30909
 #EXTINF:-1 tvg-id="8r39888888n",Lifetime 
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/86040
@@ -229,11 +229,11 @@ http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
 #EXTINF:-1 tvg-id="telem-int",Telemundo Internacional
 http://138.59.177.34:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id"teennickla",TeenNick LA
+#EXTINF:-1 tvg-id"teennickla",TeenNick Espana
 http://138.59.177.34:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="cc-la",Comedy Central LA
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
-#EXTINF:-1 tvg-id="dreamworks",DreamWorks Channel LA
+#EXTINF:-1 tvg-id="dreamworks",DreamWorks Channel
 http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery-hh",Discovery H&H
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
