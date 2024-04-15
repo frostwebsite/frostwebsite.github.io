@@ -28,7 +28,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/77110
 #EXTINF:-1 tvg-id="Boing.es",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="eurhnd8379390und01",LatinoKids
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-id="boom",Boomerang
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30922
 #EXTINF:-1 tvg-id="univ",Univision 41
