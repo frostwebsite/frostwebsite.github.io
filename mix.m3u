@@ -79,6 +79,8 @@ http://fortv.cc:8080/N0QaDD/625713/53666
 http://fortv.cc:8080/N0QaDD/625713/53675
 #EXTINF:-1 tvg-id="5g8ftn",Dave UK
 http://fortv.cc:8080/N0QaDD/625713/53659
+#EXTINF:-1 tvg-id="orangemmm",Nick Australia
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=752176&extension=ts&play_token=pBZyGpJHCb
 #EXTINF:-1 tvg-id="uhr2893rn.3",A&E East
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/85994
 #EXTINF:-1 tvg-id="93un8r39.38n",Adult Swim LA
