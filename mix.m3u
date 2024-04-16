@@ -132,13 +132,15 @@ http://thevdm.xyz:25461/Jennifer/Year!/31423
 #EXTINF:-1 tvg-id="galatv",Galavision East
 http://thevdm.xyz:25461/Jennifer/Year!/19905
 #EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
-http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30901
+http://thevdm.xyz:25461/Jennifer/Year!/25179
 #EXTINF:-1 tvg-id="disneyxd.east",Disney XD
-http://titanlivetv.com:8080/azhaitiinterc349/tUCP4JyX4H/30991
+http://thevdm.xyz:25461/Jennifer/Year!/25183
 #EXTINF:-1 tvg-id="cncanada",Cartoon Network Canada
 http://titanpro.cc:2095/azhaitiinterc349/tUCP4JyX4H/128370
 #EXTINF:-1 tvg-id="news12",News12 New York
 https://lnc-news12.tubi.video/primary/2.m3u8
+#EXTINF:-1 tvg-id="tl89r8s",TLC
+http://thevdm.xyz:25461/Jennifer/Year!/39846
 #EXTINF:-1 tvg-id="pbskids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="cnito.asia",Cartoonito Asia
