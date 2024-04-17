@@ -65,6 +65,10 @@ http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30931
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
 http://thevdm.xyz:25461/Jennifer/Year!/20874
+#EXTINF:-1 tvg-id="etgbywdhnefyr6tg5fbeuhnt6g578h65",DreamWorks Channel Asia
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dreamworks_qp.m3u8
+#EXTINF:-1 tvg-id="ybgey63636363663g",Nick Asia
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
 #EXTINF:-1 tvg-id="e4uk",E4
 http://fortv.cc:8080/N0QaDD/625713/53672
 #EXTINF:-1 tvg-id="more4",More4
