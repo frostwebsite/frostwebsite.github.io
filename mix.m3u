@@ -57,7 +57,7 @@ http://138.59.177.34:8000/play/a01l/index.m3u8
 http://131.161.53.2:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="telemadrid1",Telemadrid
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/126
-#EXTINF:-1 tvg-id="fx-es",FX Español
+#EXTINF:-1 tvg-id="fx-es",FX LA
 http://131.161.53.2:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es",La 1
 http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
@@ -143,6 +143,8 @@ http://thevdm.xyz:25461/Jennifer/Year!/39768
 http://thevdm.xyz:25461/Jennifer/Year!/31423
 #EXTINF:-1 tvg-id="galatv",Galavision East
 http://thevdm.xyz:25461/Jennifer/Year!/19905
+#EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
+http://thevdm.xyz:25461/timmadden/timmad4765/39744
 #EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
 http://thevdm.xyz:25461/Jennifer/Year!/25179
 #EXTINF:-1 tvg-id="disneyxd.east",Disney XD
