@@ -31,6 +31,10 @@ http://thevdm.xyz:25461/Jennifer/Year!/77110
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="jfjhcueirvhcfhfhfg8efjry76nh",Cartoon Network LA
 http://157.245.117.238:8000/play/a0la
+#EXTINF:-1 tvg-id="7ho9doh",Channel 4 UK
+http://148.69.168.89:9981/stream/channelid/746784609?profile=pass
+#EXTINF:-1 tvg-id="e4ext",E4 Extra
+http://148.69.168.89:9981/stream/channelid/746784609?profile=pass
 #EXTINF:-1 tvg-id="uhhhhhheu83",BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn",Bang Bang
@@ -80,15 +84,29 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dreamworks_qp.m3u8
 #EXTINF:-1 tvg-id="ybgey63636363663g",Nick Asia
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
 #EXTINF:-1 tvg-id="e4uk",E4
-http://fortv.cc:8080/N0QaDD/625713/53672
+http://148.69.168.89:9981/stream/channelid/213686705?profile=pass
 #EXTINF:-1 tvg-id="more4",More4
-http://fortv.cc:8080/N0QaDD/625713/53673
+http://148.69.168.89:9981/stream/channelid/1223445572?profile=pass
+#EXTINF:-1 tvg-id="iiieieieieieeoieoioeeieieoee1",STV
+http://148.69.168.89:9981/stream/channelid/728460735?profile=pass
+#EXTINF:-1 tvg-id="oooooooooquestuk",Quest UK
+http://148.69.168.89:9981/stream/channelid/1454716731?profile=pass
+#EXTINF:-1 tvg-id="questrojo",Quest Red
+http://148.69.168.89:9981/stream/channelid/813970476?profile=pass
+#EXTINF:-1 tvg-id="legenduk",Legend
+http://148.69.168.89:9981/stream/channelid/813970476?profile=pass
+#EXTINF:-1 tvg-id="legendxtra",Legend Xtra
+http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
 #EXTINF:-1 tvg-id="itv1",ITV1
-http://fortv.cc:8080/N0QaDD/625713/53651
+http://148.69.168.89:9981/stream/channelid/1931336279?profile=pass
+#EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee",ITV2
+http://148.69.168.89:9981/stream/channelid/895154304?profile=pass
 #EXTINF:-1 tvg-id="itv3",ITV3
 http://fortv.cc:8080/N0QaDD/625713/53665
 #EXTINF:-1 tvg-id="itv4",ITV4
 http://fortv.cc:8080/N0QaDD/625713/53666
+#EXTINF:-1 tvg-id="eruerhrue99992uuh2",ITVBe
+http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
 #EXTINF:-1 tvg-id="5uk",Channel 5 UK
 http://fortv.cc:8080/N0QaDD/625713/53675
 #EXTINF:-1 tvg-id="5g8ftn",Dave UK
