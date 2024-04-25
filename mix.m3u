@@ -105,14 +105,23 @@ http://148.69.168.89:9981/stream/channelid/895154304?profile=pass
 http://fortv.cc:8080/N0QaDD/625713/53665
 #EXTINF:-1 tvg-id="itv4",ITV4
 http://fortv.cc:8080/N0QaDD/625713/53666
+#EXTINF:-1 tvg-id="cuarentsiet",4Seven
+http://148.69.168.89:9981/stream/channelid/469349770?profile=pass
 #EXTINF:-1 tvg-id="eruerhrue99992uuh2",ITVBe
 http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
 #EXTINF:-1 tvg-id="britishboradcastcorparatinonUNO",BBC One
 http://148.69.168.89:9981/stream/channelid/2072462578?profile=pass
 #EXTINF:-1 tvg-id="biritsh2",BBC Two
 http://148.69.168.89:9981/stream/channelid/655790841?profile=pass
-#EXTINF:-1 tvg-id="5uk",Channel 5 UK
-http://fortv.cc:8080/N0QaDD/625713/53675
+#EXTINF:-1 tvg-id="5uk",5 UK
+http://148.69.168.89:9981/stream/channelid/469349770?profile=pass
+#EXTINF:-1 tvg-id="5usa",5USA UK
+http://148.69.168.89:9981/stream/channelid/692226698?profile=pass
+#EXTINF:-1 tvg-id="5actionboompewpew",5Action
+http://148.69.168.89:9981/stream/channelid/692226698?profile=pass
+#EXTINF:-1 tvg-id="banana78127",5Select
+http://148.69.168.89:9981/stream/channelid/981606409?profile=pass
+#EXTINF:-1 tvg-id="utorrentreal",5Star
 #EXTINF:-1 tvg-id="5g8ftn",Dave UK
 http://fortv.cc:8080/N0QaDD/625713/53659
 #EXTINF:-1 tvg-id="orangemmm",Nick Australia
