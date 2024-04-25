@@ -107,6 +107,10 @@ http://fortv.cc:8080/N0QaDD/625713/53665
 http://fortv.cc:8080/N0QaDD/625713/53666
 #EXTINF:-1 tvg-id="eruerhrue99992uuh2",ITVBe
 http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
+#EXTINF:-1 tvg-id="britishboradcastcorparatinonUNO",BBC One
+http://148.69.168.89:9981/stream/channelid/2072462578?profile=pass
+#EXTINF:-1 tvg-id="biritsh2",BBC Two
+http://148.69.168.89:9981/stream/channelid/655790841?profile=pass
 #EXTINF:-1 tvg-id="5uk",Channel 5 UK
 http://fortv.cc:8080/N0QaDD/625713/53675
 #EXTINF:-1 tvg-id="5g8ftn",Dave UK
