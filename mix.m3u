@@ -102,9 +102,9 @@ http://148.69.168.89:9981/stream/channelid/1931336279?profile=pass
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee",ITV2
 http://148.69.168.89:9981/stream/channelid/895154304?profile=pass
 #EXTINF:-1 tvg-id="itv3",ITV3
-http://fortv.cc:8080/N0QaDD/625713/53665
+http://46.64.11.35:9981/stream/channelid/1863667644?profile=pass
 #EXTINF:-1 tvg-id="itv4",ITV4
-http://fortv.cc:8080/N0QaDD/625713/53666
+http://46.64.11.35:9981/stream/channelid/1442705176?profile=pass
 #EXTINF:-1 tvg-id="cuarentsiet",4Seven
 http://148.69.168.89:9981/stream/channelid/740906270?profile=pass
 #EXTINF:-1 tvg-id="eruerhrue99992uuh2",ITVBe
