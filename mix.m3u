@@ -94,7 +94,7 @@ http://148.69.168.89:9981/stream/channelid/1454716731?profile=pass
 #EXTINF:-1 tvg-id="questrojo",Quest Red
 http://148.69.168.89:9981/stream/channelid/813970476?profile=pass
 #EXTINF:-1 tvg-id="legenduk",Legend
-http://148.69.168.89:9981/stream/channelid/813970476?profile=pass
+http://148.69.168.89:9981/stream/channelid/1814042795?profile=pass
 #EXTINF:-1 tvg-id="legendxtra",Legend Xtra
 http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
 #EXTINF:-1 tvg-id="itv1",ITV1
@@ -106,7 +106,7 @@ http://fortv.cc:8080/N0QaDD/625713/53665
 #EXTINF:-1 tvg-id="itv4",ITV4
 http://fortv.cc:8080/N0QaDD/625713/53666
 #EXTINF:-1 tvg-id="cuarentsiet",4Seven
-http://148.69.168.89:9981/stream/channelid/469349770?profile=pass
+http://148.69.168.89:9981/stream/channelid/740906270?profile=pass
 #EXTINF:-1 tvg-id="eruerhrue99992uuh2",ITVBe
 http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
 #EXTINF:-1 tvg-id="britishboradcastcorparatinonUNO",BBC One
@@ -118,10 +118,11 @@ http://148.69.168.89:9981/stream/channelid/469349770?profile=pass
 #EXTINF:-1 tvg-id="5usa",5USA UK
 http://148.69.168.89:9981/stream/channelid/692226698?profile=pass
 #EXTINF:-1 tvg-id="5actionboompewpew",5Action
-http://148.69.168.89:9981/stream/channelid/692226698?profile=pass
+http://148.69.168.89:9981/stream/channelid/1549549587?profile=pass
 #EXTINF:-1 tvg-id="banana78127",5Select
 http://148.69.168.89:9981/stream/channelid/981606409?profile=pass
 #EXTINF:-1 tvg-id="utorrentreal",5Star
+http://148.69.168.89:9981/stream/channelid/2140025903?profile=pass
 #EXTINF:-1 tvg-id="5g8ftn",Dave UK
 http://fortv.cc:8080/N0QaDD/625713/53659
 #EXTINF:-1 tvg-id="orangemmm",Nick Australia
@@ -134,24 +135,12 @@ http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/85994
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30909
 #EXTINF:-1 tvg-id="8r39888888n",Lifetime 
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/86040
-#EXTINF:-1 tvg-id="canal3",Canal 3
-http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
-#EXTINF:-1 tvg-id="19.sv",Canal 19 El Salvador
-http://stream.flynetwifi.com:1935/live/mobile-050/playlist.m3u8
-#EXTINF:-1 tvg-id="cinelatino",Cine Latino
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/89723
-#EXTINF:-1 tvg-id="discofam",Discovery Familia
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/97
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan TVE España
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 tvg-id="History.mx",History Espanol
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="history2",History 2 Espanol
 http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="ivc",IVC
-http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
 #EXTINF:-1 tvg-id="24h TVE",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me
@@ -196,8 +185,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CBeebies.southafrica",CBeebies South Africa
 http://myteve.online:8080/stadnik2/7082341272/297385
-#EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series
-http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us",FOX Deportes
 http://45.90.105.74:25461/bud-1882009/1e621f3272/1510
 #EXTINF:-1 tvg-id="skysoccerlaliga",Sky Sports LaLiga
@@ -236,24 +223,12 @@ https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co",RCN Novelas
-http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co",Nuestra Tele Internacional
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-id="telefe-int",Telefe Internacional
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/133
 #EXTINF:-1 tvg-id="CNes",Cartoon Network Mexico
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/7345
-#EXTINF:-1 tvg-id="NickLA",Nickelodeon LA
-http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/32316
-#EXTINF:-1 tvg-id="mtvLA",MTV LA
-http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
-#EXTINF:-1 tvg-id="natla",National Geographic LA
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us",HBO2 LA
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="mov-drama",Movistar Drama
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2224
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons
