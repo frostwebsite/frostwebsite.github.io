@@ -92,13 +92,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
 #EXTINF:-1 tvg-id="e4uk",E4
 http://fortv.cc:8080/N0QaDD/625713/53672
 #EXTINF:-1 tvg-id="more4",More4
-http://148.69.168.89:9981/stream/channelid/1223445572?profile=pass
+http://fortv.cc:8080/N0QaDD/625713/53673
 #EXTINF:-1 tvg-id="iiieieieieieeoieoioeeieieoee1",STV
-http://148.69.168.89:9981/stream/channelid/728460735?profile=pass
-#EXTINF:-1 tvg-id="oooooooooquestuk",Quest UK
-http://148.69.168.89:9981/stream/channelid/1454716731?profile=pass
 #EXTINF:-1 tvg-id="questrojo",Quest Red
-http://148.69.168.89:9981/stream/channelid/813970476?profile=pass
+http://fortv.cc:8080/N0QaDD/625713/53682
 #EXTINF:-1 tvg-id="itv1",ITV1
 http://fortv.cc:8080/N0QaDD/625713/53651
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee",ITV2
@@ -107,14 +104,10 @@ http://fortv.cc:8080/N0QaDD/625713/53671
 http://fortv.cc:8080/N0QaDD/625713/53665
 #EXTINF:-1 tvg-id="itv4",ITV4
 http://fortv.cc:8080/N0QaDD/625713/53666
-#EXTINF:-1 tvg-id="cuarentsiet",4Seven
-http://148.69.168.89:9981/stream/channelid/740906270?profile=pass
 #EXTINF:-1 tvg-id="eruerhrue99992uuh2",ITVBe
 http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
 #EXTINF:-1 tvg-id="britishboradcastcorparatinonUNO",BBC One
 http://fortv.cc:8080/N0QaDD/625713/53649
-#EXTINF:-1 tvg-id="biritsh2",BBC Two
-http://148.69.168.89:9981/stream/channelid/655790841?profile=pass
 #EXTINF:-1 tvg-id="heuuggguehstar",BBC Three/CBBC
 http://fortv.cc:8080/N0QaDD/625713/53720
 #EXTINF:-1 tvg-id="5uk",5 UK
@@ -187,6 +180,8 @@ http://thevdm.xyz:25461/Jennifer/Year!/19894
 http://thevdm.xyz:25461/Jennifer/Year!/19888
 #EXTINF:-1 tvg-id="tlnovelas1",TLNovelas
 http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="baananrananra",Sky Cinema Family
+http://fortv.cc:8080/N0QaDD/625713/53699
 #EXTINF:-1 tvg-id="tlsur",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tn23",TN23
@@ -194,7 +189,7 @@ http://181.78.105.146:2000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="beinxtra.es",BeIN Sports Xtra Español
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv-ca",YTV
-http://pvisio-ott.cc/play/xWszk_ob4AEJzTqWsKpQBgwWIATUR96RhqQAtm_NtU4B47oJca5fSu1slEK5y-vJLfXfJRw9huJarpFV4i_9DEBpbp0DD2s2tX1TPuUiOb8
+http://fortv.cc:8080/N0QaDD/625713/63850
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="6ta",La Sexta
@@ -217,8 +212,6 @@ https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="telefe-int",Telefe Internacional
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/133
 #EXTINF:-1 tvg-id="CNes",Cartoon Network Mexico
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/7345
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel
@@ -231,12 +224,6 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 http://170.254.18.106/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="challenge",Challenge UK
 https://dpjhjf99gqyr4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvzenqyvh6pyy/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-id="fs2.es",Fox Sports 2 Espanol
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us",Sony Movies
-http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
-#EXTINF:-1 tvg-id="sony1",Sony Channel
-http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="nickmtv",NickMusic
 http://thevdm.xyz:25461/Jennifer/Year!/20878
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
@@ -245,40 +232,16 @@ https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_h
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNT East",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="AEla",A&E LA
-http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="discovery-fam.us",Discovery Family
-http://23.227.150.202:25461/Jennifer/Year!/39748?token=QxcKA0ZRRFsTAgELUgVQUFcCUFBTUlADBgMCVgZVVQQAUVBRA1hfBVBESRFAREdTAA48W1MUWFILVgFaHBMUR11HPQtRG1xDCFRVER8SQV8MBkEIBgFTUwBQBlQAAU0WSFwGQA8bV1AJVVARHxJQThUGEVxWWj0FVxdcAVUTW1pNWQ5OF1YIPlUDCFJdVBcMQ1JBHhVfEREQW1sXXF1NFlpcFhBUTQNDC0RQCgEFFxpDAAxHWUIQGBBbFzdjE00WXU0WB1tKDw5fRF8RR0MXGkMKEG1FUxEVQARUD1VDQw4aBUBOF1QHGW4FCl1dVVZCCAwNQRUMQFMQTRcPX18IQFdHPRJcXURbE1JVAQQIF0s=
-#EXTINF:-1 tvg-id="AztecaGuatemala.gt",Azteca Guatemala
-http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
-#EXTINF:-1 tvg-id="Guatevision.gt",Guatevision
-http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
-#EXTINF:-1 tvg-id="telem-int",Telemundo Internacional
-http://138.59.177.34:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id"teennickla",TeenNick Espana
+http://fortv.cc:8080/N0QaDD/625713/10538
+#EXTINF:-1 tvg-id"teennickla",TeenNick LA
 http://138.59.177.34:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="cc-la",Comedy Central LA
-http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
-#EXTINF:-1 tvg-id="dreamworks",DreamWorks Channel
-http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
-#EXTINF:-1 tvg-id="discovery-hh",Discovery H&H
-http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1 tvg-id="fs3",Fox Sports 3 Espanol
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-id="discovery-turbo",Discovery Turbo
-http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1 tvg-id="animalplanet.la",Animal Planet LA
 http://138.59.177.34:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="animalplanet.us",Animal Planet East
 http://thevdm.xyz:25461/Jennifer/Year!/39705
-#EXTINF:-1 tvg-id="tsHD",TNT Sports
-http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar",TyC Sports
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us",HBO LA
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-id="BET-english",BET
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="HBOfam",HBO Family
@@ -291,28 +254,15 @@ http://170.254.18.106/MTV/index.m3u8
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
-#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us",Cartoonito LA
-http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-#EXTINF:-1 tvg-id="unitl",Universal TV LA
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="unimas.us",UniMas
-http://45.90.105.74:25461/bud-1882009/1e621f3272/51652
+http://fortv.cc:8080/N0QaDD/625713/57969
 #EXTINF:-1 tvg-id="nbu",NBC Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
-#EXTINF:-1 tvg-id="Pasiones.us",Pasiones
-http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
 http://thevdm.xyz:25461/timmadden/timmad4765/44182
-#EXTINF:-1 tvg-id="WarnerTV.es",Warner TV
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJrenEspanol.us",Nick Jr LA
-http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
-#EXTINF:-1 tvg-id="paramountnetla",Paramount Network LA
-http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-id="usnetla",USA Network LA
-http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us",Estrella News
