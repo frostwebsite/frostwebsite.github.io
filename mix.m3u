@@ -17,12 +17,17 @@ http://fortv.cc:8080/N0QaDD/625713/9811
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="jjhhhhyyegggettddyyshh",Cufo
 http://45.90.80.250:8000/play/a01c
+#EXTINF:-1 tvg-id="wlny55",WLNY
+http://fortv.cc:8080/N0QaDD/625713/120752
 #EXTINF:-1 tvg-id="nbcny",NBC
 http://thevdm.xyz:25461/Jennifer/Year!/39810
+http://fortv.cc:8080/N0QaDD/625713/120751
 #EXTINF:-1 tvg-id="foxny",FOX
 http://thevdm.xyz:25461/Jennifer/Year!/39759
+http://fortv.cc:8080/N0QaDD/625713/120750
 #EXTINF:-1 tvg-id="cbsny",CBS
 http://thevdm.xyz:25461/Jennifer/Year!/39726
+http://fortv.cc:8080/N0QaDD/625713/120749
 #EXTINF:-1 tvg-id="abcny",ABC
 http://thevdm.xyz:25461/Jennifer/Year!/39696
 #EXTINF:-1 tvg-id="ceuhe90uc",ABC Spark
@@ -33,12 +38,6 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://157.245.117.238:8000/play/a0la
 #EXTINF:-1 tvg-id="7ho9doh",Channel 4 UK
 http://fortv.cc:8080/N0QaDD/625713/99138
-#EXTINF:-1 tvg-id="fishstickslol",Sky Mix
-http://46.64.11.35:9981/stream/channelid/567429349?profile=pass
-#EXTINF:-1 tvg-id="fishchickenlol",Sky Arts
-http://46.64.11.35:9981/stream/channelid/1996424708?profile=pass
-#EXTINF:-1 tvg-id="e4ext",E4 Extra
-http://148.69.168.89:9981/stream/channelid/746784609?profile=pass
 #EXTINF:-1 tvg-id="e9w8ej88888888888888",Sky Cinema Animation
 http://fortv.cc:8080/N0QaDD/625713/53698
 #EXTINF:-1 tvg-id="uhhhhhheu83",BBC America
@@ -281,3 +280,5 @@ http://181.191.140.241:9981/stream/channelid/1406345330?profile=pass
 http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
 #EXTINF:-1 tvg-id="disneyjunior.la",Disney Junior LA
 http://138.59.177.34:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="movie-sth2",Sonic the Hedgehog 2 (Movie)
+http://fortv.cc:8080/movie/N0QaDD/625713/168891.mp4
