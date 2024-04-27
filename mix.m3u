@@ -32,13 +32,15 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="jfjhcueirvhcfhfhfg8efjry76nh",Cartoon Network LA
 http://157.245.117.238:8000/play/a0la
 #EXTINF:-1 tvg-id="7ho9doh",Channel 4 UK
-http://148.69.168.89:9981/stream/channelid/746784609?profile=pass
+http://fortv.cc:8080/N0QaDD/625713/99138
 #EXTINF:-1 tvg-id="fishstickslol",Sky Mix
 http://46.64.11.35:9981/stream/channelid/567429349?profile=pass
 #EXTINF:-1 tvg-id="fishchickenlol",Sky Arts
 http://46.64.11.35:9981/stream/channelid/1996424708?profile=pass
 #EXTINF:-1 tvg-id="e4ext",E4 Extra
 http://148.69.168.89:9981/stream/channelid/746784609?profile=pass
+#EXTINF:-1 tvg-id="e9w8ej88888888888888",Sky Cinema Animation
+http://fortv.cc:8080/N0QaDD/625713/53698
 #EXTINF:-1 tvg-id="uhhhhhheu83",BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn",Bang Bang
@@ -174,9 +176,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/19905
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
 http://thevdm.xyz:25461/timmadden/timmad4765/39744
 #EXTINF:-1 tvg-id="disneychannel.east",Disney Channel
-http://thevdm.xyz:25461/Jennifer/Year!/25179
+http://fortv.cc:8080/N0QaDD/625713/2206
 #EXTINF:-1 tvg-id="disneyxd.east",Disney XD
-http://thevdm.xyz:25461/Jennifer/Year!/25183
+http://fortv.cc:8080/N0QaDD/625713/75621
 #EXTINF:-1 tvg-id="cncanada",Cartoon Network Canada
 http://titanpro.cc:2095/azhaitiinterc349/tUCP4JyX4H/128370
 #EXTINF:-1 tvg-id="news12",News12 New York
