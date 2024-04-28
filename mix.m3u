@@ -44,6 +44,8 @@ http://45.90.80.250:8000/play/a013
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="eurhnd8379390und01",LatinoKids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+#EXTINF:-1 tvg-id="yougottagethighlikeme",Cartoon Network Bulgaria
+http://87.120.179.187:8000/play/a011
 #EXTINF:-1 tvg-id="boom",Boomerang
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30922
 #EXTINF:-1 tvg-id="cinnamon22",K2
