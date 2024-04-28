@@ -6,9 +6,11 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="pop.uk",Pop UK
-http://89.29.209.129:9981/stream/channelid/12590900?profile=webtv-vp8-vorbis-webm
+http://176.65.146.170:8014/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="cn.east",Cartoon Network
-http://supersonictv.live:8080/242306/210404/21792
+http://thevdm.xyz:25461/timmadden/timmad4765/20869
+#EXTINF:-1 tvg-id="euceehr888833hcuhe373",Comedy Central LA
+http://38.252.238.5:6102/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="laff.tx",Laff
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/86038
 #EXTINF:-1 tvg-id="discoveryeast",Discovery Channel US
