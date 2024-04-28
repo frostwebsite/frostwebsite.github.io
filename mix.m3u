@@ -68,10 +68,6 @@ http://131.161.53.2:8000/play/a043/index.m3u8
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/126
 #EXTINF:-1 tvg-id="fx-es",FX LA
 http://131.161.53.2:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es",La 1
-http://45.90.105.74:25461/bud-1882009/1e621f3272/80625
-#EXTINF:-1 tvg-id="lados",La 2
-http://45.90.105.74:25461/bud-1882009/1e621f3272/80626
 #EXTINF:-1 tvg-id="telem-nj",Telemundo 47
 http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
 #EXTINF:-1 tvg-id="euhieuh849",Cozi TV
@@ -86,29 +82,24 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dreamworks_qp.m3u8
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
 #EXTINF:-1 tvg-id="e4uk",E4
 http://fortv.cc:8080/N0QaDD/625713/53672
-#EXTINF:-1 tvg-id="more4",More4
-http://fortv.cc:8080/N0QaDD/625713/53673
-#EXTINF:-1 tvg-id="iiieieieieieeoieoioeeieieoee1",STV
-#EXTINF:-1 tvg-id="questrojo",Quest Red
-http://fortv.cc:8080/N0QaDD/625713/53682
 #EXTINF:-1 tvg-id="itv1",ITV1
-http://fortv.cc:8080/N0QaDD/625713/53651
+http://176.65.146.170:8012/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee",ITV2
-http://fortv.cc:8080/N0QaDD/625713/53671
-#EXTINF:-1 tvg-id="itv3",ITV3
-http://fortv.cc:8080/N0QaDD/625713/53665
+http://176.65.146.170:8012/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="itv4",ITV4
-http://fortv.cc:8080/N0QaDD/625713/53666
-#EXTINF:-1 tvg-id="eruerhrue99992uuh2",ITVBe
-http://148.69.168.89:9981/stream/channelid/481284248?profile=pass
+http://176.65.146.170:8012/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="github.com",ITVBe
+http://176.65.146.170:8012/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="becausemaybe",CBeebies
+http://45.153.35.210:8000/play/UK_cbeebies_HD/index.m3u8
 #EXTINF:-1 tvg-id="britishboradcastcorparatinonUNO",BBC One
-http://fortv.cc:8080/N0QaDD/625713/53649
+no
 #EXTINF:-1 tvg-id="heuuggguehstar",BBC Three/CBBC
-http://fortv.cc:8080/N0QaDD/625713/53720
+no
 #EXTINF:-1 tvg-id="5uk",5 UK
-http://fortv.cc:8080/N0QaDD/625713/53653
+http://176.65.146.139:8013/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="5g8ftn",Dave UK
-http://fortv.cc:8080/N0QaDD/625713/53659
+no
 #EXTINF:-1 tvg-id="orangemmm",Nick Australia
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=752176&extension=ts&play_token=pBZyGpJHCb
 #EXTINF:-1 tvg-id="6hecruejir8",Nick Global
