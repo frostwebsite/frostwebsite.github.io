@@ -32,8 +32,6 @@ http://thevdm.xyz:25461/Jennifer/Year!/39696
 http://thevdm.xyz:25461/Jennifer/Year!/77110
 #EXTINF:-1 tvg-id="ej8cnrmex876gnmheuw",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="jfjhcueirvhcfhfhfg8efjry76nh",Cartoon Network LA
-http://157.245.117.238:8000/play/a0la
 #EXTINF:-1 tvg-id="7ho9doh",Channel 4 UK
 http://fortv.cc:8080/N0QaDD/625713/99138
 #EXTINF:-1 tvg-id="e9w8ej88888888888888",Sky Cinema Animation
@@ -80,6 +78,10 @@ http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30931
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
 http://thevdm.xyz:25461/Jennifer/Year!/20874
+#EXTINF:-1 tvg-id="lecjeijes",La 1
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="lecjeijez",La 2
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.m3u8 la 2
 #EXTINF:-1 tvg-id="etgbywdhnefyr6tg5fbeuhnt6g578h65",DreamWorks Channel Asia
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dreamworks_qp.m3u8
 #EXTINF:-1 tvg-id="ybgey63636363663g",Nick Asia
@@ -96,19 +98,13 @@ http://176.65.146.170:8012/play/a06r/index.m3u8
 http://176.65.146.170:8012/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="becausemaybe",CBeebies
 http://45.153.35.210:8000/play/UK_cbeebies_HD/index.m3u8
-#EXTINF:-1 tvg-id="britishboradcastcorparatinonUNO",BBC One
-no
-#EXTINF:-1 tvg-id="heuuggguehstar",BBC Three/CBBC
-no
 #EXTINF:-1 tvg-id="5uk",5 UK
 http://176.65.146.139:8013/play/a071/index.m3u8
-#EXTINF:-1 tvg-id="5g8ftn",Dave UK
-no
 #EXTINF:-1 tvg-id="orangemmm",Nick Australia
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=752176&extension=ts&play_token=pBZyGpJHCb
 #EXTINF:-1 tvg-id="6hecruejir8",Nick Global
 http://94.139.204.6:6081/play/a02w
-#EXTINF:-1 tvg-id="uhr2893rn.3",A&E East
+#EXTINF:-1 tvg-id="uhr2893rn.3",A&E
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/85994
 #EXTINF:-1 tvg-id="93un8r39.38n",Adult Swim LA
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30909
@@ -120,22 +116,20 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manife
 http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="history2",History 2 Espanol
 http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="usa.la",USA Network LA
+http://167.250.39.130:8000/play/syfy
 #EXTINF:-1 tvg-id="24h TVE",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel Espana
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="beinsports.es1",BeIN Sports Espanol
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="syfy.east",SYFY
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2552
 #EXTINF:-1 tvg-id="j9e",Freeform
 http://thevdm.xyz:25461/Jennifer/Year!/31419
-#EXTINF:-1 tvg-id="mynine",MyTV 9
-http://fortv.cc:8080/N0QaDD/625713/176368
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
 http://thevdm.xyz:25461/Jennifer/Year!/20881
 #EXTINF:-1 tvg-id="fxtveast",FX East
@@ -198,8 +192,6 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/7345
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/32316
-#EXTINF:-1 tvg-id="mov-drama",Movistar Drama
-http://45.90.105.74:25461/bud-1882009/1e621f3272/2224
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East
@@ -232,6 +224,8 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
+#EXTINF:-1 tvg-id="pepsitwist",AMC Spain
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="V",VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
@@ -239,8 +233,6 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 http://fortv.cc:8080/N0QaDD/625713/57969
-#EXTINF:-1 tvg-id="nbu",NBC Universo
-http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
 http://thevdm.xyz:25461/timmadden/timmad4765/44182
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
