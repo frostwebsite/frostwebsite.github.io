@@ -21,6 +21,8 @@ http://45.232.176.17:8000/play/a00r
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="minimax",Minimax
 http://87.97.115.118:9981/stream/channelid/326466090?profile=pass
+#EXTINF:-1 tvg-id="starzfam",Starz Kids & Family
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
 #EXTINF:-1 tvg-id="9rush",9Rush (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 #EXTINF:-1 tvg-id="pop.uk",Pop UK
@@ -34,7 +36,7 @@ https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="canal19",Canal 19
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="laff.tx",Laff
-http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/86038
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471429
 #EXTINF:-1 tvg-id="tcmeast",TCM
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-id="depeliculaplus",De Pelicula Plus
