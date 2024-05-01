@@ -9,6 +9,8 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="aztecagt",Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-id="pbsworld",PBS World
+https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="brazil.nick",Nickelodeon Brazil
 http://51.158.126.99:9981/stream/channelid/133107383?profile=pass
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
