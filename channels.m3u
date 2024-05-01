@@ -9,12 +9,20 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="aztecagt",Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-id="canal21",Canal 21
+https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="pbsworld",PBS World
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="brazil.nick",Nickelodeon Brazil
 http://51.158.126.99:9981/stream/channelid/133107383?profile=pass
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://45.232.176.17:8000/play/a00r
+#EXTINF:-1 tvg-id="sbtbrazil",SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="minimax",Minimax
+http://87.97.115.118:9981/stream/channelid/326466090?profile=pass
+#EXTINF:-1 tvg-id="9rush",9Rush (Geoblocked)
+https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 #EXTINF:-1 tvg-id="pop.uk",Pop UK
 http://176.65.146.170:8014/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="cn.east",Cartoon Network
@@ -23,6 +31,8 @@ http://thevdm.xyz:25461/timmadden/timmad4765/20869
 http://38.252.238.5:6102/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="lasestrellas",Las Estrellas
 https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="canal19",Canal 19
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="laff.tx",Laff
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/86038
 #EXTINF:-1 tvg-id="tcmeast",TCM
