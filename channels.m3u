@@ -7,6 +7,8 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="soltv",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 tvg-id="aztecagt"Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="pop.uk",Pop UK
