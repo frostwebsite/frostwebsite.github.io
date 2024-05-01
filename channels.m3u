@@ -13,10 +13,24 @@ http://thevdm.xyz:25461/timmadden/timmad4765/20869
 http://38.252.238.5:6102/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="laff.tx",Laff
 http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/86038
+#EXTINF:-1 tvg-id="tcmeast",TCM
+http://143.244.60.30/TCM/index.m3u8
+#EXTINF:-1 tvg-id="nickpluto",Nick Pluto TV
+https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
+#EXTINF:-1 tvg-id="toonamiaftermath",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="thistv",ThisTv
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 tvg-id="judge",CourtTv
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-id="tbd",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-id="discoveryeast",Discovery Channel US
 http://fortv.cc:8080/N0QaDD/625713/9811
 #EXTINF:-1 tvg-id="PBS New York WNET",PBS
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="wackchannel",Nosey Judge Karen's Court
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
 #EXTINF:-1 tvg-id="jjhhhhyyegggettddyyshh",Cufo
 http://45.90.80.250:8000/play/a01c
 #EXTINF:-1 tvg-id="nbcny",NBC
