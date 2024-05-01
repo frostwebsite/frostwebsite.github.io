@@ -29,6 +29,10 @@ http://143.244.60.30/TCM/index.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="disneyeastyo",Disney Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
+#EXTINF:-1 tvg-id="disneyxdeast",Disney XD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421519
 #EXTINF:-1 tvg-id="nickpluto",Nick Pluto TV
 https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath",Toonami Aftermath
