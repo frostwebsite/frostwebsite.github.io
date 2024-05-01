@@ -28,7 +28,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
 #EXTINF:-1 tvg-id="9rush",9Rush (Geoblocked)
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 #EXTINF:-1 tvg-id="pop.uk",Pop UK
-http://176.65.146.170:8014/play/a06f/index.m3u8
+http://46.128.235.49:9981/stream/channel/bad57760ec66ac5c1eb21fffd7663676
 #EXTINF:-1 tvg-id="cn.east",Cartoon Network
 http://thevdm.xyz:25461/timmadden/timmad4765/20869
 #EXTINF:-1 tvg-id="euceehr888833hcuhe373",Comedy Central LA
@@ -81,7 +81,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/77110
 #EXTINF:-1 tvg-id="ej8cnrmex876gnmheuw",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="7ho9doh",Channel 4 UK
-http://fortv.cc:8080/N0QaDD/625713/99138
+http://148.69.168.89:9981/stream/channel/6107832c5c15b1538ad71aab2ea601b1
 #EXTINF:-1 tvg-id="itv3",ITV3
 http://46.128.235.49:9981/stream/channel/c8cd775652f42a115bb7f462a3f2b3e7
 #EXTINF:-1 tvg-id="e9w8ej88888888888888",Sky Cinema Animation
@@ -137,20 +137,19 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dreamworks_qp.m3u8
 #EXTINF:-1 tvg-id="ybgey63636363663g",Nick Asia
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
 #EXTINF:-1 tvg-id="e4uk",E4
-http://fortv.cc:8080/N0QaDD/625713/53672
+http://148.69.168.89:9981/stream/channel/b199bc0c41a786ef295e5bba75d2275a
 #EXTINF:-1 tvg-id="itv1",ITV1
-http://176.65.146.170:8012/play/a06q/index.m3u8
+http://46.128.235.49:9981/stream/channel/1efbc1605af86b1f2ab1928807ebdba2
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee",ITV2
-http://176.65.146.170:8012/play/a06l/index.m3u8
-https://directv.bz/uuid/479mphnj/key/4930887214dac3b95845b03e7d503fc2
+http://148.69.168.89:9981/stream/channel/80f85a35800d8866b8c80f67ef9e9ff8
 #EXTINF:-1 tvg-id="itv4",ITV4
-http://176.65.146.170:8012/play/a06r/index.m3u8
+http://148.69.168.89:9981/stream/channel/4e583a8d07b2176ee82ec62f4bd1b8b6
 #EXTINF:-1 tvg-id="github.com",ITVBe
-http://176.65.146.170:8012/play/a06s/index.m3u8
-#EXTINF:-1 tvg-id="becausemaybe",CBeebies
-http://45.153.35.210:8000/play/UK_cbeebies_HD/index.m3u8
+http://148.69.168.89:9981/stream/channel/af8ed6886de3eb3bcc8cc1844715e102
+#EXTINF:-1 tvg-id="becausemaybe",CBeebies / BBC Four
+http://45.153.35.210:8000/play/UK_cbeebies_HD
 #EXTINF:-1 tvg-id="5uk",5 UK
-http://176.65.146.139:8013/play/a071/index.m3u8
+http://46.128.235.49:9981/stream/channel/5666d01c1737f41d8a35df3875446213
 #EXTINF:-1 tvg-id="orangemmm",Nick Australia
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=752176&extension=ts&play_token=pBZyGpJHCb
 #EXTINF:-1 tvg-id="6hecruejir8",Nick Global
@@ -304,5 +303,17 @@ http://181.191.140.241:9981/stream/channelid/1406345330?profile=pass
 http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
 #EXTINF:-1 tvg-id="disneyjunior.la",Disney Junior LA
 http://138.59.177.34:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="disneychannel.hu",Disney Channel HU/CZ
+http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profile=pass
+#EXTINF:-1 tvg-id="disneychannel.ro",Disney Channel RO
+http://86.120.245.60:9981/stream/channel/73afac2cb402247b18d4ab9748c07f15
+#EXTINF:-1 tvg-id="e4extrauk",E4 Extra
+http://148.69.168.89:9981/stream/channel/6bc8157cf9641f5a9282e637fe96e9a0
+#EXTINF:-1 tvg-id="bbcthree",BBC Three
+http://148.69.168.89:9981/stream/channel/4d3abdf2c3c4825a7303b1c0eab892dd
+#EXTINF:-1 tvg-id="cbbc",CBBC
+http://46.128.235.49:9981/stream/channel/71f2b29b24d5f4a48eda1810c518db83
+#EXTINF:-1 tvg-id="jimjamhu",JimJam HU
+http://185.157.160.113:9981/stream/channelid/2001324029?profile=pass
 #EXTINF:-1 tvg-id="movie-sth2",Sonic the Hedgehog 2 (Movie)
 http://fortv.cc:8080/movie/N0QaDD/625713/168891.mp4
