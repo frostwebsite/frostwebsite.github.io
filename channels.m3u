@@ -317,5 +317,9 @@ http://148.69.168.89:9981/stream/channel/4d3abdf2c3c4825a7303b1c0eab892dd
 http://46.128.235.49:9981/stream/channel/71f2b29b24d5f4a48eda1810c518db83
 #EXTINF:-1 tvg-id="jimjamhu",JimJam HU
 http://185.157.160.113:9981/stream/channelid/2001324029?profile=pass
+#EXTINF:-1 tvg-id="cnde",Cartoon Network DE
+http://46.142.8.244:9981/stream/channel/a86b149501db0d8c2edb4949275f2ece
+#EXTINF:-1 tvg-id="citode",Cartoonito DE
+http://46.142.8.244:9981/stream/channel/c383862db21662fc454d594b69209ce9
 #EXTINF:-1 tvg-id="movie-sth2",Sonic the Hedgehog 2 (Movie)
 http://fortv.cc:8080/movie/N0QaDD/625713/168891.mp4
