@@ -215,6 +215,12 @@ http://fortv.cc:8080/N0QaDD/625713/63850
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="6ta",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="boing.it",Boing Italy
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:-1 tvg-id="OndaMadrid.es",Onda Madrid
+https://tvradio-1-23.secure2.footprint.net/master.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es",Telemadrid
+https://telemadrid-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="p-luche",La Familia P. Luche 24/7
 https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="unafamiliadediez",Una Familia de Diez 24/7
@@ -318,8 +324,10 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC.us",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-id="CONtvAnime.us",CONtv Anime
-https://contvanime-roku-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 tvg-id="bbcthree",BBC Three
+http://148.69.168.89:9981/stream/channel/4d3abdf2c3c4825a7303b1c0eab892dd
+#EXTINF:-1 tvg-id="cbbc",CBBC
+http://46.128.235.49:9981/stream/channel/71f2b29b24d5f4a48eda1810c518db83
 #EXTINF:-1 tvg-id="RCNXtra.co",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us",Ion Plus
