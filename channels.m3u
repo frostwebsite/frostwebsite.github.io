@@ -114,10 +114,6 @@ http://138.59.177.34:8000/play/a01l/index.m3u8
 http://131.161.53.2:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="fx-es",FX LA
 http://131.161.53.2:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="telem-nj",Telemundo 47
-http://45.90.105.74:25461/bud-1882009/1e621f3272/14807
-#EXTINF:-1 tvg-id="euhieuh849",Cozi TV
-http://161.97.139.200:2095/azhaitiinterc349/tUCP4JyX4H/30931
 #EXTINF:-1 tvg-id="u3rdhs833hd8",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
@@ -146,8 +142,6 @@ http://45.153.35.210:8000/play/UK_cbeebies_HD
 http://46.128.235.49:9981/stream/channel/5666d01c1737f41d8a35df3875446213
 #EXTINF:-1 tvg-id="orangemmm",Nick Australia
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=752176&extension=ts&play_token=pBZyGpJHCb
-#EXTINF:-1 tvg-id="6hecruejir8",Nick Global
-http://94.139.204.6:6081/play/a02w
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan TVE España
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
@@ -166,13 +160,13 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 http://thevdm.xyz:25461/Jennifer/Year!/31419
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
 http://thevdm.xyz:25461/Jennifer/Year!/20881
-#EXTINF:-1 tvg-id="fxtveast",FX East
+#EXTINF:-1 tvg-id="fxtveast",FX
 http://thevdm.xyz:25461/Jennifer/Year!/39767
-#EXTINF:-1 tvg-id="efexem",FXM East
+#EXTINF:-1 tvg-id="efexem",FXM
 http://thevdm.xyz:25461/Jennifer/Year!/39768
-#EXTINF:-1 tvg-id="fxx.east",FXX East
+#EXTINF:-1 tvg-id="fxx.east",FXX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
-#EXTINF:-1 tvg-id="galatv",Galavision East
+#EXTINF:-1 tvg-id="galatv",Galavision
 http://thevdm.xyz:25461/Jennifer/Year!/19905
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
 http://thevdm.xyz:25461/timmadden/timmad4765/39744
@@ -256,7 +250,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/mani
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
-http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 http://fortv.cc:8080/N0QaDD/625713/57969
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
@@ -279,7 +272,7 @@ http://181.191.140.241:9981/stream/channelid/1387718077?profile=pass
 http://181.191.140.241:9981/stream/channelid/1406345330?profile=pass
 #EXTINF:-1 tvg-id="disneychannel.la",Disney Channel LA
 http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
-#EXTINF:-1 tvg-id="disneyjunior.la",Disney Junior LA
+#EXTINF:-1 tvg-id="disneyjunior.la",Disney Junior Mexico
 http://138.59.177.34:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="disneychannel.hu",Disney Channel HU/CZ
 http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profile=pass
