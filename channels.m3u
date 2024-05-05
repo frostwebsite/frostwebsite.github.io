@@ -11,6 +11,22 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="9televisa",NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 tvg-id="9GemSydney.au",9Gem
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+#EXTINF:-1 tvg-id="10BoldSydney.au",10 Bold
+https://i.mjh.nz/10bold-nsw.m3u8
+#EXTINF:-1 tvg-id="10PeachSydney.au",10 Peach
+https://i.mjh.nz/10peach-nsw.m3u8
+#EXTINF:-1 tvg-id="ABCTVWA.au",ABC Australia
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 tvg-id="Channel7Sydney.au",7 Sydney
+https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
+#EXTINF:-1 tvg-id="Channel9Sydney.au",9 Sydney
+https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+#EXTINF:-1 tvg-id="10Sydney.au",10 Sydney
+https://i.mjh.nz/10-nsw.m3u
+#EXTINF:-1 tvg-id="72au",7two
+https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
 #EXTINF:-1 tvg-id="retrotv.us",Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
