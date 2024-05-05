@@ -25,6 +25,8 @@ http://190.7.19.205:8088/play/a0lk/index.m3u8
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="brazil.nick",Nickelodeon Brazil
 http://51.158.126.99:9981/stream/channelid/133107383?profile=pass
+#EXTINF:-1 tvg-id="skynews.uk",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="starzfam",Starz Kids & Family
