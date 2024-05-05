@@ -242,10 +242,6 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="boing.it",Boing Italy
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1 tvg-id="OndaMadrid.es",Onda Madrid
-https://tvradio-1-23.secure2.footprint.net/master.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.es",Telemadrid
-https://telemadrid-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="p-luche",La Familia P. Luche 24/7
 https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="unafamiliadediez",Una Familia de Diez 24/7
