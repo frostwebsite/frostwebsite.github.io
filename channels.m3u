@@ -306,7 +306,7 @@ http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="unimas.us",UniMas
-http://fortv.cc:8080/N0QaDD/625713/57969
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
 http://thevdm.xyz:25461/timmadden/timmad4765/44182
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
