@@ -289,6 +289,8 @@ https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us",La Rosa de Guadalupe 24/7
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="e4testing",E4 HD
+http://176.65.146.105:8011/play/E4HD/index.m3u8
 #EXTINF:-1 tvg-id="TNT East",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HLN.us",HLN
