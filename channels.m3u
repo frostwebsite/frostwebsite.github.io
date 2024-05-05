@@ -27,6 +27,8 @@ https://c.mjh.nz/abc-wa.m3u8
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1 tvg-id="Channel9Sydney.au",9 Sydney
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+#EXTINF:-1 tvg-id="9lifeau",9Life
+https://9now-livestreams.akamaized.net/hls/live/2008328/life-bne/master.m3u8
 #EXTINF:-1 tvg-id="10Sydney.au",10 Sydney
 https://i.mjh.nz/10-nsw.m3u
 #EXTINF:-1 tvg-id="72au",7two
@@ -71,6 +73,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk",Pop UK
 http://46.128.235.49:9981/stream/channel/bad57760ec66ac5c1eb21fffd7663676
+http://hybridtv.ss7.tv/whitelabel/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay
 #EXTINF:-1 tvg-id="cn.east",Cartoon Network
 http://thevdm.xyz:25461/timmadden/timmad4765/20869
 #EXTINF:-1 tvg-id="euceehr888833hcuhe373",Comedy Central LA
