@@ -13,6 +13,10 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 tvg-id="9GemSydney.au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+#EXTINF:-1 tvg-id="7mateau",7mate
+https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
+#EXTINF:-1 tvg-id="7flixau",7flix
+https://npc.cdn.7livecloud.io/hls/live/MEL6/master.m3u8
 #EXTINF:-1 tvg-id="10BoldSydney.au",10 Bold
 https://i.mjh.nz/10bold-nsw.m3u8
 #EXTINF:-1 tvg-id="10PeachSydney.au",10 Peach
