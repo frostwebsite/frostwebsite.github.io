@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTINF:-1 tvg id="Discovery Kids",Discovery Kids Guatemala
+#EXTINF:-1 tvg id="Discovery Kids",Discovery Kids
 http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -7,7 +7,7 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="soltv",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="aztecagt",Azteca Guate
+#EXTINF:-1 tvg-id="aztecagt",Azteca
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="9televisa",NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
@@ -33,8 +33,6 @@ https://9now-livestreams.akamaized.net/hls/live/2008328/life-bne/master.m3u8
 https://i.mjh.nz/10-nsw.m3u
 #EXTINF:-1 tvg-id="72au",7two
 https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
-#EXTINF:-1 tvg-id="retrotv.us",Retro TV
-https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="bbchome.us",BBC Home
