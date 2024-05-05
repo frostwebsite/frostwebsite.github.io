@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
+#EXTINF:-1 tvg-id="7mateau",7mate
+https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
 #EXTINF:-1 tvg id="Discovery Kids",Discovery Kids
 http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5
@@ -13,8 +15,6 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 tvg-id="9GemSydney.au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-id="7mateau",7mate
-https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
 #EXTINF:-1 tvg-id="7flixau",7flix
 https://npc.cdn.7livecloud.io/hls/live/MEL6/master.m3u8
 #EXTINF:-1 tvg-id="10BoldSydney.au",10 Bold
@@ -252,9 +252,9 @@ https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
-#EXTINF:-1 tvg-id="9GoSydney.au",9Go! (Geoblocked)
+#EXTINF:-1 tvg-id="9GoSydney.au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-id="9LifeSydney.au",9Life (Geoblocked)
+#EXTINF:-1 tvg-id="9LifeSydney.au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
@@ -271,7 +271,7 @@ https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_h
 #EXTINF:-1 tvg-id="TBSEast.us",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-id="",Toonami Aftermath Movies
+#EXTINF:-1 tvg-id="youwillflip",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us",Shop LC
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
@@ -329,7 +329,7 @@ http://181.191.140.241:9981/stream/channelid/1387718077?profile=pass
 http://181.191.140.241:9981/stream/channelid/1406345330?profile=pass
 #EXTINF:-1 tvg-id="disneychannel.la",Disney Channel LA
 http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
-#EXTINF:-1 tvg-id="disneyjunior.la",Disney Junior MX
+#EXTINF:-1 tvg-id="disneyjunior.la",Disney Junior Panregional
 http://138.59.177.34:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="disneychannel.hu",Disney Channel HU/CZ
 http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profile=pass
