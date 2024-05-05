@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
 #EXTINF:-1 tvg id="Discovery Kids",Discovery Kids
 http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5
