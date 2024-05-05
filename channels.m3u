@@ -74,6 +74,8 @@ http://thevdm.xyz:25461/timmadden/timmad4765/20869
 https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="canal19",Canal 19
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="univision8771872913",Univision
+https://unidfp-nlds143.global.ssl.fastly.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="laff.tx",Laff
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471429
 #EXTINF:-1 tvg-id="tcmeast",TCM
