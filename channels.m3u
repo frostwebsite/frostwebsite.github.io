@@ -7,6 +7,8 @@ http://181.78.105.146:8800/play/a06j
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="bitmebased",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="bravo.us.ithink",Bravo
+http://170.254.18.106/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="soltv",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="aztecagt",Azteca
