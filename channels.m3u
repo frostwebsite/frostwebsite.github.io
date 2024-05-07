@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
+#EXTINF:-1 tvg-id="bitmebased",BitMe
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="7mateau",7mate
 https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
 #EXTINF:-1 tvg id="Discovery Kids",Discovery Kids
 http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="bitmebased",BitMe
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="bravo.us.ithink",Bravo
 http://170.254.18.106/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="tf1.fr",TF1
@@ -338,8 +338,6 @@ http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
 http://138.59.177.34:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="disneychannel.hu",Disney Channel HU/CZ
 http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profile=pass
-#EXTINF:-1 tvg-id="disneychannel.ro",Disney Channel RO
-http://86.120.245.60:9981/stream/channel/73afac2cb402247b18d4ab9748c07f15
 #EXTINF:-1 tvg-id="IONTVEast.us",Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="QVC2.us",QVC2
