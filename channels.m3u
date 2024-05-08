@@ -9,6 +9,8 @@ http://181.78.105.146:8800/play/a06j
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="bravo.us.ithink",Bravo
 http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="film4.uk",Film4
+https://epg.pw/stream/39c853b8a26a046ac0dbc9d93a9212cd1588a735ba510cb6c0c76c25a5b2aeb5.m3u8
 #EXTINF:-1 tvg-id="tf1.fr",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://searchtv.net/stream/uuid/4770c3s1/
