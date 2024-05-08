@@ -15,8 +15,6 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159081
 #EXTINF:-1 tvg-id="bravo.us.ithink",Bravo
 http://170.254.18.106/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="film4.uk",Film4
-https://epg.pw/stream/39c853b8a26a046ac0dbc9d93a9212cd1588a735ba510cb6c0c76c25a5b2aeb5.m3u8
 #EXTINF:-1 tvg-id="tf1.fr",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://searchtv.net/stream/uuid/4770c3s1/
@@ -30,10 +28,6 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-id="7flixau",7flix
 https://npc.cdn.7livecloud.io/hls/live/MEL6/master.m3u8
-#EXTINF:-1 tvg-id="10BoldSydney.au",10 Bold
-https://i.mjh.nz/10bold-nsw.m3u8
-#EXTINF:-1 tvg-id="10PeachSydney.au",10 Peach
-https://i.mjh.nz/10peach-nsw.m3u8
 #EXTINF:-1 tvg-id="ABCTVWA.au",ABC Australia
 https://c.mjh.nz/abc-wa.m3u8
 #EXTINF:-1 tvg-id="telemundoclone",TeleXitos
@@ -54,8 +48,6 @@ https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylis
 http://190.7.19.205:8088/play/a0lk/index.m3u8
 #EXTINF:-1 tvg-id="pbsworld",PBS World
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="brazil.nick",Nickelodeon Brazil
-http://51.158.126.99:9981/stream/channelid/133107383?profile=pass
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="starzfam",Starz Kids & Family
