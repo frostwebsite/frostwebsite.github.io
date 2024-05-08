@@ -366,3 +366,5 @@ http://46.142.8.244:9981/stream/channel/a86b149501db0d8c2edb4949275f2ece
 http://46.142.8.244:9981/stream/channel/c383862db21662fc454d594b69209ce9
 #EXTINF:-1 tvg-id="rcnmas",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="nickmex",Nickelodeon Mexico
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159132
