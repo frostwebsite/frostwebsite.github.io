@@ -11,10 +11,8 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158662
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165866
 #EXTINF:-1 tvg-id="Canal 5 Mexico",Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="contvamagi.anime",CONtv Anime
-https://contvanime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="whdh",WHDH 7
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-id="wfxt",WFXT
+http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="telenovelachannel",Imagen Television
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159081
 #EXTINF:-1 tvg-id="bravo.us.ithink",Bravo
