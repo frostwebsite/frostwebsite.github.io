@@ -84,7 +84,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 http://46.128.235.49:9981/stream/channel/bad57760ec66ac5c1eb21fffd7663676
 http://hybridtv.ss7.tv/whitelabel/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay
 #EXTINF:-1 tvg-id="cn.east",Cartoon Network
-http://thevdm.xyz:25461/timmadden/timmad4765/20869
+https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
 #EXTINF:-1 tvg-id="lasestrellas",Las Estrellas
 https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="canal19",Canal 19
