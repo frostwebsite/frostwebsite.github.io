@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/ontvtonight.com/ontvtonight.com_us.channels.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/toonamiaftermath.com/toonamiaftermath.com.channels.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
 #EXTINF:-1 tvg-id="bitmebased",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="plswork",FXM (test)
+#EXTINF:-1 tvg-id="itworks",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="7mateau",7mate
 https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
@@ -102,9 +102,9 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo",Disney Channel
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
+https://z88.ubtvfans.com/live/rx3/1208/6db66813ac171f1c1f02c6c71d7e55b9/index.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast",Disney XD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421519
+https://z88.ubtvfans.com/live/rx3/1209/8bcd5d8f8e8839e42d58ccf787600338/index.m3u8
 #EXTINF:-1 tvg-id="nickpluto",Nick Pluto TV
 https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath",Toonami Aftermath
@@ -138,12 +138,8 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://148.69.168.89:9981/stream/channel/6107832c5c15b1538ad71aab2ea601b1
 #EXTINF:-1 tvg-id="itv3",ITV3
 http://46.128.235.49:9981/stream/channel/c8cd775652f42a115bb7f462a3f2b3e7
-#EXTINF:-1 tvg-id="e9w8ej88888888888888",Sky Cinema Animation
-http://fortv.cc:8080/N0QaDD/625713/53698
 #EXTINF:-1 tvg-id="uhhhhhheu83",BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="hhhhhhh19389873n",NESN
-https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn",Bang Bang
 http://45.90.80.250:8000/play/a013
 #EXTINF:-1 tvg-id="Boing.es",Boing
@@ -213,9 +209,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/31419
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
 http://thevdm.xyz:25461/Jennifer/Year!/20881
 #EXTINF:-1 tvg-id="fxtveast",FX
-http://thevdm.xyz:25461/Jennifer/Year!/39767
-#EXTINF:-1 tvg-id="efexem",FXM
-http://thevdm.xyz:25461/Jennifer/Year!/39768
+https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
+#EXTINF:-1 tvg-id="disneyjr.us",Disney Junior US
+https://z88.ubtvfans.com/live/rx3/1210/f58216dd55e6469ef0f91f20c245596f/index.m3u8
 #EXTINF:-1 tvg-id="fxx.east",FXX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
 #EXTINF:-1 tvg-id="galatv",Galavision
