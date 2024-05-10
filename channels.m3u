@@ -5,6 +5,8 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="boom.estadosunidlols",Boomerang
 https://z88.ubtvfans.com/live/rx1/57/68a6c978817ba55956fec930f8aef062/index.m3u8
+#EXTINF:-1 tvg-id="eichgitivee",HGTV
+https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
 #EXTINF:-1 tvg-id="filmfour",Film4
 https://z88.ubtvfans.com/live/rx3/1419/ffba19b4485ead15310abf5fe555cac3/index.m3u8
 #EXTINF:-1 tvg-id="morefouruk",More4
@@ -92,6 +94,8 @@ http://190.7.19.205:8088/play/a0lk/index.m3u8
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="sbt.br",SBT
 https://z88.ubtvfans.com/live/rx1/1747/5be857102a72742ce07a9a3bbf8eea0f/index.m3u8
+#EXTINF:-1 tvg-id="fxmbutnbc",SYFY
+https://z88.ubtvfans.com/live/rx3/1537/091885eb490ed1db9379931e26297e6b/index.m3u
 #EXTINF:-1 tvg-id="usanetwork",USA Network
 https://z88.ubtvfans.com/live/rx3/1230/5356c1d4f2cbde9d7c158b2948e1052d/index.m3u8
 #EXTINF:-1 tvg-id="fyi.network",FYI
