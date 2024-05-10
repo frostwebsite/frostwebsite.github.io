@@ -169,6 +169,8 @@ https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
 #EXTINF:-1 tvg-id="jjhhhhyyegggettddyyshh",Cufo
 http://45.90.80.250:8000/play/a01c
+#EXTINF:-1 tvg-id="Charge.us",Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="nbcny",NBC
 http://thevdm.xyz:25461/Jennifer/Year!/39810
 http://fortv.cc:8080/N0QaDD/625713/120751
@@ -412,6 +414,22 @@ http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profil
 http://86.120.245.60:9981/stream/service/e1495536e24a2769705a5bf9e08a3aa1
 #EXTINF:-1 tvg-id="IONTVEast.us",Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1 tvg-id="8ey873723placeholder",Accion Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-id="placeholder9232973813723y",Canela Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-id="fillername8738178313",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 tvg-id="filler2292929381317hghhhhh13",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-id="filler-name39239139",Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id="fillername02193813139-2398139",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-id="CanelaTV.us",CanelaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1 tvg-id="CineSony.us",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC2.us",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="HSN.us",HSN
@@ -426,6 +444,10 @@ http://148.69.168.89:9981/stream/channel/4d3abdf2c3c4825a7303b1c0eab892dd
 http://46.128.235.49:9981/stream/channel/71f2b29b24d5f4a48eda1810c518db83
 #EXTINF:-1 tvg-id="RCNXtra.co",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us",LEGO Channel
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="kabillion.us",Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us",Ion Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1 tvg-id="e4extrauk",E4 Extra
