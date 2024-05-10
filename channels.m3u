@@ -366,6 +366,8 @@ http://138.59.177.34:8000/play/a026/index.m3u8
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
 #EXTINF:-1 tvg-id="disneychannel.hu",Disney Channel HU/CZ
 http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profile=pass
+#EXTINF:-1 tvg-id="disneychannel.ro",Disney Channel RO
+http://86.120.245.60:9981/stream/service/e1495536e24a2769705a5bf9e08a3aa1
 #EXTINF:-1 tvg-id="IONTVEast.us",Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="QVC2.us",QVC2
