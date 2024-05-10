@@ -398,6 +398,8 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcone",BBC One
+https://z88.ubtvfans.com/live/rx3/1382/d68c20b4e9ce94a17ff5487a4bd075dd/index.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="discoveryscience.la",Discovery Science LA
@@ -442,10 +444,10 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC.us",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-id="bbcthree",BBC Three
+#EXTINF:-1 tvg-id="bbcthree",BBC Three / CBBC
 http://148.69.168.89:9981/stream/channel/4d3abdf2c3c4825a7303b1c0eab892dd
-#EXTINF:-1 tvg-id="cbbc",CBBC
-http://46.128.235.49:9981/stream/channel/71f2b29b24d5f4a48eda1810c518db83
+#EXTINF:-1 tvg-id="bbctwo",BBC Two
+https://z88.ubtvfans.com/live/rx3/1385/683373c0227fd2a7d132b5c477ea3c74/index.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us",LEGO Channel
