@@ -1,3 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="vern1",Vern Hip-Hop
 https://radio.vern.cc/hip-hop.ogg.m3u
+#EXTINF:-1 tvg-id="vern2",Vern Lo-Fi
+https://radio.vern.cc/lofi.ogg.m3u
+#EXTINF:-1 tvg-id="vern3",Vern Metal
+https://radio.vern.cc/metal.ogg.m3u
+#EXTINF:-1 tvg-id="vern4",Vern Rock
+https://radio.vern.cc/rock.ogg.m3u
+#EXTINF:-1 tvg-id="vern5",Vern Metal Instrumentals
+https://radio.vern.cc/metal-instrumental.ogg.m3u
+
