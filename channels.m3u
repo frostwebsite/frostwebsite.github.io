@@ -133,6 +133,8 @@ https://unidfp-nlds143.global.ssl.fastly.net/nlds/univisionnow/univision_ny2/as/
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471429
 #EXTINF:-1 tvg-id="tcmeast",TCM
 http://143.244.60.30/TCM/index.m3u8
+#EXTINF:-1 tvg-id="wolo-dt",WOLO
+http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx",Golden Multiplex
