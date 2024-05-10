@@ -9,6 +9,26 @@ https://z88.ubtvfans.com/live/rx1/57/68a6c978817ba55956fec930f8aef062/index.m3u8
 https://z88.ubtvfans.com/live/rx3/1419/ffba19b4485ead15310abf5fe555cac3/index.m3u8
 #EXTINF:-1 tvg-id="morefouruk",More4
 https://z88.ubtvfans.com/live/rx3/1420/f35b2e93c3f60f2863ccc116d081abc5/index.m3u8
+#EXTINF:-1 tvg-id="I-regret-adding-this",pocket.watch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ChiveTV.us",Chive TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV.us",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us",AFV en Español
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="peopleareawesome.us",People Are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us",The Bob Ross Channel (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us",Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="IGN.us",IGN
+https://ign-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="failarmy.us",FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="5starmax.us",5StarMax
 https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
 #EXTINF:-1 tvg-id="5starmaxus",ActionMax
