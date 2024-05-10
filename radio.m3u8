@@ -1,2 +1,3 @@
-to do later
-us stuff, bbc radio, etc
+#EXTM3U
+#EXTINF:-1 tvg-id="vern1",Vern Hip-Hop
+https://radio.vern.cc/hip-hop.ogg.m3u
