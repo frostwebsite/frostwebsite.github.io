@@ -9,6 +9,18 @@ https://z88.ubtvfans.com/live/rx1/57/68a6c978817ba55956fec930f8aef062/index.m3u8
 https://z88.ubtvfans.com/live/rx3/1419/ffba19b4485ead15310abf5fe555cac3/index.m3u8
 #EXTINF:-1 tvg-id="morefouruk",More4
 https://z88.ubtvfans.com/live/rx3/1420/f35b2e93c3f60f2863ccc116d081abc5/index.m3u8
+#EXTINF:-1 tvg-id="5starmax.us",5StarMax
+https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
+#EXTINF:-1 tvg-id="5starmaxus",ActionMax
+https://z88.ubtvfans.com/live/rx3/1175/8b27c0902fda6e1ff2f2ca6077e50b4e/index.m3u8
+#EXTINF:-1 tvg-id="5star.maxus",MoreMax
+MoreMax,https://z88.ubtvfans.com/live/rx3/1176/1c6d72b168a7dc659aec46ced48d1fa8/index.m3u8
+#EXTINF:-1 tvg-id="cinemax.us",Cinemax
+https://z88.ubtvfans.com/live/rx4/3002/6a6380d51761bed727b446a2af6a9072/index.m3u8
+#EXTINF:-1 tvg-id="skyfootball",Sky Sports Soccer
+https://z88.ubtvfans.com/live/rx3/2782/44176d105a4efd51f12bd721ddaa8d65/index.m3u8
+#EXTINF:-1 tvg-id="skypl",Sky Sports Premier League
+https://z88.ubtvfans.com/live/rx3/2783/37cbc05cc5ecf56870eeef4608a13d3d/index.m3u8
 #EXTINF:-1 tvg-id="7mateau",7mate
 https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
 #EXTINF:-1 tvg id="Discovery Kids",Discovery Kids
@@ -58,10 +70,16 @@ https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylis
 http://190.7.19.205:8088/play/a0lk/index.m3u8
 #EXTINF:-1 tvg-id="pbsworld",PBS World
 https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="sbt.br",SBT
+https://z88.ubtvfans.com/live/rx1/1747/5be857102a72742ce07a9a3bbf8eea0f/index.m3u8
+#EXTINF:-1 tvg-id="usanetwork",USA Network
+https://z88.ubtvfans.com/live/rx3/1230/5356c1d4f2cbde9d7c158b2948e1052d/index.m3u8
+#EXTINF:-1 tvg-id="fyi.network",FYI
+https://z88.ubtvfans.com/live/rx3/1240/36932c5e9077764d39abd138e58a08e5/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="starzfam",Starz Kids & Family
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
+https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
 #EXTINF:-1 tvg-id="9rush",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es",Rakuten Action Movies Spain
@@ -186,6 +204,7 @@ http://148.69.168.89:9981/stream/channel/b199bc0c41a786ef295e5bba75d2275a
 http://46.128.235.49:9981/stream/channel/1efbc1605af86b1f2ab1928807ebdba2
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee",ITV2
 http://148.69.168.89:9981/stream/channel/80f85a35800d8866b8c80f67ef9e9ff8
+https://z88.ubtvfans.com/live/rx3/1402/e7cf50edefdf8c739538773eec6f639e/index.m3u8
 #EXTINF:-1 tvg-id="itv4",ITV4
 http://148.69.168.89:9981/stream/channel/4e583a8d07b2176ee82ec62f4bd1b8b6
 #EXTINF:-1 tvg-id="github.com",ITVBe
@@ -211,10 +230,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="j9e",Freeform
-http://thevdm.xyz:25461/Jennifer/Year!/31419
+https://z88.ubtvfans.com/live/rx3/1560/543a309a2326c7e07ca639bfe1c014ce/index.m3u8
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
-http://thevdm.xyz:25461/Jennifer/Year!/20881
-#EXTINF:-1 tvg-id="fxtveast",FX
+https://z88.ubtvfans.com/live/rx3/1215/434967b138bcea29085ae897edf9beb5/index.m3u8
+#EXTINF:-1 tvg-id="fxtveast",FX US
 https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
 #EXTINF:-1 tvg-id="disneyjr.us",Disney Junior US
 https://z88.ubtvfans.com/live/rx3/1210/f58216dd55e6469ef0f91f20c245596f/index.m3u8
@@ -222,7 +241,6 @@ https://z88.ubtvfans.com/live/rx3/1210/f58216dd55e6469ef0f91f20c245596f/index.m3
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
 #EXTINF:-1 tvg-id="galatv",Galavision
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
-http://thevdm.xyz:25461/Jennifer/Year!/19905
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
 http://thevdm.xyz:25461/timmadden/timmad4765/39744
 #EXTINF:-1 tvg-id="Comet.us",Comet
@@ -300,7 +318,6 @@ http://thevdm.xyz:25461/Jennifer/Year!/20878
 #EXTINF:-1 tvg-id="TUDN.us",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="TBSEast.us",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="youwillflip",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
@@ -326,16 +343,19 @@ http://thevdm.xyz:25461/Jennifer/Year!/39705
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="HBOfam",HBO Family LA
 http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="hbofam.us",HBO Family
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12741
+#EXTINF:-1 tvg-id="hbofamus",HBO Family US
+https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
+https://z88.ubtvfans.com/live/rx3/1408/91d1ae51ed8d1c10b5e8df470a767d1c/index.m3u8
+#EXTINF:-1 tvg-id="e-exclamation-mark-lol",E!
+https://z88.ubtvfans.com/live/rx3/1222/aaf614e97ddb63e36439bd8195e7e26f/index.m3u8
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="pepsitwist",AMC Spain
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="V",VH1
-http://170.254.18.106/VH1/index.m3u8
+https://z88.ubtvfans.com/live/rx3/1532/29e1b856f07b95e18bc79cce37548f64/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="unimas.us",UniMas
