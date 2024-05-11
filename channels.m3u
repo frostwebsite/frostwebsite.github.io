@@ -19,12 +19,6 @@ https://ign-samsungus.amagi.tv/playlist.m3u8
 https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
 #EXTINF:-1 tvg-id="5star.maxus",MoreMax
 MoreMax,https://z88.ubtvfans.com/live/rx3/1176/1c6d72b168a7dc659aec46ced48d1fa8/index.m3u8
-#EXTINF:-1 tvg-id="cinemax.us",Cinemax
-https://z88.ubtvfans.com/live/rx4/3002/6a6380d51761bed727b446a2af6a9072/index.m3u8
-#EXTINF:-1 tvg-id="skyfootball",Sky Sports Soccer
-https://z88.ubtvfans.com/live/rx3/2782/44176d105a4efd51f12bd721ddaa8d65/index.m3u8
-#EXTINF:-1 tvg-id="skypl",Sky Sports Premier League
-https://z88.ubtvfans.com/live/rx3/2783/37cbc05cc5ecf56870eeef4608a13d3d/index.m3u8
 #EXTINF:-1 tvg-id="7mateau",7mate
 https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
 #EXTINF:-1 tvg id="Discovery Kids",Discovery Kids
@@ -180,14 +174,8 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="tdp",Teledeporte
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
-http://131.161.53.2:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="cneduhehrd",Cartoon Network Colombia
 http://138.59.177.34:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="eidjeijd",El Gourmet
-http://131.161.53.2:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="fx-es",FX LA
-http://131.161.53.2:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="u3rdhs833hd8",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr
@@ -275,7 +263,7 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158827
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158828
 #EXTINF:-1 tvg-id="ESPN4.mx",ESPN 4 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/15883
-#EXTINF:-1 tvg-id="tlnovelas1",TLNovelas
+#EXTINF:-1 tvg-id="tlnovelas1",TLNovelas Mexico
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="tlsur",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
