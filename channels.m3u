@@ -285,43 +285,41 @@ https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
-#EXTINF:-1 tvg-id="9GoSydney.au",9Go!
+#EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-id="9LifeSydney.au",9Life
+#EXTINF:-1 tvg-id="9LifeSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png?20211019042107",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30420/s30420_ll_h15_ab.png?w=55",NickToons
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="espngringoland" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10179/s10179_ll_h15_aa.png?w=55",ESPN US
+#EXTINF:-1 tvg-id="espngringoland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN US
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59337/s59337_ll_h15_ab.png?w=55",AMC
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png",AMC
 http://170.254.18.106/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="challenge",Challenge UK
 https://dpjhjf99gqyr4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvzenqyvh6pyy/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="nickmtv",NickMusic
 http://thevdm.xyz:25461/Jennifer/Year!/20878
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77033/s75176_ll_h15_ae.png?w=55",TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58515/s58515_ll_h15_ac.png?w=55",TBS
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="youwillflip",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 tvg-id="ShopLC.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56032/s56032_ll_h15_ac.png?w=55",ShopLC
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Shop_LC_Logo.svg/200px-Shop_LC_Logo.svg.png",ShopLC
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
-#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/101260/s101260_ll_h15_ab.png?w=55",QVC3
+#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/QVC3_2019.svg/revision/latest?cb=20221116035218",QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us",La Rosa de Guadalupe 24/7
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT East" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/42642/s42642_ll_h15_ac.png?w=55",TNT
+#EXTINF:-1 tvg-id="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64549/s64549_ll_h15_ac.png?w=55",HLN
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="discovery-fam.us",Discovery Family
-http://fortv.cc:8080/N0QaDD/625713/10538
-#EXTINF:-1 tvg-id="animalplanet.us",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet
 http://thevdm.xyz:25461/Jennifer/Year!/39705
-#EXTINF:-1 tvg-id="BET-english",BET
+#EXTINF:-1 tvg-id="BET-english" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg",BET
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="HBOfam",HBO Family LA
 http://170.254.18.106/HBO_FAMILY/index.m3u8
