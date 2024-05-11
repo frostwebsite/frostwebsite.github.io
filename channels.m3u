@@ -321,20 +321,15 @@ http://thevdm.xyz:25461/Jennifer/Year!/39705
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="HBOfam",HBO Family LA
 http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="hbofamus",HBO Family US
-https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
-https://z88.ubtvfans.com/live/rx3/1408/91d1ae51ed8d1c10b5e8df470a767d1c/index.m3u8
-#EXTINF:-1 tvg-id="e-exclamation-mark-lol",E!
-https://z88.ubtvfans.com/live/rx3/1222/aaf614e97ddb63e36439bd8195e7e26f/index.m3u8
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="pepsitwist",AMC Spain
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="VHuno",VH1
-https://z88.ubtvfans.com/live/rx3/1532/29e1b856f07b95e18bc79cce37548f64/index.m3u8
-#EXTINF:-1 tvg-id="investigation-discover",Investigation Discovery
+http://170.254.18.106/VH1/index.m3u8
+#EXTINF:-1 tvg-id="investigation-discovery",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
@@ -352,14 +347,6 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 https://z88.ubtvfans.com/live/rx3/1382/d68c20b4e9ce94a17ff5487a4bd075dd/index.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="discoveryscience.la",Discovery Science LA
-http://181.191.140.241:9981/stream/channelid/1921921725?profile=pass
-#EXTINF:-1 tvg-id="discoverytheater.la",Discovery Theater LA
-http://181.191.140.241:9981/stream/channelid/1387718077?profile=pass
-#EXTINF:-1 tvg-id="discoveryworld.la",Discovery World LA
-http://181.191.140.241:9981/stream/channelid/1406345330?profile=pass
-#EXTINF:-1 tvg-id="disneychannel.la",Disney Channel LA
-http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
 #EXTINF:-1 tvg-id="disneyjunior.mx",Disney Junior Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
 #EXTINF:-1 tvg-id="disneychannel.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel HU/CZ
