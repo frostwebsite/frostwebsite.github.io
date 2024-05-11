@@ -9,9 +9,9 @@ https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3
 https://z88.ubtvfans.com/live/rx3/1419/ffba19b4485ead15310abf5fe555cac3/index.m3u8
 #EXTINF:-1 tvg-id="morefouruk" tvg-logo="https://img.freeviewplay.tv/s885f1093c87216a97631c9a49a2aff89?w=160",More4
 https://z88.ubtvfans.com/live/rx3/1420/f35b2e93c3f60f2863ccc116d081abc5/index.m3u8
-#EXTINF:-1 tvg-id="AFV.us",AFV
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/AFHV_new_logo.png/220px-AFHV_new_logo.png",AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AFVEspanol.us",AFV en Español
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/AFV_2004.png/revision/latest/scale-to-width-down/250?cb=20230718232723",AFV en Español
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://seeklogo.com/images/I/ign-logo-4A32DEDED6-seeklogo.com.png",IGN
 https://ign-samsungus.amagi.tv/playlist.m3u8
@@ -58,7 +58,7 @@ https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 https://i.mjh.nz/10-nsw.m3u
 #EXTINF:-1 tvg-id="72au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1200px-7two_logo_2020.svg.png",7two
 https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
-#EXTINF:-1 tvg-id="bbchome.us",BBC Home
+#EXTINF:-1 tvg-id="bbchome.us",BBC Home & Garden
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="canal21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",Canal 21
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
@@ -72,42 +72,42 @@ https://z88.ubtvfans.com/live/rx1/1747/5be857102a72742ce07a9a3bbf8eea0f/index.m3
 https://z88.ubtvfans.com/live/rx3/1537/091885eb490ed1db9379931e26297e6b/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Tooncast_%28green%29.png/revision/latest?cb=20161207193208",Tooncast
 http://45.232.176.17:8000/play/a00r
-#EXTINF:-1 tvg-id="starzfam",Starz Kids & Family
+#EXTINF:-1 tvg-id="starzfam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/2560px-Starz_Kids_%26_Family_2016.svg.png",Starz Kids & Family
 https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
 #EXTINF:-1 tvg-id="9rush" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/9Rush_2020.png/revision/latest/scale-to-width-down/1200?cb=20210323093606",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es",Rakuten Action Movies Spain
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Action Movies Spain
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es",Rakuten Comedy Movies Spain
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Comedy Movies Spain
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlight.es",Rakuten Spotlight Spain
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Spotlight Spain
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Rakuten Top Free Spain
+#EXTINF:-1 tvg-id="rakutentopfree.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Top Free Spain
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es",Rakuten TV Family Spain
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV Family Spain
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Shows Spain
+#EXTINF:-1 tvg-id="rakutentvshows.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Series Spain
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us",Always Funny Videos
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Always Funny Videos
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="YuGiOh.us",Pluto TV Yu-Gi-Oh
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Pluto TV Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="pop.uk",Pop UK
+#EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
 http://46.128.235.49:9981/stream/channel/bad57760ec66ac5c1eb21fffd7663676
 http://hybridtv.ss7.tv/whitelabel/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay
-#EXTINF:-1 tvg-id="cn.east",Cartoon Network
+#EXTINF:-1 tvg-id="cn.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
-#EXTINF:-1 tvg-id="lasestrellas",Las Estrellas
+#EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png",Las Estrellas
 https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="canal19",Canal 19
+#EXTINF:-1 tvg-id="canal19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_19_El_Salvador_%282022%29.svg/revision/latest/scale-to-width-down/300?cb=20240131022938",Canal 19
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="univision8771872913",Univision
+#EXTINF:-1 tvg-id="univision8771872913" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png",Univision
 https://unidfp-nlds143.global.ssl.fastly.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="laff.tx",Laff
+#EXTINF:-1 tvg-id="laff.tx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",Laff
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471429
-#EXTINF:-1 tvg-id="tcmeast",TCM
+#EXTINF:-1 tvg-id="tcmeast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM
 http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx",Golden Multiplex
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
