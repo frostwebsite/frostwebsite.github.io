@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/ontvtonight.com/ontvtonight.com_us.channels.xml,https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/toonamiaftermath.com/toonamiaftermath.com.channels.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
-#EXTINF:-1 tvg-id="bitmebased",BitMe
+#EXTINF:-1 tvg-id="bitmebased" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="itworks" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70253/s70253_ll_h15_aa.png?w=55",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
@@ -357,7 +357,7 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bbcone",BBC One
+#EXTINF:-1 tvg-id="bbcone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
 https://z88.ubtvfans.com/live/rx3/1382/d68c20b4e9ce94a17ff5487a4bd075dd/index.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -371,11 +371,11 @@ http://181.191.140.241:9981/stream/channelid/1406345330?profile=pass
 http://181.191.140.241:9981/stream/channelid/301896035?profile=pass
 #EXTINF:-1 tvg-id="disneyjunior.mx",Disney Junior Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
-#EXTINF:-1 tvg-id="disneychannel.hu",Disney Channel HU/CZ
+#EXTINF:-1 tvg-id="disneychannel.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel HU/CZ
 http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profile=pass
-#EXTINF:-1 tvg-id="disneychannel.ro",Disney Channel Romania
+#EXTINF:-1 tvg-id="disneychannel.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel Romania
 http://86.120.245.60:9981/stream/service/e1495536e24a2769705a5bf9e08a3aa1
-#EXTINF:-1 tvg-id="IONTVEast.us",Ion
+#EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg",Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="8ey873723placeholder",Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
@@ -389,29 +389,29 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-id="fillername02193813139-2398139",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-id="CanelaTV.us",CanelaTV
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://play-lh.googleusercontent.com/n7CZYeIMsNI2oVgTCUZYh27t1R78GzVxNwjRRPEl_RoLkKnGhuW7BHuRnW7r78AWXDY",CanelaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 #EXTINF:-1 tvg-id="CineSony.us",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="QVC2.us",QVC2
+#EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/QVC2_logo_2019.svg/1280px-QVC2_logo_2019.svg.png",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
-#EXTINF:-1 tvg-id="HSN.us",HSN
+#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1 tvg-id="HSN2.us",HSN2
+#EXTINF:-1 tvg-id="HSN2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/HSN2_2010_flat.png/revision/latest/scale-to-width-down/1200?cb=20230826193804",HSN2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
-#EXTINF:-1 tvg-id="QVC.us",QVC
+#EXTINF:-1 tvg-id="QVC.us" tvg-logo="https://i.pinimg.com/originals/4b/c3/d7/4bc3d72d911f20633d8705f270c24bbc.png",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-id="bbcthree",BBC Three / CBBC
+#EXTINF:-1 tvg-id="bbcthree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1200px-BBC_Three_2022.svg.png",BBC Three / CBBC
 http://148.69.168.89:9981/stream/channel/4d3abdf2c3c4825a7303b1c0eab892dd
-#EXTINF:-1 tvg-id="bbctwo",BBC Two
+#EXTINF:-1 tvg-id="bbctwo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1200px-BBC_Two_logo_2021.svg.png",BBC Two
 https://z88.ubtvfans.com/live/rx3/1385/683373c0227fd2a7d132b5c477ea3c74/index.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IONPlusEast.us",Ion Plus
+#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png",Ion Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-#EXTINF:-1 tvg-id="e4extrauk",E4 Extra
+#EXTINF:-1 tvg-id="e4extrauk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/800px-E4_Extra_logo_2022.svg.png",E4 Extra
 http://148.69.168.89:9981/stream/channel/6bc8157cf9641f5a9282e637fe96e9a0
-#EXTINF:-1 tvg-id="jimjamhu",JimJam HU
+#EXTINF:-1 tvg-id="jimjamhu" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/jimjam_2018_wide.png?itok=ZjGaIPzw",JimJam HU
 http://185.157.160.113:9981/stream/channelid/2001324029?profile=pass
 #EXTINF:-1 tvg-id="cnde",Cartoon Network DE
 http://46.142.8.244:9981/stream/channel/a86b149501db0d8c2edb4949275f2ece
