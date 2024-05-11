@@ -3,6 +3,7 @@
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="itworks",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
+
 #EXTINF:-1 tvg-id="eichgitivee",HGTV
 https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
 #EXTINF:-1 tvg-id="filmfour",Film4
@@ -269,6 +270,8 @@ http://181.78.105.146:2000/play/a08d/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tn23",TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="bein.es",BeIN Sports Español
+http://thevdm.xyz:25461/live/James_axe1@comcast.net/h3hk5H7z6T/19848.m3u8
 #EXTINF:-1 tvg-id="beinxtra.es",BeIN Sports Xtra Español
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv-ca",YTV
