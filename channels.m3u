@@ -141,8 +141,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06
 http://45.90.80.250:8000/play/a01c
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Charge%21_Logo_2020.svg",Charge!
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="nbcny" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/8/82/NBC_logo_%282013%29.svg/2273px-NBC_logo_%282013%29.svg.png",NBC
-http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="foxwfxt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/WFXT_%282009%29.svg/revision/latest/scale-to-width-down/200?cb=20221216082907",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="cbsny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/800px-CBS_logo.svg.png",CBS
