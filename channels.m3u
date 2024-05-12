@@ -291,6 +291,8 @@ https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="NicktoonsSAP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",NickToons with SAP (unstable)
+http://172.111.36.190:6887/stream/directv-us/nicktoons/master.m3u8
 #EXTINF:-1 tvg-id="espngringoland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN US
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png",AMC
