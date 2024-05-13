@@ -19,8 +19,6 @@ https://lnc-bounce-xl.tubi.video/playlist.m3u8
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 tvg-id="nicktoonscisquestionmark",Nicktoons CIS
-https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="bandamax",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hbox-its-not-pron-btw",HBO Xtreme
