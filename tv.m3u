@@ -155,6 +155,8 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="wackchannel",Nosey Judge Karen's Court
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
+#EXTINF:-1 tvg-id="cn.idk",Cartoon Network SEE
+http://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 tvg-id="jjhhhhyyegggettddyyshh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cufo_TV.png/640px-Cufo_TV.png",Cufo
 http://45.90.80.250:8000/play/a01c
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Charge%21_Logo_2020.svg",Charge!
