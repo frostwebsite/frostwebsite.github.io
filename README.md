@@ -2,6 +2,8 @@
 
 Recommended players:
 
+Firestick/Google TV
+
 [VLC](https://www.videolan.org/vlc/)
 
 [VentoX](https://www.apk20.com/apk/com.xtreamcodeapi.ventoxapp)
@@ -9,6 +11,8 @@ Recommended players:
 [Sparkle TV](https://sparkleiptv.com/how-to-purchase-sparkle-tv-plus/)
 
 [NexTV](https://www.app.nextv.fr/)
+
+[TiviMate](https://tivimate.com/)
 
 This list won't work with IPTV Smarters Pro. Yes, it's the most popular player but it won't load channel names properly for some reason :(
 
