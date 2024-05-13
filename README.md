@@ -14,6 +14,8 @@ Recommended players:
 
 [Televizo](https://televizo.net)
 
+[WhatsUpTV](https://www.whatsuptv.app/)
+
 This list won't work with IPTV Smarters Pro. Yes, it's the most popular player but it won't load channel names properly for some reason :(
 
 # Disclaimer
