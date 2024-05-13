@@ -15,6 +15,10 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://seeklogo.com/images/I/ign-logo-4A32DEDED6-seeklogo.com.png",IGN
 https://ign-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="nicktoonscisquestionmark",Nicktoons CIS
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="lifetime.la",Lifetime LA (English audio)
+http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="5starmax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/200px-5StarMax_Logo.svg.png",5StarMax
 https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
 #EXTINF:-1 tvg-id="5star.maxus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/200px-MoreMax_Logo.svg.png",MoreMax
