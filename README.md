@@ -21,8 +21,6 @@ Not trying to cause any harm, just want to provide people with good entertainmen
 
 [TV Channels](https://f.phite.ro/tv.m3u) | [Movies + Series](https://f.phite.ro/vod.m3u) | [Radio; work in progress](https://f.phite.ro/radio.m3u8)
 
-# Awesome people
-
 ## Members
  <a href="https://github.com/cold360"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/8f766628-9c20-467f-b892-621c7648ec93" width="88" height="88"></a>
  <a href="https://github.com/c4artisan"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/d16645c1-9e01-4835-a9c8-7957af9fc04e" width="88" height="88"></a>
