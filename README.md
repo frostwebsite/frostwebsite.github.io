@@ -23,7 +23,7 @@ This list won't work with IPTV Smarters Pro. Yes, it's the most popular player b
 # Disclaimer
 We don't host any of these streams ourselves. All these are publicly available from other sources/sites on the internet.
 
-Want your channel[s] removed? Send an e-mail to popsicle@eclipso.uk / voxelcool@gmail.com (Preferably both as I can't guarantee I'll check one more than the other) and I'll purge the stream[s] asap.
+Want your channel[s] removed? Send an e-mail to hlvoxel@tuta.io / voxelcool@gmail.com (Preferably both as I can't guarantee I'll check one more than the other) and I'll purge the stream[s] asap.
 
 Not trying to cause any harm, just want to provide people with good entertainment from a list that actually works.
 
