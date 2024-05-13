@@ -1,12 +1,14 @@
 # Frost: The simplest IPTV service. Hundreds of channels, various countries, and it's all free.
 
-Recommended players
+Recommended players:
 
 [VLC](https://www.videolan.org/vlc/)
 
-[DangoPlayer](https://brunochanrio.github.io/DangoPlayer/)
+[VentoX](https://www.apk20.com/apk/com.xtreamcodeapi.ventoxapp)
 
 [Sparkle TV](https://sparkleiptv.com/how-to-purchase-sparkle-tv-plus/)
+
+[NexTV](https://www.app.nextv.fr/)
 
 This list won't work with IPTV Smarters Pro. Yes, it's the most popular player but it won't load channel names properly for some reason :(
 
