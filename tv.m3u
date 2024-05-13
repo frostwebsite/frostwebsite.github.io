@@ -15,6 +15,8 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 https://ign-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bounce.xl",Bounce XL
 https://lnc-bounce-xl.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="cinecanalcanal",Cinecanal
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159212
 #EXTINF:-1 tvg-id="britboxFAST.us",Britbox Mysteries
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
@@ -211,12 +213,30 @@ https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/62407
 http://45.90.80.250:8000/play/a013
 #EXTINF:-1 tvg-id="realmadridtv.us",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 tvg-id="natgeomundo.us",Nat Geo Mundo
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158865
+#EXTINF:-1 tvg-id="lifetimela-normal",Lifetime LA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159163
+#EXTINF:-1 tvg-id="hgtvmexico",HGTV Mexico
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159189
+#EXTINF:-1 tvg-id="tnt.la",TNT LA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165821
+#EXTINF:-1 tvg-id="space.mx",Space Mexico
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159256
+#EXTINF:-1 tvg-id="once-kids.mx",Once Ninos
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159141
 #EXTINF:-1 tvg-id="toongoggles.us",Toon Goggles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 tvg-id="toonamiFAST",Toonami (FAST)
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 #EXTINF:-1 tvg-id="wkaq",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="telemundo47.us",Telemundo
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158729
+#EXTINF:-1 tvg-id="discoveryenespanol.us",Discovery en Espanol
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165456
+#EXTINF:-1 tvg-id="espn2.us",ESPN2
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/127365
 #EXTINF:-1 tvg-id="bobross.us",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 tvg-id="bobross.la",The Bob Ross Channel En Espanol
@@ -393,6 +413,10 @@ http://170.254.18.106/BET/index.m3u8
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="cc.la",Comedy Central LA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159155
+#EXTINF:-1 tvg-id="dp.classic",De Pelicula Clasico
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159219
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="pepsitwist",AMC Spain
@@ -404,7 +428,7 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
-http://thevdm.xyz:25461/timmadden/timmad4765/44182
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159135
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="EstrellaGames.us",Estrella Games
@@ -427,6 +451,10 @@ http://86.120.245.60:9981/stream/service/e1495536e24a2769705a5bf9e08a3aa1
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="8ey873723placeholder",Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-id="fx.mx",FX LA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158684
+#EXTINF:-1 tvg-id="golden1.mx",Golden TV
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159222
 #EXTINF:-1 tvg-id="placeholder9232973813723y",Canela Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="fillername8738178313",Canela Hits
