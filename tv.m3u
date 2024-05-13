@@ -84,7 +84,7 @@ https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 https://i.mjh.nz/10-nsw.m3u
 #EXTINF:-1 tvg-id="72au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1200px-7two_logo_2020.svg.png",7two
 https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
-#EXTINF:-1 tvg-id="nickjr.es",Nick Jr. Spain
+#EXTINF:-1 tvg-id="nickjr.es",Nick Jr. LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158667
 #EXTINF:-1 tvg-id="tnla",TeenNick LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158669
@@ -175,8 +175,6 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 #EXTINF:-1 tvg-id="3clasicos",Atresplayer Clasicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-#EXTINF:-1 tvg-id="3cine",Atresplayer Multicine
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-id="3investigation",Atresplayer Mentes Inquietas
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-id="101.es",101TV Malaga
@@ -282,6 +280,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
 #EXTINF:-1 tvg-id="e4uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/1200px-E4_logo_2018.svg.png",E4
 http://148.69.168.89:9981/stream/channel/b199bc0c41a786ef295e5bba75d2275a
 #EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1
+https://searchtv.net/stream/uuid/451hnajv/
 http://46.128.235.49:9981/stream/channel/1efbc1605af86b1f2ab1928807ebdba2
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png",ITV2
 http://148.69.168.89:9981/stream/channel/80f85a35800d8866b8c80f67ef9e9ff8
