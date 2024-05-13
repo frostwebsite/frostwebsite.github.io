@@ -15,6 +15,14 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 https://ign-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bounce.xl",Bounce XL
 https://lnc-bounce-xl.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.mx",Food Network LA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159183
+#EXTINF:-1 tvg-id="foro.mx",FORO
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158627
+#EXTINF:-1 tvg-id="chavodel8based",El Chavo Del 8 24/7
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/35022
+#EXTINF:-1 tvg-id="hyh.mx",Discovery H&H LA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159160
 #EXTINF:-1 tvg-id="cinecanalcanal",Cinecanal
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159212
 #EXTINF:-1 tvg-id="britboxFAST.us",Britbox Mysteries
