@@ -9,4 +9,5 @@ https://radio.vern.cc/metal.ogg.m3u
 https://radio.vern.cc/rock.ogg.m3u
 #EXTINF:-1 tvg-id="vern5",Vern Metal Instrumentals
 https://radio.vern.cc/metal-instrumental.ogg.m3u
-
+#EXTINF:-1 tvg-id="toonami",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
