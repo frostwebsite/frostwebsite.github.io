@@ -4,6 +4,8 @@ Recommended players:
 
 [VLC](https://www.videolan.org/vlc)
 
+[PotPlayer](https://potplayer.daum.net/)
+
 [VentoX](https://www.apk20.com/apk/com.xtreamcodeapi.ventoxapp)
 
 [Sparkle TV](https://www.apk20.com/apk/se.hedekonsult.sparkle)
