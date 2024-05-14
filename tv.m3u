@@ -5,11 +5,8 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="nktnglobal",NickToons Global
 http://185.236.229.62:9981/play/a06a
-#EXTINF:-1 tvg-id="espnews",ESPNNews
-https://z88.ubtvfans.com/live/rx3/1363/919eb12b22e57fac1ab0422663de3ded/index.m3u8
+#EXTINF:-1 tvg-id="testingignore.lol",123456
 http://164.68.124.111/espnews.m3u8
-#EXTINF:-1 tvg-id="espnu",ESPNU
-https://z88.ubtvfans.com/live/rx3/1196/f9ddd771abfb1dcb846c024130816b45/index.m3u8
 #EXTINF:-1 tvg-id="disney.jp",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="disjr.jp",Disney Junior Japan
@@ -19,7 +16,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="nktn.am",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="boom.us",Boomerang
-https://z88.ubtvfans.com/live/rx3/1214/daaa9313f5db1c24a78505ae4dc9ac84/index.m3u8
+https://z88.ubtvfans.com/live/rx3/2228/8bfafe6424ab3d9c283d615950f036fb/index.m3u8
 #EXTINF:-1 tvg-id="tvtokyo.jp",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="nhk1.jp",NHK
