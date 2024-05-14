@@ -5,8 +5,11 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="nktnglobal",NickToons Global
 http://185.236.229.62:9981/play/a06a
-#EXTINF:-1 tvg-id="espnews",Testing
+#EXTINF:-1 tvg-id="espnews",ESPNNews
+https://z88.ubtvfans.com/live/rx3/1363/919eb12b22e57fac1ab0422663de3ded/index.m3u8
 http://164.68.124.111/espnews.m3u8
+#EXTINF:-1 tvg-id="espnu",ESPNU
+https://z88.ubtvfans.com/live/rx3/1196/f9ddd771abfb1dcb846c024130816b45/index.m3u8
 #EXTINF:-1 tvg-id="disney.jp",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="disjr.jp",Disney Junior Japan
@@ -15,6 +18,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="nktn.am",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="boom.us",Boomerang
+https://z88.ubtvfans.com/live/rx3/1214/daaa9313f5db1c24a78505ae4dc9ac84/index.m3u8
 #EXTINF:-1 tvg-id="tvtokyo.jp",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="nhk1.jp",NHK
@@ -55,7 +60,7 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="starchannel.la",Star Channel (English track)
 http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1 tvg-id="lifetime.la",Lifetime LA (English audio)
+#EXTINF:-1 tvg-id="lifetime.la",Lifetime LA
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="5starmax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/200px-5StarMax_Logo.svg.png",5StarMax
 https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
@@ -178,9 +183,9 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
-https://z88.ubtvfans.com/live/rx3/1208/6db66813ac171f1c1f02c6c71d7e55b9/index.m3u8
+https://z88.ubtvfans.com/live/rx4/5/4fa8f09e74698e88155754278762a2b7/index.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
-https://z88.ubtvfans.com/live/rx3/1209/8bcd5d8f8e8839e42d58ccf787600338/index.m3u8
+https://z88.ubtvfans.com/live/rx4/31/fab483586fbf9de83a7254e721c8a692/index.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
@@ -235,11 +240,13 @@ https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png",Bang Bang
 http://45.90.80.250:8000/play/a013
+#EXTINF:-1 tvg-id="babytv.us",BabyTV
+https://z88.ubtvfans.com/live/rx3/1241/fbf1293eb2e91b7b314b997b21d8685a/index.m3u8
 #EXTINF:-1 tvg-id="realmadridtv.us",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="natgeomundo.us",Nat Geo Mundo
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158865
-#EXTINF:-1 tvg-id="lifetimela-normal",Lifetime LA
+#EXTINF:-1 tvg-id="lifetimela-normal",TLC LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159163
 #EXTINF:-1 tvg-id="hgtvmexico",HGTV Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159189
