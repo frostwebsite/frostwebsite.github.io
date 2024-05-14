@@ -267,8 +267,8 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="tdp" tvg-id="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="cneduhehrd",Cartoon Network Colombia
-http://138.59.177.34:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="cneduhehrd",Cartoon Network LA
+https://searchtv.net/stream/uuid/4560m8y7/
 #EXTINF:-1 tvg-id="u3rdhs833hd8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr
