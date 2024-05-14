@@ -19,8 +19,14 @@ https://stream01.vnet.am/Boomerang/mono.m3u8
 https://z88.ubtvfans.com/live/rx3/2228/8bfafe6424ab3d9c283d615950f036fb/index.m3u8
 #EXTINF:-1 tvg-id="tvtokyo.jp",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 tvg-id="nhkbs.jp",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="nhke.jp",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 tvg-id="nhk1.jp",NHK
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+https://nhk4.mov3.co/hls/nhk.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 tvg-id="eichgitivee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png",HGTV
 https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Film4_logo_2018.svg",Film4
