@@ -4,9 +4,9 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="itworks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="nktnglobal",NickToons Global
-https://searchtv.net/stream/uuid/3638ni7r/
+https://f.phite.ro/nktn-global.m3u
 #EXTINF:-1 tvg-id="nktn.am",NickToons Armenia
-https://searchtv.net/stream/line/channel/nicktoons/number/1/
+https://f.phite.ro/nktn-am.m3u
 #EXTINF:-1 tvg-id="eichgitivee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png",HGTV
 https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Film4_logo_2018.svg",Film4
