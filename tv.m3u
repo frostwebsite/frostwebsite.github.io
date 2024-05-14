@@ -5,8 +5,18 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="nktnglobal",NickToons Global
 http://185.236.229.62:9981/play/a06a
+#EXTINF:-1 tvg-id="disney.jp",Disney Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="disjr.jp",Disney Junior Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 tvg-id="cn.jp",Cartoon Network Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="nktn.am",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="tvtokyo.jp",TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 tvg-id="nhk1.jp",NHK
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 tvg-id="eichgitivee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png",HGTV
 https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Film4_logo_2018.svg",Film4
