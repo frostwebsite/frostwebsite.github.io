@@ -1,55 +1,49 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/ontvtonight.com/ontvtonight.com_us.channels.xml,https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/toonamiaftermath.com/toonamiaftermath.com.channels.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
-#EXTINF:-1 tvg-id="bitmebased" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
+#EXTINF:-1 tvg-id="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="itworks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
+#EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
-#EXTINF:-1 tvg-id="nktnglobal",NickToons Global
+#EXTINF:-1 tvg-id="NickToons_Global",NickToons Global
 http://185.236.229.62:9981/play/a06a
-#EXTINF:-1 tvg-id="disney.jp",Disney Channel Japan
+#EXTINF:-1 tvg-id="DisneyChannelJapan",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 tvg-id="disjr.jp",Disney Junior Japan
+#EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 tvg-id="cn.jp",Cartoon Network Japan
+#EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="nktn.am",NickToons Armenia
+#EXTINF:-1 tvg-id="Nicktoons_Armenia",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="poprakuten.uk",POP UK Rakuten
+#EXTINF:-1 tvg-id="RakutenPopUK",POP UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="boom.us",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us",Boomerang
 https://z88.ubtvfans.com/live/rx3/2228/8bfafe6424ab3d9c283d615950f036fb/index.m3u8
 #EXTINF:-1 tvg-id="tvtokyo.jp",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 tvg-id="nhkbs.jp",NHK BS
+#EXTINF:-1 tvg-id="nhk-bs.jp",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-id="nhk1.jp",NHK
+#EXTINF:-1 tvg-id="nhk-g.jp",NHK
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="BSTVTokyo.jp",BS TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 tvg-id="tbs.jp",TBS Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-id="BSTBS.jp",BS TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 tvg-id="eichgitivee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png",HGTV
 https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
-#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Film4_logo_2018.svg",Film4
+#EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Film4_logo_2018.svg",Film4
 https://z88.ubtvfans.com/live/rx3/1419/ffba19b4485ead15310abf5fe555cac3/index.m3u8
-#EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1200px-More4_logo_2018.svg.png",More4
+#EXTINF:-1 tvg-id="More4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1200px-More4_logo_2018.svg.png",More4
 https://z88.ubtvfans.com/live/rx3/1420/f35b2e93c3f60f2863ccc116d081abc5/index.m3u8
 #EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/AFV_2004.png/revision/latest/scale-to-width-down/250?cb=20230718232723",AFV en Español
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://seeklogo.com/images/I/ign-logo-4A32DEDED6-seeklogo.com.png",IGN
 https://ign-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bounce.xl",Bounce XL
+#EXTINF:-1 tvg-id="BounceXL",Bounce XL
 https://lnc-bounce-xl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.mx",Food Network LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159183
 #EXTINF:-1 tvg-id="foro.mx",FORO
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158627
-#EXTINF:-1 tvg-id="aplusmx",A Mas
+#EXTINF:-1 tvg-id="A-Mas.mx",A Mas
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159054
-#EXTINF:-1 tvg-id="chavodel8based",El Chavo Del 8 24/7
+#EXTINF:-1 tvg-id="chavodel8",El Chavo Del 8 24/7
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/35022
-#EXTINF:-1 tvg-id="hyh.mx",Discovery H&H LA
+#EXTINF:-1 tvg-id="DiscoveryH_H_LA",Discovery H&H LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159160
 #EXTINF:-1 tvg-id="cinecanalcanal",Cinecanal
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159212
