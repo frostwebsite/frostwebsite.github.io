@@ -185,7 +185,7 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
-https://z88.ubtvfans.com/live/rx4/5/4fa8f09e74698e88155754278762a2b7/index.m3u8
+http://172.111.36.190:6887/stream/spectrum-east/disney-channel-hd/master.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
 http://need.link/need.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
@@ -331,7 +331,7 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 #EXTINF:-1 tvg-id="j9e",Freeform
 https://z88.ubtvfans.com/live/rx3/1560/543a309a2326c7e07ca639bfe1c014ce/index.m3u8
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
-https://z88.ubtvfans.com/live/rx3/1215/434967b138bcea29085ae897edf9beb5/index.m3u8
+http://172.111.36.190:6887/stream/spectrum-east/ukidsh-22041/master.m3u8
 #EXTINF:-1 tvg-id="fxtveast",FX US
 https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
 #EXTINF:-1 tvg-id="disneyjr.us",Disney Junior US
