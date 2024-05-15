@@ -11,6 +11,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-id="testignore",IGNORE THIS
+https://catburgeronline.github.io/animalplanet.m3u8
 #EXTINF:-1 tvg-id="Nicktoons_Armenia",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="RakutenPopUK",POP UK Rakuten
