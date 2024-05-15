@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/ontvtonight.com/ontvtonight.com_us.channels.xml,https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/toonamiaftermath.com/toonamiaftermath.com.channels.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
-#EXTINF:-1 tvg-id="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
+#EXTINF:-1 tvg-id="BcitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
@@ -11,6 +11,18 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-id="cnsca",Cartoon Network Scandinavia
+http://172.111.36.190:6887/stream/allente-new/cartoon-network/master.m3u8
+#EXTINF:-1 tvg-id="cmtus",cMT
+http://172.111.36.190:6887/stream/spectrum-east/cmt-hd/master.m3u8
+#EXTINF:-1 tvg-id="as.la",Adult Swim LA
+http://172.111.36.190:6887/stream/claro/trutvlahd/master.m3u8
+#EXTINF:-1 tvg-id="uni.la",Universal TV LA
+http://172.111.36.190:6887/stream/claro/universalhd/master.m3u8
+#EXTINF:-1 tvg-id="nktnsca",Nicktoons Scandinavia
+http://172.111.36.190:6887/stream/allente-new/nicktoon/master.m3u8
+#EXTINF:-1 tvg-id="nksca",Nick Scandinavia
+http://172.111.36.190:6887/stream/allente-new/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="dfcus",Discovery Family
 http://172.111.36.190:6887/stream/spectrum-east/dfchd-21770/master.m3u8
 #EXTINF:-1 tvg-id="enbc",E!
@@ -177,6 +189,7 @@ https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylis
 #EXTINF:-1 tvg-id="univision8771872913" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png",Univision
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="laff.tx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",Laff
+http://172.111.36.190:6887/stream/spectrum-east/laff-wxxa-dt3/master.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471429
 #EXTINF:-1 tvg-id="tcmeast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM
 http://143.244.60.30/TCM/index.m3u8
@@ -188,8 +201,12 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="gloob.br",Gloob
-http://95.164.4.95:8080/stream/globoplayhd/gloobhd/master.m3u8
+#EXTINF:-1 tvg-id="natgeo.us",National Geographic
+http://172.111.36.190:6887/stream/spectrum-east/national-geographic-hd/master.m3u8
+#EXTINF:-1 tvg-id="oxygennbc",Oxygen
+http://172.111.36.190:6887/stream/spectrum-east/oxygen-hd/master.m3u8
+#EXTINF:-1 tvg-id="tvone.us",TV One
+http://172.111.36.190:6887/stream/spectrum-east/tv-one-hd/master.m3u8
 #EXTINF:-1 tvg-id="cozinbc",Cozi TV
 http://172.111.36.190:6887/stream/spectrum-east/cozi-tv-wten-dt2/master.m3u8
 #EXTINF:-1 tvg-id="depeliculaplus" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png",De Pelicula Plus
@@ -381,8 +398,14 @@ https://lnc-news12.tubi.video/primary/2.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/39846
 #EXTINF:-1 tvg-id="pbskids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="hallmark1",Hallmark Channel
+http://172.111.36.190:6887/stream/spectrum-east/hallmark-channel-hd/master.m3u8
+#EXTINF:-1 tvg-id="hallmark2",Hallmark Movies & Mysteries
+http://172.111.36.190:6887/stream/spectrum-east/hallmark-movies-mysteries-hd/master.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us",FOX Deportes
 http://thevdm.xyz:25461/Jennifer/Year!/19894
+#EXTINF:-1 tvg-id="ifceast",IFC
+http://172.111.36.190:6887/stream/spectrum-east/ifc-hd/master.m3u8
 #EXTINF:-1 tvg-id="FoxSports.mx",FOX Sports Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158833
 #EXTINF:-1 tvg-id="FoxSports2.mx",FOX Sports 2 Mexico
