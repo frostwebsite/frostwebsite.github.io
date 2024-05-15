@@ -11,6 +11,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-id="dfcus",Discovery Family
+http://172.111.36.190:6887/stream/spectrum-east/dfchd-21770/master.m3u8
+#EXTINF:-1 tvg-id="enbc",E!
+http://172.111.36.190:6887/stream/spectrum-east/e-hd/master.m3u8
 #EXTINF:-1 tvg-id="Nicktoons_Armenia",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="RakutenPopUK",POP UK Rakuten
@@ -180,6 +184,8 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="gloob.br",Gloob
 http://95.164.4.95:8080/stream/globoplayhd/gloobhd/master.m3u8
+#EXTINF:-1 tvg-id="cozinbc",Cozi TV
+http://172.111.36.190:6887/stream/spectrum-east/cozi-tv-wten-dt2/master.m3u8
 #EXTINF:-1 tvg-id="depeliculaplus" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png",De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula
@@ -290,7 +296,12 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="u3rdhs833hd8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="spect.noti",Spectrum Noticias NY
+http://172.111.36.190:6887/stream/spectrum-east/spectrum-noticias-ny1/master.m3u8
+#EXTINF:-1 tvg-id="wapa.us",WAPA America
+http://172.111.36.190:6887/stream/spectrum-east/wapaus-00240/master.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
+http://172.111.36.190:6887/stream/spectrum-east/nicjrhd-10412/master.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/20874
 #EXTINF:-1 tvg-id="lecjeijes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/index.m3u8
@@ -322,6 +333,8 @@ http://181.78.105.146:2000/play/a00v/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id=fyinet",FYI
+http://172.111.36.190:6887/stream/spectrum-east/fyihd-21694/master.m3u8
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel ES (English track)
 http://45.67.98.12:1234/stream/csat/disneychannelfhd/master.m3u8
 #EXTINF-1 tvg-id="disch.esMAIN",Disney Channel ES
@@ -333,7 +346,7 @@ https://z88.ubtvfans.com/live/rx3/1560/543a309a2326c7e07ca639bfe1c014ce/index.m3
 #EXTINF:-1 tvg-id="universalkids",Universal Kids
 http://172.111.36.190:6887/stream/spectrum-east/ukidsh-22041/master.m3u8
 #EXTINF:-1 tvg-id="fxtveast",FX US
-https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
+http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
 #EXTINF:-1 tvg-id="disneyjr.us",Disney Junior US
 https://z88.ubtvfans.com/live/rx3/1210/f58216dd55e6469ef0f91f20c245596f/index.m3u8
 #EXTINF:-1 tvg-id="fxx.east",FXX
@@ -450,7 +463,7 @@ http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="pepsitwist",AMC Spain
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="VHuno",VH1
-http://170.254.18.106/VH1/index.m3u8
+http://172.111.36.190:6887/stream/spectrum-east/vh1-hd/master.m3u8
 #EXTINF:-1 tvg-id="investigation-discovery",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="unimas.us",UniMas
