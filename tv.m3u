@@ -150,6 +150,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 http://46.128.235.49:9981/stream/channel/bad57760ec66ac5c1eb21fffd7663676
 http://hybridtv.ss7.tv/whitelabel/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay
 #EXTINF:-1 tvg-id="cn.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://172.111.36.190:6887/stream/spectrum-east/cartoon-network-hd/master.m3u8
 https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
 #EXTINF:-1 tvg-id="unicable.mx",Unicable
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
@@ -177,6 +178,8 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="gloob.br",Gloob
+http://95.164.4.95:8080/stream/globoplayhd/gloobhd/master.m3u8
 #EXTINF:-1 tvg-id="depeliculaplus" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png",De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula
@@ -184,7 +187,7 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
 https://z88.ubtvfans.com/live/rx4/5/4fa8f09e74698e88155754278762a2b7/index.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
-https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(DXDHD-8397.dfw.720)/index.m3u8
+http://need.link/need.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
