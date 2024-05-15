@@ -13,6 +13,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="nktn.am",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="poprakuten.uk",POP UK Rakuten
+https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boom.us",Boomerang
 https://z88.ubtvfans.com/live/rx3/2228/8bfafe6424ab3d9c283d615950f036fb/index.m3u8
 #EXTINF:-1 tvg-id="tvtokyo.jp",TV Tokyo
