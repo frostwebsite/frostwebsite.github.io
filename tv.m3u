@@ -55,7 +55,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hbox-its-not-pron-btw",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-id="para.us",Paramount Network
+#EXTINF:-1 tvg-id="paramount.us",Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="starchannel.la",Star Channel
 http://170.254.18.106/STAR/index.m3u8
