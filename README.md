@@ -48,5 +48,3 @@ No video files are stored. We're simply using user-submitted links to publicly a
 For the domain :D
 
 <a href="https://gra.phite.ro"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/e4ce76a7-4224-4651-9669-e7ad2fdbe2a7"></a>
-
-Backed up [here](https://git.ari.lt/packetofcrisps/frostbackup)
