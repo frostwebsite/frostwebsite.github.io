@@ -184,7 +184,7 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
 https://z88.ubtvfans.com/live/rx4/5/4fa8f09e74698e88155754278762a2b7/index.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
-https://z88.ubtvfans.com/live/rx4/31/fab483586fbf9de83a7254e721c8a692/index.m3u8
+https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(DXDHD-8397.dfw.720)/index.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
@@ -309,20 +309,20 @@ http://148.69.168.89:9981/stream/channel/af8ed6886de3eb3bcc8cc1844715e102
 http://45.153.35.210:8000/play/UK_cbeebies_HD
 #EXTINF:-1 tvg-id="5uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Channel_5_%28UK%29_2016.svg",5 UK
 http://46.128.235.49:9981/stream/channel/5666d01c1737f41d8a35df3875446213
-#EXTINF:-1 tvg-id="orangemmm",Nick Australia
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=752176&extension=ts&play_token=pBZyGpJHCb
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan Spain
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="history2",History 2 Espanol
+#EXTINF:-1 tvg-id="history2",History 2 LA
 http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="24h TVE",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel España
+#EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel ES (English track)
 http://45.67.98.12:1234/stream/csat/disneychannelfhd/master.m3u8
+#EXTINF-1 tvg-id="disch.esMAIN",Disney Channel ES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="j9e",Freeform
