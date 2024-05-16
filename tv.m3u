@@ -115,8 +115,6 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159160
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159212
 #EXTINF:-1 tvg-id="britboxFAST.us",Britbox Mysteries
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="fs2.us",FS2
-http://172.111.36.190:6887/stream/spectrum-east/fs2hd-00564/master.m3u8
 #EXTINF:-1 tvg-id="fs1.us",FS1
 http://172.111.36.190:6887/stream/spectrum-east/fox-sports-1-hd/master.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
@@ -230,8 +228,6 @@ http://172.111.36.190:6887/stream/spectrum-east/nuestrt-00214/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/spectrum-news-1-ma-worcester/master.m3u8
 #EXTINF:-1 tvg-id="spectrumnewsspringfield",Spectrum News Springfield
 http://172.111.36.190:6887/stream/spectrum-east/spectrum-news-1-ma-springfield/master.m3u8
-#EXTINF:-1 tvg-id="hitn",HITN
-http://172.111.36.190:6887/stream/spectrum-east/hitn-00109/master.m3u8
 #EXTINF:-1 tvg-id="own.us",OWN
 http://172.111.36.190:6887/stream/spectrum-east/own-hd/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV Family Spain
@@ -278,16 +274,6 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="mytvlel",MyTV
 http://172.111.36.190:6887/stream/spectrum-east/mytv-wnya/master.m3u8
-#EXTINF:-1 tvg-id="nicksca",Nick Scandinavia
-http://172.111.36.190:6887/stream/allente-new/nickelodeon/master.m3u8
-#EXTINF:-1 tvg-id="nicktoonssca",Nicktoons Scandinavia
-http://172.111.36.190:6887/stream/allente-new/nicktoon/master.m3u8
-#EXTINF:-1 tvg-id="nickjrsca",Nick Jr. Scandinavia
-http://172.111.36.190:6887/stream/allente-new/nick-jr/master.m3u8
-#EXTINF:-1 tvg-id="cnsca",Cartoon Network Scandinavia
-http://172.111.36.190:6887/stream/allente-new/cartoon-network/master.m3u8
-#EXTINF:-1 tvg-id="tr3s",Tr3s
-http://172.111.36.190:6887/stream/spectrum-east/tr3s/master.m3u8
 #EXTINF:-1 tvg-id="boingplusit",Boing Plus Italy
 http://172.111.36.190:6887/stream/tivusat/boing-plus-hd/master.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic",National Geographic
