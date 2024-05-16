@@ -13,6 +13,16 @@ http://172.111.36.190:6887/stream/spectrum-east/syfy-hd/master.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="travischannel",Trvl Channel
 http://172.111.36.190:6887/stream/spectrum-east/travel-channel-hd/master.m3u8
+#EXTINF:-1 tvg-id="atreseri.es",Atreseries Spain
+http://172.111.36.190:6887/stream/zapitv2/atreseries-hd/master.m3u8
+#EXTINF:-1 tvg-id="axn.es",AXN
+http://172.111.36.190:6887/stream/zapitv2/axn/master.m3u8
+#EXTINF:-1 tvg-id="betsoul",BET Soul
+http://172.111.36.190:6887/stream/spectrum-east/betsoul-00414/master.m3u8
+#EXTINF:-1 tvg-id="bether",BET Her
+http://172.111.36.190:6887/stream/spectrum-east/bherhd-18268/master.m3u8
+#EXTINF:-1 tvg-id="betjams",BET Jams
+http://172.111.36.190:6887/stream/spectrum-east/betj-00395/master.m3u8
 #EXTINF:-1 tvg-id="popusNOTuk",Pop US
 http://172.111.36.190:6887/stream/spectrum-east/pop-hd/master.m3u8
 #EXTINF:-1 tvg-id="fry",FYI
@@ -67,8 +77,16 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159160
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159212
 #EXTINF:-1 tvg-id="britboxFAST.us",Britbox Mysteries
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="fs2.us",FS2
+http://172.111.36.190:6887/stream/spectrum-east/fs2hd-00564/master.m3u8
+#EXTINF:-1 tvg-id="fs1.us",FS1
+http://172.111.36.190:6887/stream/spectrum-east/fox-sports-1-hd/master.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-id="fuse.us",Fuse
+http://172.111.36.190:6887/stream/spectrum-east/fusehd/master.m3u8
+#EXTINF:-1 tvg-id="food.us",Food Network
+http://172.111.36.190:6887/stream/spectrum-east/food-network-hd/master.m3u8
 #EXTINF:-1 tvg-id="bandamax",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hbox-its-not-pron-btw",HBO Xtreme
@@ -79,6 +97,18 @@ http://170.254.18.106/PARAMOUNT/index.m3u8
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.la",Lifetime LA
 http://170.254.18.106/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="lifetime.us",Lifetime
+http://172.111.36.190:6887/stream/spectrum-east/lifetime-hd/master.m3u8
+#EXTINF:-1 tvg-id="pac12",PAC12
+http://172.111.36.190:6887/stream/spectrum-east/pac12hd-00833/master.m3u8
+#EXTINF:-1 tvg-id="wetv",WE TV
+http://172.111.36.190:6887/stream/spectrum-east/we-tv-hd/master.m3u8
+#EXTINF:-1 tvg-id="big10",Big Ten Network
+http://172.111.36.190:6887/stream/spectrum-east/big-ten-network-hd/master.m3u8
+#EXTINF:-1 tvg-id="wten-dt",Antenna TV
+http://172.111.36.190:6887/stream/spectrum-east/antenna-tv-wten/master.m3u8
+#EXTINF:-1 tvg-id="cmtmusic",CMTMusic
+http://172.111.36.190:6887/stream/comcast/cmt-music/master.m3u8
 #EXTINF:-1 tvg-id="5starmax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/200px-5StarMax_Logo.svg.png",5StarMax
 https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
 #EXTINF:-1 tvg-id="5star.maxus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/200px-MoreMax_Logo.svg.png",MoreMax
@@ -95,8 +125,8 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165866
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="telenovelachannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png",Imagen Television
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159081
-#EXTINF:-1 tvg-id="bravo.us.ithink" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/2560px-Bravo_2017_logo.svg.png",Bravo
-http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="bravo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/2560px-Bravo_2017_logo.svg.png",Bravo
+http://172.111.36.190:6887/stream/spectrum-east/bravo-hd/master.m3u8
 #EXTINF:-1 tvg-id="tf1.fr" tvg-logo="https://e7.pngegg.com/pngimages/29/93/png-clipart-tf1-group-mytf1-television-channel-others-purple-television-thumbnail.png",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://searchtv.net/stream/uuid/4770c3s1/
@@ -154,6 +184,18 @@ https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakutentopfree.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Top Free Spain
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="discoveryeast",Discovery Channel
+http://172.111.36.190:6887/stream/spectrum-east/discovery-channel-hd/master.m3u8
+#EXTINF:-1 tvg-id="nuestratele.rcn",Nuestra Tele Internacional
+http://172.111.36.190:6887/stream/spectrum-east/nuestrt-00214/master.m3u8
+#EXTINF:-1 tvg-id="spectrumnewsworcester",Spectrum News Worcester
+http://172.111.36.190:6887/stream/spectrum-east/spectrum-news-1-ma-worcester/master.m3u8
+#EXTINF:-1 tvg-id="spectrumnewsspringfield",Spectrum News Springfield
+http://172.111.36.190:6887/stream/spectrum-east/spectrum-news-1-ma-springfield/master.m3u8
+#EXTINF:-1 tvg-id="hitn",HITN
+http://172.111.36.190:6887/stream/spectrum-east/hitn-00109/master.m3u8
+#EXTINF:-1 tvg-id="own.us",OWN
+http://172.111.36.190:6887/stream/spectrum-east/own-hd/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV Family Spain
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakutentvshows.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Series Spain
@@ -281,6 +323,7 @@ https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/62407
 #EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png",Bang Bang
 http://45.90.80.250:8000/play/a013
 #EXTINF:-1 tvg-id="babyfirst.us",BabyFirst
+http://172.111.36.190:6887/stream/spectrum-east/baby1hd-26249/master.m3u8
 https://z88.ubtvfans.com/live/rx3/1241/fbf1293eb2e91b7b314b997b21d8685a/index.m3u8
 #EXTINF:-1 tvg-id="realmadridtv.us",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -387,13 +430,18 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
 http://thevdm.xyz:25461/timmadden/timmad4765/39744
+#EXTINF:-1 tvg-id="wapa.us",WAPA America
+http://172.111.36.190:6887/stream/spectrum-east/wapaus-00240/master.m3u8
 #EXTINF:-1 tvg-id="Comet.us",Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="tbnsmile",Smile
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 #EXTINF:-1 tvg-id="news12",News12 New York
 https://lnc-news12.tubi.video/primary/2.m3u8
+#EXTINF:-1 tvg-id="teleformula",Teleformula
+http://172.111.36.190:6887/stream/spectrum-east/tformhd-09182/master.m3u8
 #EXTINF:-1 tvg-id="tl89r8s",TLC
+http://172.111.36.190:6887/stream/spectrum-east/tlc-hd/master.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/39846
 #EXTINF:-1 tvg-id="pbskids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -537,6 +585,8 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="accn",ACC Network
+http://172.111.36.190:6887/stream/spectrum-east/acc-network-hd/master.m3u8
 #EXTINF:-1 tvg-id="bbcone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
 https://z88.ubtvfans.com/live/rx3/1382/d68c20b4e9ce94a17ff5487a4bd075dd/index.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
@@ -583,6 +633,18 @@ http://148.69.168.89:9981/stream/channel/4d3abdf2c3c4825a7303b1c0eab892dd
 https://z88.ubtvfans.com/live/rx3/1385/683373c0227fd2a7d132b5c477ea3c74/index.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="grio",theGrio
+http://172.111.36.190:6887/stream/spectrum-east/thegrio-hd/master.m3u8
+#EXTINF:-1 tvg-id="sny.us",SNY
+http://172.111.36.190:6887/stream/spectrum-east/sny-hd/master.m3u8
+#EXTINF:-1 tvg-id="secnetwork",SEC Network
+http://172.111.36.190:6887/stream/spectrum-east/sec-network-hd/master.m3u8
+#EXTINF:-1 tvg-id="espnnews",ESPNews
+http://172.111.36.190:6887/stream/spectrum-east/espnwhd-24523/master.m3u8
+#EXTINF:-1 tvg-id="msg1",MSG
+http://172.111.36.190:6887/stream/spectrum-east/msg-hd/master.m3u8
+#EXTINF:-1 tvg-id="yesnetwork",YES Network
+http://172.111.36.190:6887/stream/spectrum-east/yes-network-hd/master.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png",Ion Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1 tvg-id="e4extrauk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/800px-E4_Extra_logo_2022.svg.png",E4 Extra
@@ -597,3 +659,5 @@ http://46.142.8.244:9981/stream/channel/c383862db21662fc454d594b69209ce9
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nickmex",Nickelodeon Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159132
+#EXTINF:-1 tvg-id="mc1",Music Choice Hit List
+http://172.111.36.190:6887/stream/spectrum-east/mc01/master.m3u8
