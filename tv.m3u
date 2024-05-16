@@ -9,6 +9,8 @@ http://172.111.36.190:6887/stream/spectrum-east/tvnihd-21283/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/telen-00124/master.m3u8
 #EXTINF:-1 tvg-id="tele.sv",Tele El Salvador
 http://172.111.36.190:6887/stream/spectrum-east/telsahd-21282/master.m3u8
+#EXTINF:-1 tvg-id="dissci",Discovery Science
+http://172.111.36.190:6887/stream/spectrum-east/scichne-hd/master.m3u8
 #EXTINF:-1 tvg-id="pasiones",Pasiones
 http://172.111.36.190:6887/stream/spectrum-east/pasnus-21814/master.m3u8
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
