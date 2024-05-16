@@ -413,7 +413,7 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.
 #EXTINF:-1 tvg-id="e4uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/1200px-E4_logo_2018.svg.png",E4
 http://148.69.168.89:9981/stream/channel/b199bc0c41a786ef295e5bba75d2275a
 #EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1
-http://143.159.95.237:9988/stream/channelid/537004699?profile=pass
+http://143.159.95.237:9988/play/ticket/stream/channel/9b0a02a00418594574ef0b347edd7c45?title=3%20%3A%20ITV1
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png",ITV2
 http://143.159.95.237:9988/stream/channelid/2126967608?profile=pass
 #EXTINF:-1 tvg-id="itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1280px-ITV4_logo_2013.svg.png",ITV4
