@@ -13,10 +13,20 @@ http://172.111.36.190:6887/stream/spectrum-east/milihd/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/telsahd-21282/master.m3u8
 #EXTINF:-1 tvg-id="dissci",Discovery Science
 http://172.111.36.190:6887/stream/spectrum-east/scichne-hd/master.m3u8
-#EXTINF:-1 tvg-id="kids",Spectrum Kids
+#EXTINF:-1 tvg-id="kidsst",Kids Street
 http://172.111.36.190:6887/stream/spectrum-east/kidsshd-00235/master.m3u8
 #EXTINF:-1 tvg-id="pasiones",Pasiones
 http://172.111.36.190:6887/stream/spectrum-east/pasnus-21814/master.m3u8
+#EXTINF:-1 tvg-id="cn.idk",Cartoon Network CEE(?)
+http://86.120.245.60:9981/stream/channel/288b2b1f8dc1ebe2ed070320de125b11?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="nick.idk",Nick CEE(?)
+http://86.120.245.60:9981/stream/channel/093fdbea178563d167d0e8b611a9bf5b?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="minimax.ro",Minimax Romania
+http://86.120.245.60:9981/stream/channel/5513ac5049cf8f69d8bbf4a29fecdf0d?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="tnck.ro",TeenNick RO
+http://86.120.245.60:9981/stream/channel/3093090ae4a675b6fd9ae090afc74807?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="disjr.ro",Disney Junior RO
+http://86.120.245.60:9981/stream/channel/3fde5ad6446956a01415c0c5b172f292?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="bemad",BeMad
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
@@ -662,14 +672,18 @@ http://172.111.36.190:6887/stream/spectrum-east/sny-hd/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/sec-network-hd/master.m3u8
 #EXTINF:-1 tvg-id="msg1",MSG
 http://172.111.36.190:6887/stream/spectrum-east/msg-hd/master.m3u8
+#EXTINF:-1 tvg-id="tv2.comedy",TV2 Comedy RO
+http://185.157.160.113:9981/stream/channel/fea544389290d988a21ad23d5ebb51bf?profile=h264-aac
 #EXTINF:-1 tvg-id="yesnetwork",YES Network
 http://172.111.36.190:6887/stream/spectrum-east/yes-network-hd/master.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png",Ion Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1 tvg-id="e4extrauk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/800px-E4_Extra_logo_2022.svg.png",E4 Extra
 http://148.69.168.89:9981/stream/channel/6bc8157cf9641f5a9282e637fe96e9a0
-#EXTINF:-1 tvg-id="jimjamhu" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/jimjam_2018_wide.png?itok=ZjGaIPzw",JimJam HU
-http://185.157.160.113:9981/stream/channelid/2001324029?profile=pass
+#EXTINF:-1 tvg-id="jimjamro" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/jimjam_2018_wide.png?itok=ZjGaIPzw",JimJam RO
+http://86.120.245.60:9981/stream/channel/3a5188aae4cc34321b16a6d047aa507a?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="jimjamhu",JimJam HU
+http://185.157.160.113:9981/stream/channel/6ece76fd42e254bbd3c807d050d5df3f?profile=h264-aac
 #EXTINF:-1 tvg-id="cnde",Cartoon Network DE
 http://46.142.8.244:9981/stream/channel/a86b149501db0d8c2edb4949275f2ece
 #EXTINF:-1 tvg-id="citode",Cartoonito DE
