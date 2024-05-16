@@ -11,8 +11,20 @@ http://185.236.229.62:9981/play/a06a
 http://172.111.36.190:6887/stream/claro/elgourmetchannel/master.m3u8
 #EXTINF:-1 tvg-id="syfy.us",Syfy
 http://172.111.36.190:6887/stream/spectrum-east/syfy-hd/master.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelJapan",Disney Channel Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="viendo.mov",Viendo Movies
+http://172.111.36.190:6887/stream/spectrum-east/vmovhd-21328/master.m3u8
+#EXTINF:-1 tvg-id="wfny",WFNY
+http://172.111.36.190:6887/stream/spectrum-east/wfny/master.m3u8
+#EXTINF:-1 tvg-id="uptv",UPtv
+http://172.111.36.190:6887/stream/spectrum-east/uphd-00091/master.m3u8
+#EXTINF:-1 tvg-id="unitlnovelas",Univision TLNovelas
+http://172.111.36.190:6887/stream/spectrum-east/unitlno-8282/master.m3u8
+#EXTINF:-1 tvg-id="ultramacho",Ultra Macho
+http://172.111.36.190:6887/stream/spectrum-east/umachhd-18301/master.m3u8
+#EXTINF:-1 tvg-id="ultramex",Ultra Mex
+http://172.111.36.190:6887/stream/spectrum-east/ulmexhd-18302/master.m3u8
+#EXTINF:-1 tvg-id="msg2",MSG2
+http://172.111.36.190:6887/stream/spectrum-east/msg-sportsnet-zone-2-hd/master.m3u8
 #EXTINF:-1 tvg-id="travischannel",Trvl Channel
 http://172.111.36.190:6887/stream/spectrum-east/travel-channel-hd/master.m3u8
 #EXTINF:-1 tvg-id="telecentro",Telecentro
