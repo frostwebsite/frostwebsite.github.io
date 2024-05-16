@@ -308,14 +308,25 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158729
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165456
 #EXTINF:-1 tvg-id="espn2.us",ESPN2
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/127365
+#EXTINF:-1 tvg-id="tlelemadrid",Telemadrid
+http://172.111.36.190:6887/stream/zapitv2/telemadrid/master.m3u8
+#EXTINF:-1 tvg-id="mega.es",MEGA
+http://172.111.36.190:6887/stream/zapitv2/mega/master.m3u8
+#EXTINF:-1 tvg-id="syfy.es",Syfy Spain
+http://172.111.36.190:6887/stream/zapitv2/syfy/master.m3u8
 #EXTINF:-1 tvg-id="bobross.us",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 tvg-id="bobross.la",The Bob Ross Channel En Espanol
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="shop.sweep",Supermarket Sweep 24/7
 https://lnc-supermarket.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="wbtv",Warner TV
+http://172.111.36.190:6887/stream/zapitv2/warnertv/master.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png",Boing
+http://172.111.36.190:6887/stream/zapitv2/boing/master.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="nick.es",Nick Spain
+http://172.111.36.190:6887/stream/zapitv2/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="yougottagethighlikeme",Cartoon Network Bulgaria
 http://87.120.179.187:8000/play/a011
 #EXTINF:-1 tvg-id="gsn.east",GSN
