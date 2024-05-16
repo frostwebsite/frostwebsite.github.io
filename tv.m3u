@@ -5,7 +5,7 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
-#EXTINF:-1 tvg-id="NickToons_Global",NickToons Global
+#EXTINF:-1 tvg-id="NickToons_CEE",NickToons CEE
 http://185.236.229.62:9981/play/a06a
 #EXTINF:-1 tvg-id="elgromit",El Gourmet
 http://172.111.36.190:6887/stream/claro/elgourmetchannel/master.m3u8
@@ -397,11 +397,9 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.
 #EXTINF:-1 tvg-id="e4uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/1200px-E4_logo_2018.svg.png",E4
 http://148.69.168.89:9981/stream/channel/b199bc0c41a786ef295e5bba75d2275a
 #EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1
-http://45.11.190.178:8000/play/003/index.m3u8
-http://46.128.235.49:9981/stream/channel/1efbc1605af86b1f2ab1928807ebdba2
+http://143.159.95.237:9988/stream/channelid/537004699?profile=pass
 #EXTINF:-1 tvg-id="kkuuuwwyyyehhhdyyddgeee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png",ITV2
-http://148.69.168.89:9981/stream/channel/80f85a35800d8866b8c80f67ef9e9ff8
-https://z88.ubtvfans.com/live/rx3/1402/e7cf50edefdf8c739538773eec6f639e/index.m3u8
+http://143.159.95.237:9988/stream/channelid/2126967608?profile=pass
 #EXTINF:-1 tvg-id="itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1280px-ITV4_logo_2013.svg.png",ITV4
 http://148.69.168.89:9981/stream/channel/4e583a8d07b2176ee82ec62f4bd1b8b6
 #EXTINF:-1 tvg-id="github.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/245px-ITVBe_logo_%282022%29.svg.png",ITVBe
