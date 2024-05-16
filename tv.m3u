@@ -289,7 +289,7 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
 http://172.111.36.190:6887/stream/spectrum-east/disney-channel-hd/master.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/disneyXD.m3u8
+https://catburgeronline.github.io/disneyxd.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
