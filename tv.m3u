@@ -659,8 +659,6 @@ http://172.111.36.190:6887/stream/spectrum-east/thegrio-hd/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/sny-hd/master.m3u8
 #EXTINF:-1 tvg-id="secnetwork",SEC Network
 http://172.111.36.190:6887/stream/spectrum-east/sec-network-hd/master.m3u8
-#EXTINF:-1 tvg-id="espnnews",ESPNews
-http://172.111.36.190:6887/stream/spectrum-east/espnwhd-24523/master.m3u8
 #EXTINF:-1 tvg-id="msg1",MSG
 http://172.111.36.190:6887/stream/spectrum-east/msg-hd/master.m3u8
 #EXTINF:-1 tvg-id="yesnetwork",YES Network
