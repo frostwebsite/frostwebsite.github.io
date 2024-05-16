@@ -21,6 +21,8 @@ http://172.111.36.190:6887/stream/spectrum-east/uphd-00091/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/unitlno-8282/master.m3u8
 #EXTINF:-1 tvg-id="ultramacho",Ultra Macho
 http://172.111.36.190:6887/stream/spectrum-east/umachhd-18301/master.m3u8
+#EXTINF:-1 tvg-id="ultracine",Ultra Cine
+http://172.111.36.190:6887/stream/spectrum-east/ucinehd-18295/master.m3u8
 #EXTINF:-1 tvg-id="ultramex",Ultra Mex
 http://172.111.36.190:6887/stream/spectrum-east/ulmexhd-18302/master.m3u8
 #EXTINF:-1 tvg-id="msg2",MSG2
@@ -33,8 +35,12 @@ http://172.111.36.190:6887/stream/clarord/telecentro/master.m3u8
 http://172.111.36.190:6887/stream/clarord/telesistemahd/master.m3u8
 #EXTINF:-1 tvg-id="atreseri.es",Atreseries Spain
 http://172.111.36.190:6887/stream/zapitv2/atreseries-hd/master.m3u8
+#EXTINF:-1 tvg-id="ultradocu",Ultra Documental
+http://172.111.36.190:6887/stream/spectrum-east/udocuhd-18297/master.m3u8
 #EXTINF:-1 tvg-id="axn.es",AXN
 http://172.111.36.190:6887/stream/zapitv2/axn/master.m3u8
+#EXTINF:-1 tvg-id="ultra.clasico",Ultra Clasico
+http://172.111.36.190:6887/stream/spectrum-east/uclashd-18296/master.m3u8
 #EXTINF:-1 tvg-id="betsoul",BET Soul
 http://172.111.36.190:6887/stream/spectrum-east/betsoul-00414/master.m3u8
 #EXTINF:-1 tvg-id="bether",BET Her
