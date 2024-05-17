@@ -43,6 +43,7 @@ No video files are stored. We're simply using user-submitted links to publicly a
  <a href="https://github.com/R4IN2007"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/9399813a-b882-4dcb-8e37-f878899713c3" width="88" height="88"></a>
 <a href="https://github.com/cysjunk"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/9fd0f472-975e-485a-97a9-69780ce8b37c" width="88" height="88"></a>
 <a href="https://github.com/ExperiencersInternational"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/b1005588-7bc5-4e33-ba6e-3782a127d4a9" width="88" height="88"></a>
+<a href="https://github.com/mimipipi22"><img src="https://avatars.githubusercontent.com/u/99712080" width="88" height="88"></a>
 
 # Honorable mention
 For the domain :D
