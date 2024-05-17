@@ -23,6 +23,8 @@ http://172.111.36.190:6887/stream/spectrum-east/scichne-hd/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/kidsshd-00235/master.m3u8
 #EXTINF:-1 tvg-id="pasiones",Pasiones
 http://172.111.36.190:6887/stream/spectrum-east/pasnus-21814/master.m3u8
+#EXTINF:-1 tvg-id="neox.es",Neox Spain
+http://45.67.98.12:1234/stream/csat/neox/master.m3u8
 #EXTINF:-1 tvg-id="cn.idk",Cartoon Network CEE(?)
 http://86.120.245.60:9981/stream/channel/288b2b1f8dc1ebe2ed070320de125b11?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="nick.idk",Nick CEE(?)
@@ -38,7 +40,7 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="NickToons_CEE",NickToons CEE
-http://185.236.229.62:9981/play/a06a
+http://185.157.160.113:9981/stream/channel/769fd74d781ea07ecf83ebdb7fa4f86f?profile=h264-aac
 #EXTINF:-1 tvg-id="elgromit",El Gourmet
 http://172.111.36.190:6887/stream/claro/elgourmetchannel/master.m3u8
 #EXTINF:-1 tvg-id="syfy.us",Syfy
@@ -624,6 +626,8 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="accn",ACC Network
 http://172.111.36.190:6887/stream/spectrum-east/acc-network-hd/master.m3u8
+#EXTINF:-1 tvg-id="teennick.idk",TeenNick CEE(?)
+http://185.157.160.113:9981/stream/channel/501c45bfe8b8bfd67cf5617232348c30?profile=h264-aac
 #EXTINF:-1 tvg-id="bbcone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
 https://z88.ubtvfans.com/live/rx3/1382/d68c20b4e9ce94a17ff5487a4bd075dd/index.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
@@ -631,7 +635,7 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="disneyjunior.mx",Disney Junior Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
 #EXTINF:-1 tvg-id="disneychannel.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel HU/CZ
-http://79.117.42.183:9981/stream/channel/d4c9d90af77f2fd34dec03b354f81d7e?profile=pass
+http://185.157.160.113:9981/stream/channel/bfd844994e592c32d1108cf633c37fdc?profile=h264-aac
 #EXTINF:-1 tvg-id="disneychannel.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel Romania
 http://86.120.245.60:9981/stream/service/e1495536e24a2769705a5bf9e08a3aa1
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg",Ion
