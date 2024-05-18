@@ -3,6 +3,12 @@
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="fx.us",FX
 http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
+#EXTINF:-1 tvg-id="citynews-ca.toronto",CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
+https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
+#EXTINF:-1 tvg-id="telecosta",Telecosta Guatemala
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="tv.cl",TV Chile
 http://172.111.36.190:6887/stream/spectrum-east/tvnihd-21283/master.m3u8
 #EXTINF:-1 tvg-id="break.es",Break Spain
