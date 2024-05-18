@@ -70,7 +70,7 @@ http://172.111.36.190:6887/stream/clarord/telecentro/master.m3u8
 #EXTINF:-1 tvg-id="telesistema",Telesistema
 http://172.111.36.190:6887/stream/clarord/telesistemahd/master.m3u8
 #EXTINF:-1 tvg-id="atreseri.es",Atreseries Spain
-http://172.111.36.190:6887/stream/zapitv2/atreseries-hd/master.m3u8
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ultradocu",Ultra Documental
 http://172.111.36.190:6887/stream/spectrum-east/udocuhd-18297/master.m3u8
 #EXTINF:-1 tvg-id="axn.es",AXN
@@ -95,8 +95,10 @@ http://172.111.36.190:6887/stream/spectrum-east/spectrum-noticias-ny1/master.m3u
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="testignore",IGNORE THIS
-https://catburgeronline.github.io/animalplanet.m3u8
+#EXTINF:-1 tvg-id="mtv-tr3s",Tr3s
+http://172.111.36.190:6887/stream/comcast/tr3s/master.m3u8
+#EXTINF:-1 tvg-id="mtv.jp",MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 tvg-id="Nicktoons_Armenia",NickToons Armenia
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="RakutenPopUK",POP UK Rakuten
@@ -143,6 +145,8 @@ http://172.111.36.190:6887/stream/spectrum-east/fox-sports-1-hd/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="fuse.us",Fuse
 http://172.111.36.190:6887/stream/spectrum-east/fusehd/master.m3u8
+#EXTINF:-1 tvg-id="rakutenfam.eu",Rakuten Family EU
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="food.us",Food Network
 http://172.111.36.190:6887/stream/spectrum-east/food-network-hd/master.m3u8
 #EXTINF:-1 tvg-id="bandamax",Bandamax
@@ -242,6 +246,20 @@ https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakutentopfree.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Top Free Spain
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="superjail",Superjail 24/7
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:-1 tvg-id="rickandmorty",Rick and Morty 24/7
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-id="kartoonchannel.us",Kartoon Channel
+https://lnc-kartoon.tubi.video/kc_co.m3u8
+#EXTINF:-1 tvg-id="athf",Aqua Teen Hunger Force 24/7
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-id="pickles",Mr. Pickles 24/7
+https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-id="robotchiken",Robot Chicken 24/7
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-id="ericandre",The Eric Andre Show 24/7
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1 tvg-id="discoveryeast",Discovery Channel
 http://172.111.36.190:6887/stream/spectrum-east/discovery-channel-hd/master.m3u8
 #EXTINF:-1 tvg-id="nuestratele.rcn",Nuestra Tele Internacional
@@ -256,7 +274,7 @@ http://172.111.36.190:6887/stream/spectrum-east/own-hd/master.m3u8
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakutentvshows.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Series Spain
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="cmt.us",cMT
+#EXTINF:-1 tvg-id="cmt.us",CMT
 http://172.111.36.190:6887/stream/spectrum-east/cmt-hd/master.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Always Funny Videos
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
