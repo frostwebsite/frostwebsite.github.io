@@ -192,8 +192,10 @@ http://172.111.36.190:6887/stream/spectrum-east/bravo-hd/master.m3u8
 #EXTINF:-1 tvg-id="tf1.fr" tvg-logo="https://e7.pngegg.com/pngimages/29/93/png-clipart-tf1-group-mytf1-television-channel-others-purple-television-thumbnail.png",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://searchtv.net/stream/uuid/4770c3s1/
-#EXTINF:-1 tvg-id="soltv",Sol TV
+#EXTINF:-1 tvg-id="soltv",Sol TV Guatemala
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 tvg-id="zoomoo",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="aztecagt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png",Azteca
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="9televisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/NU9VE_2018.svg",NU9VE
