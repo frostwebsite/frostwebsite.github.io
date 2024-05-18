@@ -219,11 +219,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-id="canal21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",Canal 21
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="pakapaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png",Paka Paka
-http://190.7.19.205:8088/play/a0lk/index.m3u8
+http://need.link/need.m3u8
 #EXTINF:-1 tvg-id="pbsworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",PBS World
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="sbt.cuiaba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png",SBT
-https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Tooncast_%28green%29.png/revision/latest?cb=20161207193208",Tooncast
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="dealornodeal.USnotuk",Deal Or No Deal
@@ -313,9 +313,11 @@ http://172.111.36.190:6887/stream/spectrum-east/disney-channel-hd/master.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
 https://catburgeronline.github.io/disneyxd.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
-https://propefgdc5bc.airspace-cdn.cbsivideo.com/nicke0aea-live-dai/master/nicke0aea-live-dai.m3u8
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="nickjrFAST",Nick Jr. Pluto TV
+https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 #EXTINF:-1 tvg-id="flooxer.es",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-id="3comedia",Atresplayer Comedia
@@ -357,9 +359,9 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ej8cnrmex876gnmheuw" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/1200px-Buzzr_logo.svg.png",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/100px-Channel_4_logo_2015.svg.png",Channel 4 UK
-http://143.159.95.237:9988/stream/channel/34ad8c1b3fe5f0444216da281e5537a9?profile=matroska
+need link
 #EXTINF:-1 tvg-id="itv3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",ITV3
-http://46.128.235.49:9981/stream/channel/c8cd775652f42a115bb7f462a3f2b3e7
+need link
 #EXTINF:-1 tvg-id="dovechannel",Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="uhhhhhheu83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/150px-BBC_America_logo_2021.svg.png",BBC America
