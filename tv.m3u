@@ -357,7 +357,7 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ej8cnrmex876gnmheuw" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/1200px-Buzzr_logo.svg.png",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/100px-Channel_4_logo_2015.svg.png",Channel 4 UK
-http://148.69.168.89:9981/stream/channel/6107832c5c15b1538ad71aab2ea601b1
+http://143.159.95.237:9988/stream/channel/34ad8c1b3fe5f0444216da281e5537a9?profile=matroska
 #EXTINF:-1 tvg-id="itv3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",ITV3
 http://46.128.235.49:9981/stream/channel/c8cd775652f42a115bb7f462a3f2b3e7
 #EXTINF:-1 tvg-id="dovechannel",Dove Channel
