@@ -21,6 +21,8 @@ http://45.67.98.12:1234/stream/csat/amcbreakhd/master.m3u8
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 #EXTINF:-1 tvg-id="lmn.us",LMN
 http://172.111.36.190:6887/stream/spectrum-east/lmn-hd/master.m3u8
+#EXTINF:-1 tvg-id="eltrece.ar",ElTrece
+https://artv.watch/generate_playlist.php?channel=ElTrece.ar
 #EXTINF:-1 tvg-id="dmax.es",DMAX Spain
 http://45.67.98.12:1234/stream/csat/dmax/master.m3u8
 #EXTINF:-1 tvg-id="111616",SIC K
