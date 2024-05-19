@@ -53,6 +53,12 @@ https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3
 http://185.157.160.113:9981/stream/channel/769fd74d781ea07ecf83ebdb7fa4f86f?profile=h264-aac
 #EXTINF:-1 tvg-id="elgromit",El Gourmet
 http://172.111.36.190:6887/stream/claro/elgourmetchannel/master.m3u8
+#EXTINF:-1 tvg-id="mtv.eu",MTV Europe
+http://86.120.245.60:9981/stream/channel/d6cc579c24b220598b655f681f595a27?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="mtv00s",MTV 00s Europe
+http://86.120.245.60:9981/stream/channel/e68cd5d970dba7ccab13478c99862c77?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="cartoonito-idk",Cartoonito CEE(?)
+http://86.120.245.60:9981/stream/channel/43228c529888ff486eb6acae4ce27818?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="syfy.us",Syfy
 http://172.111.36.190:6887/stream/spectrum-east/syfy-hd/master.m3u8
 #EXTINF:-1 tvg-id="viendo.mov",Viendo Movies
