@@ -37,6 +37,8 @@ http://46.252.39.94:8008/play/a012
 http://172.111.36.190:6887/stream/spectrum-east/telen-00124/master.m3u8
 #EXTINF:-1 tvg-id="ahc",AHC
 http://172.111.36.190:6887/stream/spectrum-east/milihd/master.m3u8
+#EXTINF:-1 tvg-id="gloob.br",Gloob
+http://95.164.4.95/painel/globoplay/globo.php?id=7339146&q=&lat=-23.614942616362804&long=-46.69667531648953
 #EXTINF:-1 tvg-id="crime.es",Crime Spain
 http://45.67.98.12:1234/stream/csat/amccrimehd/master.m3u8
 #EXTINF:-1 tvg-id="tele.sv",Tele El Salvador
