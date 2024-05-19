@@ -3,6 +3,8 @@
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="fx.us",FX
 http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
+#EXTINF:-1 tvg-id="metv",MeTV
+http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="citynews-ca.toronto",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
