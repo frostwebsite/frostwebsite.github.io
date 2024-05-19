@@ -181,8 +181,6 @@ http://170.254.18.106/STAR/index.m3u8
 http://172.111.36.190:6887/stream/tested/cntaiwan/master.m3u8
 #EXTINF:-1 tvg-id="lifetime.la",Lifetime LA
 http://170.254.18.106/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="disney2.us",Disney Channel (SAP)
-http://172.111.36.190:6887/stream/tested/disneyusasap/master.m3u8
 #EXTINF:-1 tvg-id="lifetime.us",Lifetime
 http://172.111.36.190:6887/stream/spectrum-east/lifetime-hd/master.m3u8
 #EXTINF:-1 tvg-id="pac12",PAC12
