@@ -11,6 +11,10 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 #EXTINF:-1 tvg-id="cn.sap",Cartoon Network (SAP)
 http://172.111.36.190:6887/stream/tested/cartoonnetworksap/master.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt",Disney Channel Portugal
+http://172.111.36.190:6887/stream/meo/disneychannelhd/master.m3u8
+#EXTINF:-1 tvg-id="nick.pt",Nick Portugal
+http://172.111.36.190:6887/stream/meo/nickelodeonhd/master.m3u8
 #EXTINF:-1 tvg-id="telecosta",Telecosta Guatemala
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="tv.cl",TV Chile
@@ -26,7 +30,7 @@ https://artv.watch/generate_playlist.php?channel=ElTrece.ar
 #EXTINF:-1 tvg-id="dmax.es",DMAX Spain
 http://45.67.98.12:1234/stream/csat/dmax/master.m3u8
 #EXTINF:-1 tvg-id="111616",SIC K
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_K_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+http://172.111.36.190:6887/stream/meo/sickhd/master.m3u8
 #EXTINF:-1 tvg-id="c4",Cula4
 https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
 #EXTINF:-1 tvg-id="chocolatethings",Ding Dong
