@@ -5,38 +5,26 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
 #EXTINF:-1 tvg-id="metv",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
-#EXTINF:-1 tvg-id="cn.pt",Cartoon Network Portugal
-http://172.111.36.190:6887/stream/meo/cartoonnetworkhd/master.m3u8
 #EXTINF:-1 tvg-id="disneychannel.fr",Disney Channel France
 http://213.176.3.72:1234/stream/FRANCE/938/master.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.fr",Cartoon Network France
 http://213.176.3.72:1234/stream/FRANCE/1211/master.m3u8
 #EXTINF:-1 tvg-id="teletoon",Télétoon
 http://213.176.3.72:1234/stream/FRANCE/672/master.m3u8
-#EXTINF:-1 tvg-id="biggs.pt",Biggs
-http://172.111.36.190:6887/stream/meo/biggs/master.m3u8
-#EXTINF:-1 tvg-id="canalpanda.pt",Canal Panda
-http://172.111.36.190:6887/stream/meo/pandahd/master.m3u8
-#EXTINF:-1 tvg-id="pandakids.pt",Panda Kids
-http://172.111.36.190:6887/stream/meo/pandakidshd/master.m3u8
 #EXTINF:-1 tvg-id="citynews-ca.toronto",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
-#EXTINF:-1 tvg-id="cn.sap",Cartoon Network (SAP)
-http://172.111.36.190:6887/stream/tested/cartoonnetworksap/master.m3u8
-#EXTINF:-1 tvg-id="disneychannel.pt",Disney Channel Portugal
-http://172.111.36.190:6887/stream/meo/disneychannelhd/master.m3u8
-#EXTINF:-1 tvg-id="nick.pt",Nick Portugal
-http://172.111.36.190:6887/stream/meo/nickelodeonhd/master.m3u8
-#EXTINF:-1 tvg-id="telecosta",Telecosta Guatemala
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="tv.cl",TV Chile
 http://172.111.36.190:6887/stream/spectrum-east/tvnihd-21283/master.m3u8
 #EXTINF:-1 tvg-id="break.es",Break Spain
 http://45.67.98.12:1234/stream/csat/amcbreakhd/master.m3u8
 #EXTINF:-1 tvg-id="vtv32",VTV Canal 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
+http://5.181.236.159:8484/stream/ukkids/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="boom.uk",Boomerang UK
+http://5.181.236.159:8484/stream/ukkids/boomerang/master.m3u8
 #EXTINF:-1 tvg-id="lmn.us",LMN
 http://172.111.36.190:6887/stream/spectrum-east/lmn-hd/master.m3u8
 #EXTINF:-1 tvg-id="eltrece.ar",ElTrece
@@ -277,7 +265,7 @@ http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="dealornodeal.USnotuk",Deal Or No Deal
 https://lnc-deal-or-no-deal.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="super.it",Super! Italy
-http://172.111.36.190:6887/stream/tested/super/master.m3u8
+http://5.181.236.159:8484/stream/itkids/super/master.m3u8
 #EXTINF:-1 tvg-id="starzfam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/2560px-Starz_Kids_%26_Family_2016.svg.png",Starz Kids & Family
 https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
 #EXTINF:-1 tvg-id="9rush" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/9Rush_2020.png/revision/latest/scale-to-width-down/1200?cb=20210323093606",9Rush
@@ -620,7 +608,16 @@ https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="vecinos",Vecinos 24/7
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="nicktoons.uk",NickToons UK
+http://5.181.236.159:8484/stream/ukkids/nicktoons/master.m3u8
+#EXTINF:-1 tvg-id="K2.it",K2
+http://5.181.236.159:8484/stream/itkids/k2/master.m3u8
+#EXTINF:-1 tvg-id="raiyoyo.it",Rai YoYo
+http://5.181.236.159:8484/stream/itkids/raiyoyo/master.m3u8
+#EXTINF:-1 tvg-id="raigulp.it",Rai Gulp
+http://5.181.236.159:8484/stream/itkids/raigulp/master.m3u8
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
+http://5.181.236.159:8484/stream/ukkids/nickelodeon/master.m3u8
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
 #EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
