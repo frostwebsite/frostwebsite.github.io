@@ -11,6 +11,8 @@ http://212.102.58.155:1234/stream/spectrum-east/mtvclas-00412/master.m3u8
 https://catburgeronline.github.io/vk.m3u
 #EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
 http://212.102.58.155:1234/stream/meo/disneychannel/master.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.in",Cartoon Network India
+http://212.102.58.155:1234/stream/tataplay/cartoonnetwork/master.m3u8
 #EXTINF:-1 tvg-id="enfamilia.es",Enfamilia
 http://5.181.236.159:8484/stream/zapi/enfamilafhd/master.m3u8
 #EXTINF:-1 tvg-id="biggs.pt",Biggs
