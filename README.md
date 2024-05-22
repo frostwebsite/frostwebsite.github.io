@@ -32,7 +32,9 @@ No video files are stored. We're simply using user-submitted links to publicly a
 
 # Portal
 
-[TV Channels](https://f.phite.ro/tv.m3u) | [Movies + Series](https://f.phite.ro/vod.m3u) | [Radio; work in progress](https://f.phite.ro/radio.m3u8)
+[TV Channels](https://f.phite.ro/tv.m3u) | [Movies + Series](https://f.phite.ro/fortv-vod.m3u) | [Radio; work in progress](https://f.phite.ro/radio.m3u8)
+
+Join the Matrix room: #frost:omada.cafe
 
 # Members
  <a href="https://github.com/cold360"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/8f766628-9c20-467f-b892-621c7648ec93" width="88" height="88"></a>
