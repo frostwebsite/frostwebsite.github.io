@@ -310,6 +310,10 @@ https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cmt.us",CMT
 http://172.111.36.190:6887/stream/spectrum-east/cmt-hd/master.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ro",Cartoon Network Romania
+http://51.159.199.88:1234/stream/romaniafocussat/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="skyfamily.uk",Sky Cinema Family
+http://51.159.199.88:1234/stream/skygo/skycinemafamily/master.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Always Funny Videos
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
@@ -318,6 +322,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 http://46.128.235.49:9981/stream/channel/bad57760ec66ac5c1eb21fffd7663676
 http://hybridtv.ss7.tv/whitelabel/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay
 #EXTINF:-1 tvg-id="cn.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://212.102.58.155:1234/stream/usasap/cartoonnetworksap/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/cartoon-network-hd/master.m3u8
 https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
 #EXTINF:-1 tvg-id="racing.com-au",Racing.com Australia
@@ -375,6 +380,7 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
+http://212.102.58.155:1234/stream/usasap/disneychannelsap/master.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/disney-channel-hd/master.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
 https://catburgeronline.github.io/disneyxd.m3u8
@@ -482,8 +488,6 @@ http://172.111.36.190:6887/stream/zapitv2/boing/master.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="nick.es",Nick Spain
 http://172.111.36.190:6887/stream/zapitv2/nickelodeon/master.m3u8
-#EXTINF:-1 tvg-id="yougottagethighlikeme",Cartoon Network Bulgaria
-http://87.120.179.187:8000/play/a011
 #EXTINF:-1 tvg-id="gsn.east",GSN
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="cnasia",Cartoon Network Asia
