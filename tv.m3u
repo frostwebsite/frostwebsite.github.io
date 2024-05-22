@@ -351,9 +351,12 @@ http://170.254.18.106/HBO_MUNDI/index.m3u8
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.sg",HBO Asia
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 tvg-id="ultrakids",Ultra Kids
+http://212.102.58.155:1234/stream/spectrum-east/ukidzhd-18300/master.m3u8
 #EXTINF:-1 tvg-id="unicable.mx",Unicable
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit.la",Telehit
+http://212.102.58.155:1234/stream/spectrum-east/thitus-18260/master.m3u8
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit2.la",Telehit 2
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
