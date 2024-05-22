@@ -523,7 +523,10 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel ES (English track)
+http://5.181.236.159:8484/stream/zapi/disneychsd/master.m3u8
 http://45.67.98.12:1234/stream/csat/disneychannelfhd/master.m3u8
+#EXTINF:-1 tvg-id="discoveryK.in",Discovery Kids India
+https://mhdmaxtv.com/delta/discovery/api/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="disch.esMAIN",Disney Channel ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",POP Max
