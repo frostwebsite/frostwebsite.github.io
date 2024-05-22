@@ -5,6 +5,16 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
 #EXTINF:-1 tvg-id="metv",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
+#EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
+http://212.102.58.155:1234/stream/meo/disneychannel/master.m3u8
+#EXTINF:-1 tvg-id="biggs.pt",Biggs
+http://212.102.58.155:1234/stream/meo/biggs/master.m3u8
+#EXTINF:-1 tvg-id="cartoon.pt",Cartoon Network Portugal
+http://212.102.58.155:1234/stream/meo/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="panda1.pt",Canal Panda
+http://212.102.58.155:1234/stream/meo/canalpanda/master.m3u8
+#EXTINF:-1 tvg-id="panda2.pt",Panda Kids
+http://212.102.58.155:1234/stream/meo/pandakids/master.m3u8
 #EXTINF:-1 tvg-id="nick.fr",Nickelodeon France
 http://51.159.199.88:1234/stream/o11v22b1bin/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="disneychannel.fr",Disney Channel France
@@ -12,11 +22,34 @@ http://213.176.3.72:1234/stream/FRANCE/938/master.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkla",Cartoon Network LA
 http://170.81.241.222:55442/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.fr",Cartoon Network France
+http://51.159.199.88:1234/stream/freefhd/cartoonnetworkfhd/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/1211/master.m3u8
 #EXTINF:-1 tvg-id="teletoon",Télétoon
 http://213.176.3.72:1234/stream/FRANCE/672/master.m3u8
+#EXTINF:-1 tvg-id="cstarmusic.fr",CStar Hits
+http://51.159.199.88:1234/stream/freefhd/cstarhitsfhd/master.m3u8
+#EXTINF:-1 tvg-id="boom.fr",Boomerang France
+http://51.159.199.88:1234/stream/freefhd/boomerangfhd/master.m3u8
+#EXTINF:-1 tvg-id="cineplusfamiz",Cine+ Famiz (English)
+http://51.159.199.88:1234/stream/o11v22b1bin/cinefamiz/master.m3u8
+#EXTINF:-1 tvg-id="cineplusclassic",Cine+ Classic (English)
+http://51.159.199.88:1234/stream/o11v22b1bin/cineclassic/master.m3u8
+#EXTINF:-1 tvg-id="cstar.fr",CStar
+http://51.159.199.88:1234/stream/molotovfrance/cstar/master.m3u8
 #EXTINF:-1 tvg-id="citynews-ca.toronto",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="tf1-timeshift",TF1 +1
+http://51.159.199.88:1234/stream/freefhd/tf11fhd/master.m3u8
+#EXTINF:-1 tvg-id="gulli.fr",Gulli
+http://51.159.199.88:1234/stream/o11v22b1bin/gulli/master.m3u8
+#EXTINF:-1 tvg-id="france2",France2
+http://51.159.199.88:1234/stream/o11v22b1bin/france2/master.m3u8
+#EXTINF:-1 tvg-id="f3.fr",France3
+http://51.159.199.88:1234/stream/o11v22b1bin/france3/master.m3u8
+#EXTINF:-1 tvg-id="f4.fr",France4
+http://51.159.199.88:1234/stream/o11v22b1bin/france4/master.m3u8
+#EXTINF:-1 tvg-id="f5.fr",France5
+http://51.159.199.88:1234/stream/o11v22b1bin/france5/master.m3u8
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 #EXTINF:-1 tvg-id="tv.cl",TV Chile
@@ -25,6 +58,10 @@ http://172.111.36.190:6887/stream/spectrum-east/tvnihd-21283/master.m3u8
 http://45.67.98.12:1234/stream/csat/amcbreakhd/master.m3u8
 #EXTINF:-1 tvg-id="vtv32",VTV Canal 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-id="disney.jp",Disney Channel Japan
+http://212.102.58.155:1234/stream/mujitv/disneychanneljapan/master.m3u8
+#EXTINF:-1 tvg-id="nickteen.fr",NickelodeonTeen (France)
+http://212.102.58.155:1234/stream/france/teennick/master.m3u8
 #EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
 http://5.181.236.159:8484/stream/ukkids/cartoonnetwork/master.m3u8
 #EXTINF:-1 tvg-id="boom.uk",Boomerang UK
@@ -35,8 +72,10 @@ http://172.111.36.190:6887/stream/spectrum-east/lmn-hd/master.m3u8
 https://artv.watch/generate_playlist.php?channel=ElTrece.ar
 #EXTINF:-1 tvg-id="dmax.es",DMAX Spain
 http://45.67.98.12:1234/stream/csat/dmax/master.m3u8
-#EXTINF:-1 tvg-id="111616",SIC K
-http://172.111.36.190:6887/stream/meo/sickhd/master.m3u8
+#EXTINF:-1 tvg-id="nick.kz",Nickelodeon Kazakhstan
+http://212.102.58.155:1234/stream/global/nickkazakh/master.m3u8
+#EXTINF:-1 tvg-id="sic-k.pt",SIC K
+http://212.102.58.155:1234/stream/meo/sick/master.m3u8
 #EXTINF:-1 tvg-id="c4",Cula4
 https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
 #EXTINF:-1 tvg-id="chocolatethings",Ding Dong
