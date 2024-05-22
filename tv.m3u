@@ -7,6 +7,8 @@ http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
 http://212.102.58.155:1234/stream/meo/disneychannel/master.m3u8
+#EXTINF:-1 tvg-id="enfamilia.es",Enfamilia
+http://5.181.236.159:8484/stream/zapi/enfamilafhd/master.m3u8
 #EXTINF:-1 tvg-id="biggs.pt",Biggs
 http://212.102.58.155:1234/stream/meo/biggs/master.m3u8
 #EXTINF:-1 tvg-id="cartoon.pt",Cartoon Network Portugal
