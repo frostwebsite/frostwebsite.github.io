@@ -5,6 +5,8 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 http://212.102.58.155:1234/stream/spectrum-east/fx-hd/master.m3u8
 #EXTINF:-1 tvg-id="metv",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
+#EXTINF:-1 tvg-id="mtvclassic",MTV Classic
+http://212.102.58.155:1234/stream/spectrum-east/mtvclas-00412/master.m3u8
 #EXTINF:-1 tvg-id="TESTING.123",TEST CHANNEL
 https://catburgeronline.github.io/vk.m3u
 #EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
@@ -760,6 +762,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://z88.ubtvfans.com/live/rx3/1385/683373c0227fd2a7d132b5c477ea3c74/index.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mtvlive",MTV Live
+http://212.102.58.155:1234/stream/spectrum-east/mtvlive-00405/master.m3u8
 #EXTINF:-1 tvg-id="grio",theGrio
 http://212.102.58.155:1234/stream/spectrum-east/telemundo-east/master.m3u8
 #EXTINF:-1 tvg-id="sny.us",SNY
