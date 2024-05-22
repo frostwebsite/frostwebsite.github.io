@@ -7,6 +7,8 @@ http://212.102.58.155:1234/stream/spectrum-east/fx-hd/master.m3u8
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="mtvclassic",MTV Classic
 http://212.102.58.155:1234/stream/spectrum-east/mtvclas-00412/master.m3u8
+#EXTINF:-1 tvg-id="nickjr.in",Nick Jr. India
+http://212.102.58.155:1234/stream/tataplay/nickjr/master.m3u8
 #EXTINF:-1 tvg-id="TESTING.123",TEST CHANNEL
 https://catburgeronline.github.io/vk.m3u
 #EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
