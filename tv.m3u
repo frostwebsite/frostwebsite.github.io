@@ -433,7 +433,7 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ej8cnrmex876gnmheuw" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/1200px-Buzzr_logo.svg.png",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/100px-Channel_4_logo_2015.svg.png",Channel 4 UK
-need link
+http://88.208.226.9:9981/stream/channel/75020e23b50ba98577853a4253e1de1b?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="itv3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",ITV3
 http://88.208.226.9:9981/stream/channel/6ce9f0d1481c4fff9ca700ca9fe875b2?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="dovechannel",Dove Channel
@@ -514,6 +514,12 @@ http://143.159.95.237:9988/play/ticket/stream/channel/9b0a02a00418594574ef0b347e
 http://88.208.226.9:9981/stream/channel/e25cc00cb9ed77a7f01615405ab07016?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1280px-ITV4_logo_2013.svg.png",ITV4
 http://88.208.226.9:9981/stream/channel/45add5654ffd83f5ac4807dd06dafd47?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="film4.uk",Film4
+http://88.208.226.9:9981/stream/channel/e9b756eb87279a94100b4592f41d105e?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="more4.uk",More4
+http://88.208.226.9:9981/stream/channel/da29267c30506e7b4f7ffc3985a6ec7f?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="stv",STV
+http://88.208.226.9:9981/stream/channel/f8b25558071d12245fe4442cefcbfbb9?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="e4-timeshift",E4 +1
 http://88.208.226.9:9981/stream/channel/366be3f03d6f6da55ae24a94e2e22d72?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="github.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/245px-ITVBe_logo_%282022%29.svg.png",ITVBe
@@ -521,7 +527,7 @@ http://148.69.168.89:9981/stream/channel/af8ed6886de3eb3bcc8cc1844715e102
 #EXTINF:-1 tvg-id="becausemaybe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/1200px-BBC_Four_logo_2021.svg.png",CBeebies / BBC Four
 http://45.153.35.210:8000/play/UK_cbeebies_HD
 #EXTINF:-1 tvg-id="5uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Channel_5_%28UK%29_2016.svg",5 UK
-http://46.128.235.49:9981/stream/channel/5666d01c1737f41d8a35df3875446213
+http://88.208.226.9:9981/stream/channel/7d2dca8c9d0f6c49800a8b4972354c60?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Clan TVE ES",Clan Spain
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.es",Distrito Comedia
