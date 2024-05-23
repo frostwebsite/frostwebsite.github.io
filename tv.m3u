@@ -142,18 +142,34 @@ http://212.102.58.155:1234/stream/spectrum-east/travel-channel-hd/master.m3u8
 http://172.111.36.190:6887/stream/clarord/telecentro/master.m3u8
 #EXTINF:-1 tvg-id="telesistema",Telesistema
 http://172.111.36.190:6887/stream/clarord/telesistemahd/master.m3u8
+#EXTINF:-1 tvg-id="espnews",ESPNews
+http://212.102.58.155:1234/stream/spectrum-east/espnwhd-24523/master.m3u8
 #EXTINF:-1 tvg-id="atreseri.es",Atreseries Spain
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="axn.es",AXN
-http://172.111.36.190:6887/stream/zapitv2/axn/master.m3u8
+#EXTINF:-1 tvg-id="cinelatino",Cine Latino
+http://212.102.58.155:1234/stream/spectrum-east/cinlus-00032/master.m3u8
 #EXTINF:-1 tvg-id="betsoul",BET Soul
 http://212.102.58.155:1234/stream/spectrum-east/betsoul-00414/master.m3u8
+#EXTINF:-1 tvg-id="bether",BET Her
+http://212.102.58.155:1234/stream/spectrum-east/bherhd-18268/master.m3u8
+#EXTINF:-1 tvg-id="caracol.int",Caracol Internacional
+http://212.102.58.155:1234/stream/spectrum-east/caraihd-25577/master.m3u8
 #EXTINF:-1 tvg-id="betjams",BET Jams
 http://212.102.58.155:1234/stream/spectrum-east/betj-00395/master.m3u8
 #EXTINF:-1 tvg-id="oxygennbc",Oxygen
 http://212.102.58.155:1234/stream/spectrum-east/oxygen-hd/master.m3u8
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 tvg-id="nbc",NBC
+http://212.102.58.155:1234/stream/spectrum-east/nbc-wnyt-hd/master.m3u8
+#EXTINF:-1 tvg-id="sho2",Showtime 2
+http://212.102.58.155:1234/stream/spectrum-east/sho2hd-00175/master.m3u8
+#EXTINF:-1 tvg-id="surprisemotherfucker",Sorpresa!
+http://212.102.58.155:1234/stream/spectrum-east/sorpresa-00195/master.m3u8
+#EXTINF:-1 tvg-id="starz.us",Starz
+http://212.102.58.155:1234/stream/spectrum-east/stzhd-00201/master.m3u8
+#EXTINF:-1 tvg-id="starzkidsandfamily.us",Starz Kids & Family
+http://212.102.58.155:1234/stream/spectrum-east/stzkhd-00203/master.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="mtv-tr3s",Tr3s
@@ -352,15 +368,16 @@ http://170.254.18.106/HBO_MUNDI/index.m3u8
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ultrakids",Ultra Kidz
 http://212.102.58.155:1234/stream/spectrum-east/ukidzhd-18300/master.m3u8
+#EXTINF:-1 tvg-id="uptv.us",UPtv
+http://212.102.58.155:1234/stream/spectrum-east/uphd-00091/master.m3u8
+#EXTINF:-1 tvg-id="cricket",Willow
+http://212.102.58.155:1234/stream/spectrum-east/wllohd-10364/master.m3u8
 #EXTINF:-1 tvg-id="unicable.mx",Unicable
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="telehit.la",Telehit
+#EXTINF:-1 tvg-id="telehit.la",Telehit (US feed)
 http://212.102.58.155:1234/stream/spectrum-east/thitus-18260/master.m3u8
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="telehit2.la",Telehit Musica
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="telehit3.la",Telehit Musica Plus
-https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="telehit2.la",Telehit Musica (US feed)
+http://212.102.58.155:1234/stream/spectrum-east/thurus-18261/master.m3u8
 #EXTINF:-1 tvg-id="star.fi",Star Channel Finland
 https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png",Las Estrellas
@@ -739,6 +756,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us",HSN2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="cn.west",Cartoon Network West
+http://212.102.58.155:1234/stream/spectrum-east/toonphd-24380/master.m3u8
 #EXTINF:-1 tvg-id="QVC.us",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-id="bbctwo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1200px-BBC_Two_logo_2021.svg.png",BBC Two
@@ -748,7 +767,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvlive",MTV Live
 http://212.102.58.155:1234/stream/spectrum-east/mtvlive-00405/master.m3u8
 #EXTINF:-1 tvg-id="grio",theGrio
-http://212.102.58.155:1234/stream/spectrum-east/telemundo-east/master.m3u8
+http://212.102.58.155:1234/stream/spectrum-east/thegrio-hd/master.m3u8
 #EXTINF:-1 tvg-id="sny.us",SNY
 http://212.102.58.155:1234/stream/spectrum-east/sny-hd/master.m3u8
 #EXTINF:-1 tvg-id="secnetwork",SEC Network
