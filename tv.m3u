@@ -5,6 +5,8 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 http://212.102.58.155:1234/stream/spectrum-east/fx-hd/master.m3u8
 #EXTINF:-1 tvg-id="metv",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
+#EXTINF:-1 tvg-id="skykids.uk",Sky Kids
+http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
 #EXTINF:-1 tvg-id="mtvclassic",MTV Classic
 http://212.102.58.155:1234/stream/spectrum-east/mtvclas-00412/master.m3u8
 #EXTINF:-1 tvg-id="nickjr.in",Nick Jr. India (Very low bitrate)
@@ -553,6 +555,7 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 #EXTINF:-1 tvg-id="j9e",Freeform
 https://z88.ubtvfans.com/live/rx3/1560/543a309a2326c7e07ca639bfe1c014ce/index.m3u8
 #EXTINF:-1 tvg-id="disneyjr.us",Disney Junior US
+http://212.102.58.155:1234/stream/spectrum-east/disneyjunior/master.m3u8
 https://z88.ubtvfans.com/live/rx3/1210/f58216dd55e6469ef0f91f20c245596f/index.m3u8
 #EXTINF:-1 tvg-id="fxx.east",FXX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
@@ -560,6 +563,14 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
 http://thevdm.xyz:25461/timmadden/timmad4765/39744
+#EXTINF:-1 tvg-id="nick.west",Nickeldeon West
+http://212.102.58.155:1234/stream/spectrum-east/nikphd-00403/master.m3u8
+#EXTINF:-1 tvg-id="nktn.west",NickToons West
+http://212.102.58.155:1234/stream/spectrum-east/niktnhp-12820/master.m3u8
+#EXTINF:-1 tvg-id="tnck.west",TeenNick West
+http://212.102.58.155:1234/stream/spectrum-east/tnckphd-18307/master.m3u8
+#EXTINF:-1 tvg-id="longhorn",Longhorn Network
+http://212.102.58.155:1234/stream/spectrum-east/lnghrnh-24527/master.m3u8
 #EXTINF:-1 tvg-id="Comet.us",Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="tbnsmile",Smile
