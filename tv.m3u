@@ -7,6 +7,18 @@ http://212.102.58.155:1234/stream/spectrum-east/fx-hd/master.m3u8
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="skykids.uk",Sky Kids
 http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
+#EXTINF:-1 tvg-id="rai1.it",Rai 1
+http://212.102.58.155:1234/stream/raiplay/rai-1/master.m3u8
+#EXTINF:-1 tvg-id="rai2.it",Rai 2
+http://212.102.58.155:1234/stream/raiplay/rai-2/master.m3u8
+#EXTINF:-1 tvg-id="rai3.it",Rai 3
+http://212.102.58.155:1234/stream/raiplay/rai-3/master.m3u8
+#EXTINF:-1 tvg-id="rai4.it",Rai 4
+http://212.102.58.155:1234/stream/raiplay/rai-4/master.m3u8
+#EXTINF:-1 tvg-id="rai5.it",Rai 5
+http://212.102.58.155:1234/stream/raiplay/rai-5/master.m3u8
+#EXTINF:-1 tvg-id="skytg24.it",Sky TG24
+http://212.102.58.155:1234/stream/raiplay/sky-tg-24/master.m3u8
 #EXTINF:-1 tvg-id="mtvclassic",MTV Classic
 http://212.102.58.155:1234/stream/spectrum-east/mtvclas-00412/master.m3u8
 #EXTINF:-1 tvg-id="nickjr.in",Nick Jr. India (Very low bitrate)
