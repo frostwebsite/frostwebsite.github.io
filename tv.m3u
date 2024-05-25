@@ -196,8 +196,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 http://212.102.58.155:1234/stream/spectrum-east/nbc-wnyt-hd/master.m3u8
 #EXTINF:-1 tvg-id="sho2",Showtime 2
 http://212.102.58.155:1234/stream/spectrum-east/sho2hd-00175/master.m3u8
-#EXTINF:-1 tvg-id="surprisemotherfucker",Sorpresa!
-http://212.102.58.155:1234/stream/spectrum-east/sorpresa-00195/master.m3u8
 #EXTINF:-1 tvg-id="starz.us",Starz
 http://212.102.58.155:1234/stream/spectrum-east/stzhd-00201/master.m3u8
 #EXTINF:-1 tvg-id="starzkidsandfamily.us",Starz Kids & Family
