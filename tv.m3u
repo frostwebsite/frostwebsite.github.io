@@ -367,8 +367,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
-http://46.128.235.49:9981/stream/channel/bad57760ec66ac5c1eb21fffd7663676
-http://hybridtv.ss7.tv/whitelabel/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay
+https://hybridtv.ss7.tv/whitelabel/app/release/1.111.0/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay&httpforced=1
 #EXTINF:-1 tvg-id="cn.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (SAP)
 http://212.102.58.155:1234/stream/usasap/cartoonnetworksap/master.m3u8
 #EXTINF:-1 tvg-id="racing.com-au",Racing.com Australia
@@ -752,7 +751,7 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
 #EXTINF:-1 tvg-id="disneychannel.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel HU/CZ
 http://185.157.160.113:9981/stream/channel/bfd844994e592c32d1108cf633c37fdc?profile=h264-aac
 #EXTINF:-1 tvg-id="disneychannel.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel Romania
-http://86.120.245.60:9981/stream/service/e1495536e24a2769705a5bf9e08a3aa1
+http://86.120.245.60:9981/stream/channel/cc786b9eba61d340e666247ed8faf105?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg",Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="8ey873723placeholder",Accion Mexicana
