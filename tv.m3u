@@ -7,6 +7,10 @@ http://212.102.58.155:1234/stream/spectrum-east/fx-hd/master.m3u8
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="skykids.uk",Sky Kids
 http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
+#EXTINF:-1 tvg-id="sssc",Sky Sports Soccer
+http://ibrafr.com:8789/play/live.php?mac=00:1A:79:a2:f8:6f&stream=117403&extension=ts
+#EXTINF:-1 tvg-id="foxsports3.au",FOX Sports 3 Australia
+http://zxd.4k-crystal.top:8080/Cwq8ubbLnD9c/zKvYztfKkdzB/76080
 #EXTINF:-1 tvg-id="estudi5",Estudio5
 http://212.102.58.155:1234/stream/spectrum-east/estud5h-00208/master.m3u8
 #EXTINF:-1 tvg-id="mbc3",MBC3
