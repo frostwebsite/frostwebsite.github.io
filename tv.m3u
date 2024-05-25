@@ -235,8 +235,6 @@ http://212.102.58.155:1234/stream/spectrum-east/fusehd/master.m3u8
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="food.us",Food Network
 http://212.102.58.155:1234/stream/spectrum-east/food-network-hd/master.m3u8
-#EXTINF:-1 tvg-id="bandamax",Bandamax
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hbox-its-not-pron-btw",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="paramount.us",Paramount Network
@@ -388,7 +386,7 @@ http://212.102.58.155:1234/stream/spectrum-east/uphd-00091/master.m3u8
 #EXTINF:-1 tvg-id="cricket",Willow
 http://212.102.58.155:1234/stream/spectrum-east/wllohd-10364/master.m3u8
 #EXTINF:-1 tvg-id="unicable.mx",Unicable
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+need link
 #EXTINF:-1 tvg-id="telehit.la",Telehit (US feed)
 http://212.102.58.155:1234/stream/spectrum-east/thitus-18260/master.m3u8
 #EXTINF:-1 tvg-id="telehit2.la",Telehit Musica (US feed)
@@ -641,14 +639,6 @@ http://fortv.cc:8080/N0QaDD/625713/63850
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="boing.it",Boing Italy
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1 tvg-id="p-luche",La Familia P. Luche 24/7
-https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="unafamiliadediez",Una Familia de Diez 24/7
-https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="nlg",Nosotros los Guapos 24/7
-https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="vecinos",Vecinos 24/7
-https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="nicktoons.uk",NickToons UK
 http://5.181.236.159:8484/stream/ukkids/nicktoons/master.m3u8
 #EXTINF:-1 tvg-id="K2.it",K2
