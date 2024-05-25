@@ -9,6 +9,10 @@ http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
 #EXTINF:-1 tvg-id="estudi5",Estudio5
 http://212.102.58.155:1234/stream/spectrum-east/estud5h-00208/master.m3u8
+#EXTINF:-1 tvg-id="mbc3",MBC3
+http://212.102.58.155:1234/stream/global/mbc3arabia/master.m3u8
+#EXTINF:-1 tvg-id="mbc.persia",MBC Persia
+http://212.102.58.155:1234/stream/global/mbcpersia/master.m3u8
 #EXTINF:-1 tvg-id="rai1.it",Rai 1
 http://212.102.58.155:1234/stream/raiplay/rai-1/master.m3u8
 #EXTINF:-1 tvg-id="rai2.it",Rai 2
@@ -90,10 +94,22 @@ http://5.181.236.159:8484/stream/ukkids/cartoonnetwork/master.m3u8
 http://5.181.236.159:8484/stream/ukkids/boomerang/master.m3u8
 #EXTINF:-1 tvg-id="lmn.us",LMN
 http://212.102.58.155:1234/stream/spectrum-east/lmn-hd/master.m3u8
+#EXTINF:-1 tvg-id="rtv.sm",RTV
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="rtv-sport.sm",RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 tvg-id="eltrece.ar",ElTrece
 https://artv.watch/generate_playlist.php?channel=ElTrece.ar
 #EXTINF:-1 tvg-id="dmax.es",DMAX Spain
 http://45.67.98.12:1234/stream/csat/dmax/master.m3u8
+#EXTINF:-1 tvg-id="moviefe",MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="moviesphere",MovieSphere
+https://lnc-moviesphere.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="canal100.gt",Canal100 Guate
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 tvg-id="canal27.gt",Canal 27 Guate
+https://live.canal27.tv:3633/live/canal27live.m3u8
 #EXTINF:-1 tvg-id="nick.kz",Nickelodeon Kazakhstan
 http://212.102.58.155:1234/stream/global/nickkazakh/master.m3u8
 #EXTINF:-1 tvg-id="sic-k.pt",SIC K
