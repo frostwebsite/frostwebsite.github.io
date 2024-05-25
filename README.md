@@ -19,7 +19,7 @@ No video files are stored. We're simply using user-submitted links to publicly a
 
 # Portal
 
-[TV Channels](https://f.phite.ro/tv.m3u) | [Movies + Series](https://f.phite.ro/fortv-vod.m3u) | [Radio; work in progress](https://f.phite.ro/radio.m3u8)
+[TV Channels](https://f.phite.ro/tv.m3u) | [ForTV VOD Mirror](https://f.phite.ro/vod/fortv.m3u) | [Our VOD playlist](https://f.phite.ro/vod/frost-mix.m3u) | [Radio; work in progress](https://f.phite.ro/radio.m3u8)
 
 Join the Matrix room: #frost:omada.cafe
 
