@@ -515,6 +515,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 tvg-id="wkaq",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="telemundo47.us",Telemundo
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 http://212.102.58.155:1234/stream/spectrum-east/telemundo-east/master.m3u8
 #EXTINF:-1 tvg-id="discoveryenespanol.us",Discovery en Espanol
 http://212.102.58.155:1234/stream/spectrum-east/dscesd-18265/master.m3u8
