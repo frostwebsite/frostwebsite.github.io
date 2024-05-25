@@ -367,7 +367,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
-https://hybridtv.ss7.tv/whitelabel/app/release/1.111.0/index.html?env=prd&platform=fvp&cid=sonykids&platformenv=prd&service=freeviewplay&httpforced=1
+http://fortv.cc:8080/N0QaDD/625713/53730
 #EXTINF:-1 tvg-id="cn.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (SAP)
 http://212.102.58.155:1234/stream/usasap/cartoonnetworksap/master.m3u8
 #EXTINF:-1 tvg-id="racing.com-au",Racing.com Australia
