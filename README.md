@@ -1,5 +1,7 @@
 # [Frost](https://github.com/frostiptv/frostiptv.github.io): The simplest IPTV service. Hundreds of channels, various countries, and it's all free.
 
+**Repairs go brrrr, expect some streams to be dead 😪 🔨**
+
 Recommended players:
 
 [VLC](https://www.videolan.org/vlc)
@@ -12,7 +14,7 @@ This list won't work with IPTV Smarters Pro. Yes, it's the most popular player b
 
 # Disclaimer
 
-No video files are stored. We're simply using user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/frostiptv/frostiptv.github.io/pulls) or opening an [issue](https://github.com/frostiptv/frostiptv.github.io/issues/). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will **not** remove its contents from the web. Note that linking does not directly infringe copyright because no copy is actually made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
+No video files are stored. We're simply using user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/frostiptv/frostiptv.github.io/pulls) or opening an [issue](https://github.com/frostiptv/frostiptv.github.io/issues/). However, we have **no control** over the destination of the link, and just removing the link from the playlist will **not** remove its contents from the web. Note that linking does not directly infringe copyright because no copy is actually made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
 -Quoted from [iptv-org](https://github.com/iptv-org/iptv/blob/7dc1be42dd5c8eb334845965b186e7d3e0362503/.readme/template.md?plain=1#L153)
 
