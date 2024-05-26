@@ -1,1 +1,1 @@
-**Unless you have a player that supports timeshift It Will Not Rewind Or Fast Forward, sorry lmao we can't do anything about it**
+# All links are taken from WatchCartoonsOnline / WCO.tv. Please contact them instead of complaining to GitHub as this is not a valid reason since no video files are being self-hosted by us, and we will gladly remove the videos from the repository as well.
