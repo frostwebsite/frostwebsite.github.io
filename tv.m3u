@@ -7,10 +7,6 @@ http://212.102.58.155:1234/stream/spectrum-east/fx-hd/master.m3u8
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="skykids.uk",Sky Kids
 http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
-#EXTINF:-1 tvg-id="sssc",Sky Sports Soccer
-http://ibrafr.com:8789/play/live.php?mac=00:1A:79:a2:f8:6f&stream=117403&extension=ts
-#EXTINF:-1 tvg-id="foxsports3.au",FOX Sports 3 Australia
-http://zxd.4k-crystal.top:8080/Cwq8ubbLnD9c/zKvYztfKkdzB/76080
 #EXTINF:-1 tvg-id="estudi5",Estudio5
 http://212.102.58.155:1234/stream/spectrum-east/estud5h-00208/master.m3u8
 #EXTINF:-1 tvg-id="mbc3",MBC3
@@ -29,8 +25,6 @@ http://212.102.58.155:1234/stream/raiplay/rai-4/master.m3u8
 http://212.102.58.155:1234/stream/raiplay/rai-5/master.m3u8
 #EXTINF:-1 tvg-id="skytg24.it",Sky TG24
 http://212.102.58.155:1234/stream/raiplay/sky-tg-24/master.m3u8
-#EXTINF:-1 tvg-id="mtvclassic",MTV Classic
-http://212.102.58.155:1234/stream/spectrum-east/mtvclas-00412/master.m3u8
 #EXTINF:-1 tvg-id="nickjr.in",Nick Jr. India (Very low bitrate)
 http://212.102.58.155:1234/stream/tataplay/nickjr/master.m3u8
 #EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
@@ -162,10 +156,6 @@ http://212.102.58.155:1234/stream/spectrum-east/travel-channel-hd/master.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="cinelatino",Cine Latino
 http://212.102.58.155:1234/stream/spectrum-east/cinlus-00032/master.m3u8
-#EXTINF:-1 tvg-id="betsoul",BET Soul
-http://212.102.58.155:1234/stream/spectrum-east/betsoul-00414/master.m3u8
-#EXTINF:-1 tvg-id="bether",BET Her
-http://212.102.58.155:1234/stream/spectrum-east/bherhd-18268/master.m3u8
 #EXTINF:-1 tvg-id="betjams",BET Jams
 http://212.102.58.155:1234/stream/spectrum-east/betj-00395/master.m3u8
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
