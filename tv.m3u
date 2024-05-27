@@ -7,12 +7,12 @@ http://212.102.58.155:1234/stream/spectrum-east/fx-hd/master.m3u8
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="skykids.uk",Sky Kids
 http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
-#EXTINF:-1 tvg-id="nickjr.in",Nick Jr. India (Very low bitrate)
-http://212.102.58.155:1234/stream/tataplay/nickjr/master.m3u8
-#EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
-http://212.102.58.155:1234/stream/meo/disneychannel/master.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.in",Cartoon Network India
-http://212.102.58.155:1234/stream/tataplay/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="as.backup",Adult Swim (single stream)
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
+#EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 tvg-id="samuraijack",Samurai Jack 24/7
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="enfamilia.es",Enfamilia
 http://5.181.236.159:8484/stream/zapi/enfamilafhd/master.m3u8
 #EXTINF:-1 tvg-id="biggs.pt",Biggs
@@ -685,6 +685,7 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="disneyjunior.mx",Disney Junior Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
 #EXTINF:-1 tvg-id="disneychannel.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel Romania
+http://86.120.245.60:9981/stream/channel/cc786b9eba61d340e666247ed8faf105?profile=webtv-vp8-vorbis-webm
 http://86.120.245.60:9981/stream/channel/cc786b9eba61d340e666247ed8faf105?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg",Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
@@ -724,16 +725,8 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 http://212.102.58.155:1234/stream/spectrum-east/mtvlive-00405/master.m3u8
 #EXTINF:-1 tvg-id="grio",theGrio
 http://212.102.58.155:1234/stream/spectrum-east/thegrio-hd/master.m3u8
-#EXTINF:-1 tvg-id="sny.us",SNY
-http://212.102.58.155:1234/stream/spectrum-east/sny-hd/master.m3u8
-#EXTINF:-1 tvg-id="secnetwork",SEC Network
-http://212.102.58.155:1234/stream/spectrum-east/sec-network-hd/master.m3u8
-#EXTINF:-1 tvg-id="msg1",MSG
-http://212.102.58.155:1234/stream/spectrum-east/msgz3hd-12833/master.m3u8
 #EXTINF:-1 tvg-id="tv2.comedy",TV2 Comedy
 http://185.157.160.113:9981/stream/channel/fea544389290d988a21ad23d5ebb51bf?profile=h264-aac
-#EXTINF:-1 tvg-id="yesnetwork",YES Network
-http://212.102.58.155:1234/stream/spectrum-east/yes-network-hd/master.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png",Ion Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1 tvg-id="jimjamro" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/jimjam_2018_wide.png?itok=ZjGaIPzw",JimJam RO
