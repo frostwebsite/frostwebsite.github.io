@@ -1,1 +1,0 @@
-# All links are taken from WatchCartoonsOnline / WCO.tv. Please contact them instead of complaining to GitHub as this is not a valid reason since no video files are being self-hosted by us, and we will gladly remove the videos from the repository as well.
