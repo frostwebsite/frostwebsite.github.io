@@ -184,6 +184,14 @@ https://ign-samsungus.amagi.tv/playlist.m3u8
 https://lnc-bounce-xl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.mx",Food Network LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159183
+#EXTINF:-1 tvg-id="seotv1.bo",SEO TV 1
+https://seo.tv.bo/tv/ATV_1FHD.m3u8
+#EXTINF:-1 tvg-id="SEOTV2Kids.bo",SEO TV 2 Kids
+https://seo.tv.bo/tv/ATV2.m3u8
+#EXTINF:-1 tvg-id="SEOTV3Novelas.bo",SEO TV 3 Novelas
+https://seo.tv.bo/tv/ATV3.m3u8
+#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo",SEO TV 4 Películas
+https://seo.tv.bo/tv/ATV4_HD.m3u8
 #EXTINF:-1 tvg-id="foro.mx",FORO
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158627
 #EXTINF:-1 tvg-id="A-Mas.mx",A Mas
