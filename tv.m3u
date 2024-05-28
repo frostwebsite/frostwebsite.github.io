@@ -11,7 +11,9 @@ http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-#EXTINF:-1 tvg-id="nick-la.pluto",Nick en Español
+#EXTINF:-1 tvg-id="cmt.us",CMT
+http://212.102.58.155:1234/stream/spectrum-east/cmt-hd/master.m3u8
+#EXTINF:-1 tvg-id="nick-la.pluto",Nickelodeon en Español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
 #EXTINF:-1 tvg-id="samuraijack",Samurai Jack 24/7
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
