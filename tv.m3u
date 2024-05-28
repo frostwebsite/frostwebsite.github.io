@@ -66,14 +66,6 @@ https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 http://45.67.98.12:1234/stream/csat/amcbreakhd/master.m3u8
 #EXTINF:-1 tvg-id="vtv32",VTV Canal 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-#EXTINF:-1 tvg-id="disney.jp",Disney Channel Japan
-http://212.102.58.155:1234/stream/mujitv/disneychanneljapan/master.m3u8
-#EXTINF:-1 tvg-id="nickteen.fr",NickelodeonTeen (France)
-http://212.102.58.155:1234/stream/france/teennick/master.m3u8
-#EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
-http://5.181.236.159:8484/stream/ukkids/cartoonnetwork/master.m3u8
-#EXTINF:-1 tvg-id="boom.uk",Boomerang UK
-http://5.181.236.159:8484/stream/ukkids/boomerang/master.m3u8
 #EXTINF:-1 tvg-id="rtv.sm",RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="rtv-sport.sm",RTV Sport
@@ -90,10 +82,6 @@ https://lnc-moviesphere.tubi.video/playlist.m3u8
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-id="canal27.gt",Canal 27 Guate
 https://live.canal27.tv:3633/live/canal27live.m3u8
-#EXTINF:-1 tvg-id="nick.kz",Nickelodeon Kazakhstan
-http://212.102.58.155:1234/stream/global/nickkazakh/master.m3u8
-#EXTINF:-1 tvg-id="sic-k.pt",SIC K
-http://212.102.58.155:1234/stream/meo/sick/master.m3u8
 #EXTINF:-1 tvg-id="c4",Cula4
 https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
 #EXTINF:-1 tvg-id="chocolatethings",Ding Dong
@@ -102,10 +90,6 @@ http://46.252.39.94:8008/play/a011
 http://46.252.39.94:8008/play/a012
 #EXTINF:-1 tvg-id="gloob.br",Gloob
 http://95.164.4.95/painel/globoplay/globo.php?id=7339146&q=&lat=-23.614942616362804&long=-46.69667531648953
-#EXTINF:-1 tvg-id="crime.es",Crime Spain
-http://45.67.98.12:1234/stream/csat/amccrimehd/master.m3u8
-#EXTINF:-1 tvg-id="neox.es",Neox Spain
-http://45.67.98.12:1234/stream/csat/neox/master.m3u8
 #EXTINF:-1 tvg-id="cn.idk",Cartoon Network CEE(?)
 http://86.120.245.60:9981/stream/channel/288b2b1f8dc1ebe2ed070320de125b11?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="nick.idk",Nick CEE(?)
@@ -116,8 +100,6 @@ http://86.120.245.60:9981/stream/channel/5513ac5049cf8f69d8bbf4a29fecdf0d?profil
 http://86.120.245.60:9981/stream/channel/3093090ae4a675b6fd9ae090afc74807?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="disjr.ro",Disney Junior RO
 http://86.120.245.60:9981/stream/channel/3fde5ad6446956a01415c0c5b172f292?profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="bemad",BeMad
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="NickToons_CEE",NickToons CEE
@@ -529,14 +511,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
 http://thevdm.xyz:25461/timmadden/timmad4765/39744
-#EXTINF:-1 tvg-id="nick.west",Nickeldeon West
-http://212.102.58.155:1234/stream/spectrum-east/nikphd-00403/master.m3u8
-#EXTINF:-1 tvg-id="nktn.west",NickToons West
-http://212.102.58.155:1234/stream/spectrum-east/niktnhp-12820/master.m3u8
-#EXTINF:-1 tvg-id="tnck.west",TeenNick West
-http://212.102.58.155:1234/stream/spectrum-east/tnckphd-18307/master.m3u8
-#EXTINF:-1 tvg-id="longhorn",Longhorn Network
-http://212.102.58.155:1234/stream/spectrum-east/lnghrnh-24527/master.m3u8
 #EXTINF:-1 tvg-id="Comet.us",Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="tbnsmile",Smile
@@ -544,17 +518,11 @@ https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 #EXTINF:-1 tvg-id="news12",News12 New York
 https://lnc-news12.tubi.video/primary/2.m3u8
 #EXTINF:-1 tvg-id="tl89r8s",TLC
-http://212.102.58.155:1234/stream/spectrum-east/tlc-hd/master.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/39846
 #EXTINF:-1 tvg-id="pbskids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us",FOX Deportes
-http://212.102.58.155:1234/stream/spectrum-east/fxdephd/master.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/19894
-#EXTINF:-1 tvg-id="espnu",ESPNU
-http://212.102.58.155:1234/stream/spectrum-east/espnuhd-18161/master.m3u8
-#EXTINF:-1 tvg-id="nbc-e",E!
-http://212.102.58.155:1234/stream/spectrum-east/e-hd/master.m3u8
 #EXTINF:-1 tvg-id="FoxSports.mx",FOX Sports Mexico
 http://172.111.36.190:6887/stream/claro/foxsports1mx/master.m3u8
 #EXTINF:-1 tvg-id="as.la",Adult Swim LA
@@ -583,8 +551,6 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159095
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tn23",TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="bein.es",BeIN Sports Español
-http://thevdm.xyz:25461/live/James_axe1@comcast.net/h3hk5H7z6T/19848.m3u8
 #EXTINF:-1 tvg-id="beinxtra.es",BeIN Sports Xtra Español
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv-ca",YTV
@@ -673,7 +639,8 @@ http://212.102.58.155:1234/stream/spectrum-east/dfchd-21770/master.m3u8
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
-http://212.102.58.155:1234/stream/spectrum-east/tnckhd-18306/master.m3u8
+http://38.96.178.201/live/TeenNick/index.m3u8
+http://thevdm.xyz:25461/live/Jennifer/Year!/19894.m3u8
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159135
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
