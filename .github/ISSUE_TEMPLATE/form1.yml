@@ -19,7 +19,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Label
+      label: stuff we should know about the stream (is it geoblocked, not 24/7, etc)
       description: "any notes?"
 
 
