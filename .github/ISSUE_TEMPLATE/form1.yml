@@ -1,7 +1,7 @@
 name: add a stream
 description: request to add a new stream into the playlist
 title: 'Add: '
-labels: ['streams:add']
+labels: ['channel request']
 
 body:
   - type: input
