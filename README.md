@@ -25,6 +25,16 @@ No video files are stored. We're simply using user-submitted links to publicly a
 
 Join the Matrix room: #frost:omada.cafe
 
+# Contributing
+
+Want to help out? That'd be awesome!
+
+You can either open an issue or ask for an invite. If you open an issue you'll probably be invited anyways but it's your choice to join lmao.
+
+We will most likely NOT add streams from Xtream servers. These are usually really unstable and instead of spending an hour looking for another stream of it it's best to just skip for now.
+
+Streams from O11 portals will NOT be accepted as these go down literally way too much and it's stressing to check them every 2 hours to see what works and what doesn't.
+
 # Members
  <a href="https://github.com/cold360"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/3d863873-af19-48a5-b1fa-fd1d3a4f86c7" width="88" height="88"></a>
  <a href="https://github.com/c4artisan"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/d16645c1-9e01-4835-a9c8-7957af9fc04e" width="88" height="88"></a>
