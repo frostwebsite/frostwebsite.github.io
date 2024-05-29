@@ -9,13 +9,13 @@ body:
       label: new stream URL
       description: new link to the stream if you are editing this
       placeholder: 'https://television.net/index.m3u8'
-    validations:
       
   - type: input
     attributes:
       label: channel name
       description: "full name of the channel."
       placeholder: 'Disney XD'
+      required: true
 
   - type: dropdown
     attributes:
@@ -27,6 +27,7 @@ body:
         - 576p
         - 480p
         - 360p
+        required: true
         
   - type: textarea
     attributes:
