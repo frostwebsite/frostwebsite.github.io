@@ -15,7 +15,6 @@ body:
       label: channel name
       description: "full name of the channel."
       placeholder: 'Disney XD'
-      required: true
 
   - type: dropdown
     attributes:
