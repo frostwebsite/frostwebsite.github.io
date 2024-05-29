@@ -7,7 +7,10 @@ body:
   - type: input
     attributes:
       label: channel name
+      placeholder: 'Disney XD'
+    validations:
       required: true
+  
       
   - type: input
     attributes:
