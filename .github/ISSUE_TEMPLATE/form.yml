@@ -1,0 +1,32 @@
+name: add a stream
+description: request to add a new stream into the playlist
+title: 'Add: '
+labels: ['streams:add']
+
+body:
+  - type: input
+    attributes:
+      label: channel name
+      placeholder: 'Disney Channel'
+
+  - type: input
+    attributes:
+      label: stream URL
+      description: Link to the stream
+      placeholder: 'https://example.net/file.m3u8'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Label
+      description: "any notes?"
+
+
+  - type: checkboxes
+    attributes:
+      label: contributing guide
+      description: 'please read [this](https://github.com/frostiptv/frostiptv.github.io/blob/main/README.md) before posting a request'
+      options:
+        - label: i've read it
+          required: true
