@@ -27,7 +27,6 @@ body:
         - 576p
         - 480p
         - 360p
-        required: true
         
   - type: textarea
     attributes:
