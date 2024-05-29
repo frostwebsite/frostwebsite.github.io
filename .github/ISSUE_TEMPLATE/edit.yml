@@ -1,0 +1,40 @@
+name: edit stream
+description: request to edit stream
+title: 'Edit: '
+labels: ['edit stream']
+
+body:
+  - type: input
+    attributes:
+      label: stream URL
+      description: link to the stream from a playlist
+      placeholder: 'https://lnc-kdfw-fox-aws.tubi.video/index.m3u8'
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+      What exactly needs to be changed?
+
+  - type: input
+    attributes:
+      label: Channel Name
+      description: "full name of the channel."
+      placeholder: 'Disney XD'
+
+  - type: dropdown
+    attributes:
+      label: quality
+      description: maximum video resolution available on the link
+      options:
+        - 1080p
+        - 720p
+        - 576p
+        - 480p
+        - 360p
+        
+  - type: textarea
+    attributes:
+      label: Notes
+      placeholder: 'anything we should know? geoblocked, not 24/7, etc'
