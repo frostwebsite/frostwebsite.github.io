@@ -3,8 +3,6 @@
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="metv",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
-#EXTINF:-1 tvg-id="skykids.uk",Sky Kids
-http://5.181.236.159:8484/stream/ukkids/skykids/master.m3u8
 #EXTINF:-1 tvg-id="as.backup",Adult Swim (single stream)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
@@ -17,14 +15,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="enfamilia.es",Enfamilia
 http://5.181.236.159:8484/stream/zapi/enfamilafhd/master.m3u8
-#EXTINF:-1 tvg-id="biggs.pt",Biggs
-http://212.102.58.155:1234/stream/meo/biggs/master.m3u8
-#EXTINF:-1 tvg-id="cartoon.pt",Cartoon Network Portugal
-http://212.102.58.155:1234/stream/meo/cartoonnetwork/master.m3u8
-#EXTINF:-1 tvg-id="panda1.pt",Canal Panda
-http://212.102.58.155:1234/stream/meo/canalpanda/master.m3u8
-#EXTINF:-1 tvg-id="panda2.pt",Panda Kids
-http://212.102.58.155:1234/stream/meo/pandakids/master.m3u8
 #EXTINF:-1 tvg-id="nick.fr",Nickelodeon France
 http://51.159.199.88:1234/stream/o11v22b1bin/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="disneychannel.fr",Disney Channel France
@@ -40,10 +30,6 @@ http://213.176.3.72:1234/stream/FRANCE/672/master.m3u8
 http://51.159.199.88:1234/stream/freefhd/cstarhitsfhd/master.m3u8
 #EXTINF:-1 tvg-id="boom.fr",Boomerang France
 http://51.159.199.88:1234/stream/freefhd/boomerangfhd/master.m3u8
-#EXTINF:-1 tvg-id="cineplusfamiz",Cine+ Famiz (English)
-http://51.159.199.88:1234/stream/o11v22b1bin/cinefamiz/master.m3u8
-#EXTINF:-1 tvg-id="cineplusclassic",Cine+ Classic (English)
-http://51.159.199.88:1234/stream/o11v22b1bin/cineclassic/master.m3u8
 #EXTINF:-1 tvg-id="cstar.fr",CStar
 http://51.159.199.88:1234/stream/molotovfrance/cstar/master.m3u8
 #EXTINF:-1 tvg-id="citynews-ca.toronto",CityNews Toronto
@@ -52,13 +38,13 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 http://51.159.199.88:1234/stream/freefhd/tf11fhd/master.m3u8
 #EXTINF:-1 tvg-id="gulli.fr",Gulli
 http://51.159.199.88:1234/stream/o11v22b1bin/gulli/master.m3u8
-#EXTINF:-1 tvg-id="france2",France2
+#EXTINF:-1 tvg-id="tf2.fr",France2
 http://51.159.199.88:1234/stream/o11v22b1bin/france2/master.m3u8
-#EXTINF:-1 tvg-id="f3.fr",France3
+#EXTINF:-1 tvg-id="tf3.fr",France3
 http://51.159.199.88:1234/stream/o11v22b1bin/france3/master.m3u8
-#EXTINF:-1 tvg-id="f4.fr",France4
+#EXTINF:-1 tvg-id="tf4.fr",France4
 http://51.159.199.88:1234/stream/o11v22b1bin/france4/master.m3u8
-#EXTINF:-1 tvg-id="f5.fr",France5
+#EXTINF:-1 tvg-id="tf5.fr",France5
 http://51.159.199.88:1234/stream/o11v22b1bin/france5/master.m3u8
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
@@ -66,14 +52,8 @@ https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 http://45.67.98.12:1234/stream/csat/amcbreakhd/master.m3u8
 #EXTINF:-1 tvg-id="vtv32",VTV Canal 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-#EXTINF:-1 tvg-id="rtv.sm",RTV
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="rtv-sport.sm",RTV Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="eltrece.ar",ElTrece
-https://artv.watch/generate_playlist.php?channel=ElTrece.ar
-#EXTINF:-1 tvg-id="dmax.es",DMAX Spain
-http://45.67.98.12:1234/stream/csat/dmax/master.m3u8
+#EXTINF:-1 tvg-id="sun.es",Sundance Spain
+http://45.67.98.12:1234/stream/csat/sundance/master.m3u8
 #EXTINF:-1 tvg-id="moviefe",MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-id="moviesphere",MovieSphere
@@ -90,10 +70,6 @@ http://46.252.39.94:8008/play/a011
 http://46.252.39.94:8008/play/a012
 #EXTINF:-1 tvg-id="gloob.br",Gloob
 http://95.164.4.95/painel/globoplay/globo.php?id=7339146&q=&lat=-23.614942616362804&long=-46.69667531648953
-#EXTINF:-1 tvg-id="cn.idk",Cartoon Network CEE(?)
-http://86.120.245.60:9981/stream/channel/288b2b1f8dc1ebe2ed070320de125b11?profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="nick.idk",Nick CEE(?)
-http://86.120.245.60:9981/stream/channel/093fdbea178563d167d0e8b611a9bf5b?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="minimax.ro",Minimax Romania
 http://86.120.245.60:9981/stream/channel/5513ac5049cf8f69d8bbf4a29fecdf0d?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="tnck.ro",TeenNick RO
@@ -112,26 +88,12 @@ http://86.120.245.60:9981/stream/channel/d6cc579c24b220598b655f681f595a27?profil
 http://86.120.245.60:9981/stream/channel/e68cd5d970dba7ccab13478c99862c77?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-id="cartoonito-idk",Cartoonito CEE(?)
 http://86.120.245.60:9981/stream/channel/43228c529888ff486eb6acae4ce27818?profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="syfy.us",Syfy
-http://212.102.58.155:1234/stream/spectrum-east/syfy-hd/master.m3u8
-#EXTINF:-1 tvg-id="unitlnovelas",Univision TLNovelas
-http://212.102.58.155:1234/stream/spectrum-east/unitlno-8282/master.m3u8
-#EXTINF:-1 tvg-id="travischannel",Trvl Channel
-http://212.102.58.155:1234/stream/spectrum-east/travel-channel-hd/master.m3u8
-#EXTINF:-1 tvg-id="atreseri.es",Atreseries Spain
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="cinelatino",Cine Latino
-http://212.102.58.155:1234/stream/spectrum-east/cinlus-00032/master.m3u8
-#EXTINF:-1 tvg-id="betjams",BET Jams
-http://212.102.58.155:1234/stream/spectrum-east/betj-00395/master.m3u8
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="nbc",NBC
 needlink
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="mtv-tr3s",Tr3s
-http://172.111.36.190:6887/stream/comcast/tr3s/master.m3u8
 #EXTINF:-1 tvg-id="mtv.jp",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 tvg-id="Nicktoons_Armenia",NickToons Armenia
@@ -181,13 +143,9 @@ http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.la",Lifetime LA
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="universo.us",NBC Universo
-http://212.102.58.155:1234/stream/spectrum-east/unvsohd-22047/master.m3u8
+need link desperately haha im going bonkers
 #EXTINF:-1 tvg-id="cmtmusic",CMTMusic
 http://172.111.36.190:6887/stream/comcast/cmt-music/master.m3u8
-#EXTINF:-1 tvg-id="5starmax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/200px-5StarMax_Logo.svg.png",5StarMax
-https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
-#EXTINF:-1 tvg-id="5star.maxus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/200px-MoreMax_Logo.svg.png",MoreMax
-MoreMax,https://z88.ubtvfans.com/live/rx3/1176/1c6d72b168a7dc659aec46ced48d1fa8/index.m3u8
 #EXTINF:-1 tvg-id="7mateau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/2560px-7mate_logo_2020.svg.png",7mate
 https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
 #EXTINF:-1 tvg id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp",Discovery Kids
@@ -200,14 +158,11 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165866
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="telenovelachannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png",Imagen Television
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159081
-#EXTINF:-1 tvg-id="bravo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/2560px-Bravo_2017_logo.svg.png",Bravo
-http://212.102.58.155:1234/stream/spectrum-east/bravohp-22030/master.m3u8
 #EXTINF:-1 tvg-id="tf1.fr" tvg-logo="https://e7.pngegg.com/pngimages/29/93/png-clipart-tf1-group-mytf1-television-channel-others-purple-television-thumbnail.png",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-https://searchtv.net/stream/uuid/4770c3s1/
 #EXTINF:-1 tvg-id="soltv",Sol TV Guatemala
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="zoomoo",ZooMoo
+#EXTINF:-1 tvg-id="zoomoo",ZooMoo Australia
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="aztecagt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png",Azteca
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -229,7 +184,7 @@ https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 https://i.mjh.nz/10-nsw.m3u
 #EXTINF:-1 tvg-id="72au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1200px-7two_logo_2020.svg.png",7two
 https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
-#EXTINF:-1 tvg-id="nickjr.es",Nick Jr. LA
+#EXTINF:-1 tvg-id="nickjr.la",Nick Jr. LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158667
 #EXTINF:-1 tvg-id="tnla",TeenNick LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158669
@@ -249,10 +204,6 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="dealornodeal.USnotuk",Deal Or No Deal
 https://lnc-deal-or-no-deal.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="super.it",Super! Italy
-http://5.181.236.159:8484/stream/itkids/super/master.m3u8
-#EXTINF:-1 tvg-id="starzfam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/2560px-Starz_Kids_%26_Family_2016.svg.png",Starz Kids & Family
-https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
 #EXTINF:-1 tvg-id="9rush" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/9Rush_2020.png/revision/latest/scale-to-width-down/1200?cb=20210323093606",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Action Movies Spain
@@ -277,8 +228,6 @@ https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 #EXTINF:-1 tvg-id="ericandre",The Eric Andre Show 24/7
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-id="discoveryeast",Discovery Channel
-http://38.96.178.201/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV Family Spain
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakutentvshows.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Series Spain
@@ -307,8 +256,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="univision8771872913" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png",Univision
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="laff.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",Laff
-http://212.102.58.155:1234/stream/spectrum-east/laff-wxxa-dt3/master.m3u8
 #EXTINF:-1 tvg-id="tcmeast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
@@ -317,11 +264,10 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="mytvlel",MyTV
-http://212.102.58.155:1234/stream/spectrum-east/mytv-wnya/master.m3u8
 #EXTINF:-1 tvg-id="mtv2.us",MTV2
-http://212.102.58.155:1234/stream/spectrum-east/mtv2hd/master.m3u8
+need link
 #EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier
+need link
 #EXTINF:-1 tvg-id="depeliculaplus" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png",De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula
@@ -329,18 +275,14 @@ http://212.102.58.155:1234/stream/spectrum-east/depel-518/master.m3u8
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
 http://38.96.178.201/live/Disney/index.m3u8
-http://5.181.236.159:8484/stream/uskids/disnhd00054/master.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
 http://38.96.178.201/live/DisneyXD/index.m3u8
-http://212.102.58.155:1234/stream/spectrum-east/disneyxd/master.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="nickjrFAST",Nick Jr. Pluto TV
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
-#EXTINF:-1 tvg-id="disn.sap",Disney Channel (SAP)
-http://212.102.58.155:1234/stream/usasap/disneychannelsap/master.m3u8
 #EXTINF:-1 tvg-id="flooxer.es",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-id="3comedia",Atresplayer Comedia
@@ -424,10 +366,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="tdp" tvg-id="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="u3rdhs833hd8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png",TruTV
-http://212.102.58.155:1234/stream/spectrum-east/trutv-hd/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
-http://thevdm.xyz:25461/Jennifer/Year!/20874
+http://thevdm.xyz:25461/live/Jennifer/Year!/20874.m3u8
 #EXTINF:-1 tvg-id="lecjeijes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="lecjeijez" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png",La 2
@@ -442,9 +383,10 @@ http://181.78.105.146:2000/play/a00v/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="cuatro.es",Cuatro
+http://5.181.236.159:8484/stream/zapi/cuatrohd/master.m3u8
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel ES (English track)
 http://5.181.236.159:8484/stream/zapi/disneychsd/master.m3u8
-http://45.67.98.12:1234/stream/csat/disneychannelfhd/master.m3u8
 #EXTINF:-1 tvg-id="disch.esMAIN",Disney Channel ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="POPMax.uk",Pop Max
@@ -452,7 +394,7 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 #EXTINF:-1 tvg-id="galatv",Galavision
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
-http://thevdm.xyz:25461/timmadden/timmad4765/39744
+http://thevdm.xyz:25461/live/timmadden/timmad4765/39744.m3u8
 #EXTINF:-1 tvg-id="Comet.us",Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="tbnsmile",Smile
@@ -470,7 +412,7 @@ http://172.111.36.190:6887/stream/claro/foxsports1mx/master.m3u8
 #EXTINF:-1 tvg-id="as.la",Adult Swim LA
 http://172.111.36.190:6887/stream/claro/trutvlahd/master.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.mx",FOX Sports 2 Mexico
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158834
+http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/158834.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx",FOX Sports 3 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158835
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx",FOX Sports Premium Mexico
@@ -501,12 +443,8 @@ https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="boing.it",Boing Italy
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1 tvg-id="raiyoyo.it",Rai YoYo
-http://5.181.236.159:8484/stream/itkids/raiyoyo/master.m3u8
-#EXTINF:-1 tvg-id="raigulp.it",Rai Gulp
-http://5.181.236.159:8484/stream/itkids/raigulp/master.m3u8
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
-http://kstv.us:8080/live/tH300gvHff/8606073792/47798.m3u8
+http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
 #EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="9LifeSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png?20211019042107",9Life
@@ -561,7 +499,7 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
 http://thevdm.xyz:25461/live/Jennifer/Year!/19894.m3u8
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159135
+http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/159135.m3u
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="EstrellaGames.us",Estrella Games
