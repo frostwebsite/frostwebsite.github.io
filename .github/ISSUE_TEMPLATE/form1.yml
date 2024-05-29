@@ -7,12 +7,11 @@ body:
   - type: input
     attributes:
       label: channel name
-      placeholder: 'Disney Channel'
-
+      required: true
+      
   - type: input
     attributes:
       label: stream URL
-      description: Link to the stream
       placeholder: 'https://example.net/file.m3u8'
     validations:
       required: true
