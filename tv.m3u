@@ -513,8 +513,7 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="disneyjunior.mx",Disney Junior Mexico
 http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/159129.m3u8
 #EXTINF:-1 tvg-id="disneychannel.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel Romania
-http://86.120.245.60:9981/stream/channel/cc786b9eba61d340e666247ed8faf105?profile=webtv-vp8-vorbis-webm
-http://86.120.245.60:9981/stream/channel/cc786b9eba61d340e666247ed8faf105?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/cc786b9eba61d340e666247ed8faf105
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg",Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="8ey873723placeholder",Accion Mexicana
