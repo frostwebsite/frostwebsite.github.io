@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/ontvtonight.com/ontvtonight.com_us.channels.xml,https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/toonamiaftermath.com/toonamiaftermath.com.channels.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
 #EXTINF:-1 tvg-id="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="metv",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="as.backup",Adult Swim (single stream)
@@ -8,7 +8,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="cmt.us",CMT
-http://212.102.58.155:1234/stream/spectrum-east/cmt-hd/master.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="nick-la.pluto",Nickelodeon en Español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
 #EXTINF:-1 tvg-id="samuraijack",Samurai Jack 24/7
@@ -20,7 +20,7 @@ http://51.159.199.88:1234/stream/o11v22b1bin/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="disneychannel.fr",Disney Channel France
 http://213.176.3.72:1234/stream/FRANCE/938/master.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkla",Cartoon Network LA
-http://170.81.241.222:55442/play/a057/index.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="cartoonnetwork.fr",Cartoon Network France
 http://51.159.199.88:1234/stream/freefhd/cartoonnetworkfhd/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/1211/master.m3u8
@@ -91,7 +91,7 @@ http://86.120.245.60:9981/stream/channel/43228c529888ff486eb6acae4ce27818?profil
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="nbc",NBC
-needlink
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="mtv.jp",MTV Japan
@@ -131,7 +131,7 @@ https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="fuse.us",Fuse
-http://212.102.58.155:1234/stream/spectrum-east/fusehd/master.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="rakutenfam.eu",Rakuten Family EU
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbox-its-not-pron-btw",HBO Xtreme
@@ -143,7 +143,7 @@ http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.la",Lifetime LA
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="universo.us",NBC Universo
-need link desperately haha im going bonkers
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="cmtmusic",CMTMusic
 http://172.111.36.190:6887/stream/comcast/cmt-music/master.m3u8
 #EXTINF:-1 tvg-id="7mateau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/2560px-7mate_logo_2020.svg.png",7mate
@@ -195,7 +195,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-id="canal21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",Canal 21
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="pakapaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png",Paka Paka
-http://need.link/need.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="pbsworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",PBS World
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png",SBT
@@ -265,18 +265,18 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv2.us",MTV2
-need link
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier
-need link
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="depeliculaplus" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png",De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="depelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula
 http://212.102.58.155:1234/stream/spectrum-east/depel-518/master.m3u8
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
-http://38.96.178.201/live/Disney/index.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
@@ -318,7 +318,7 @@ https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e
 #EXTINF:-1 tvg-id="foxwfxt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/WFXT_%282009%29.svg/revision/latest/scale-to-width-down/200?cb=20221216082907",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="cbsny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/800px-CBS_logo.svg.png",CBS
-need link
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="abcdefg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/ABC_25_Columbia_logo_2022.png",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ej8cnrmex876gnmheuw" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/1200px-Buzzr_logo.svg.png",Buzzr
@@ -484,7 +484,7 @@ http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="HBOfam",HBO Family LA
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="dishogar",Discovery Hogar
-http://212.102.58.155:1234/stream/spectrum-east/hogarhd-24072/master.m3u8
+https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="M-US",MTV
