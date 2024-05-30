@@ -8,7 +8,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="cmt.us",CMT
-https://f.phite.ro/down.mp4
+https://f.phite.ro/down.m3u8
+#EXTINF:-1 tvg-id="dkids.gt",Discovery Kids Guatemala (Panregional)
+http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="nick-la.pluto",Nickelodeon en Español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
 #EXTINF:-1 tvg-id="samuraijack",Samurai Jack 24/7
