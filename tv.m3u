@@ -132,6 +132,12 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158627
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159054
 #EXTINF:-1 tvg-id="chavodel8",El Chavo Del 8 24/7
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/35022
+#EXTINF:-1 tvg-id="q2.uk",QVC Extra UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-id="q3.uk",QVC Style UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:-1 tvg-id="q4.uk",QVC Beauty UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryH_H_LA",Discovery H&H LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159160
 #EXTINF:-1 tvg-id="cinecanalcanal",Cinecanal
