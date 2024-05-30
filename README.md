@@ -50,3 +50,7 @@ Streams from O11 portals will NOT be accepted as these go down literally way too
 For the domain :D
 
 <a href="https://gra.phite.ro"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/e4ce76a7-4224-4651-9669-e7ad2fdbe2a7"></a>
+
+# Tutorial
+Why would you even need this?
+[But here](https://r.mtdv.me/frost)
