@@ -71,11 +71,11 @@ http://46.252.39.94:8008/play/a012
 #EXTINF:-1 tvg-id="gloob.br",Gloob
 http://95.164.4.95/painel/globoplay/globo.php?id=7339146&q=&lat=-23.614942616362804&long=-46.69667531648953
 #EXTINF:-1 tvg-id="minimax.ro",Minimax Romania
-http://86.120.245.60:9981/stream/channel/5513ac5049cf8f69d8bbf4a29fecdf0d?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/5513ac5049cf8f69d8bbf4a29fecdf0d
 #EXTINF:-1 tvg-id="tnck.ro",TeenNick RO
-http://86.120.245.60:9981/stream/channel/3093090ae4a675b6fd9ae090afc74807?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/3093090ae4a675b6fd9ae090afc74807
 #EXTINF:-1 tvg-id="disjr.ro",Disney Junior RO
-http://86.120.245.60:9981/stream/channel/3fde5ad6446956a01415c0c5b172f292?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/3fde5ad6446956a01415c0c5b172f292
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM 
 https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
 #EXTINF:-1 tvg-id="NickToons_CEE",NickToons CEE
@@ -83,11 +83,11 @@ http://185.157.160.113:9981/stream/channel/769fd74d781ea07ecf83ebdb7fa4f86f?prof
 #EXTINF:-1 tvg-id="elgromit",El Gourmet
 http://172.111.36.190:6887/stream/claro/elgourmetchannel/master.m3u8
 #EXTINF:-1 tvg-id="mtv.eu",MTV Europe
-http://86.120.245.60:9981/stream/channel/d6cc579c24b220598b655f681f595a27?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/d6cc579c24b220598b655f681f595a27
 #EXTINF:-1 tvg-id="mtv00s",MTV 00s Europe
-http://86.120.245.60:9981/stream/channel/e68cd5d970dba7ccab13478c99862c77?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/e68cd5d970dba7ccab13478c99862c77
 #EXTINF:-1 tvg-id="cartoonito-idk",Cartoonito CEE(?)
-http://86.120.245.60:9981/stream/channel/43228c529888ff486eb6acae4ce27818?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/43228c529888ff486eb6acae4ce27818
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="nbc",NBC
