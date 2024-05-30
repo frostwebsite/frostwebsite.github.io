@@ -9,6 +9,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="cmt.us",CMT
 https://f.phite.ro/down.m3u8
+#EXTINF:-1 tvg-id="c31.au",C31
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 tvg-id="dkids.gt",Discovery Kids Guatemala (Panregional)
 http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="nick-la.pluto",Nickelodeon en Español
@@ -62,6 +64,12 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://lnc-moviesphere.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="canal100.gt",Canal100 Guate
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 tvg-id="q.uk",QVC UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-id="azt.int",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="beanotv.uk",BeanoTV
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="canal27.gt",Canal 27 Guate
 https://live.canal27.tv:3633/live/canal27live.m3u8
 #EXTINF:-1 tvg-id="c4",Cula4
