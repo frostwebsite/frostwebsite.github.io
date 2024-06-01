@@ -1,7 +1,5 @@
 # [Frost](https://github.com/frostiptv/frostiptv.github.io): The simplest IPTV service. Hundreds of channels, various countries, and it's all free.
 
-**Repairs go brrrr, expect some streams to be dead 😪 🔨**
-
 Recommended players:
 
 [VLC](https://www.videolan.org/vlc)
@@ -31,7 +29,9 @@ Want to help out? That'd be awesome!
 
 You can either open an issue or ask for an invite. If you open an issue you'll probably be invited anyways but it's your choice to join lmao.
 
-We will most likely NOT add streams from Xtream servers. These are usually really unstable and instead of spending an hour looking for another stream of it it's best to just skip for now.
+We will most likely NOT add streams from Xtream servers. These are usually really unstable and instead of spending an hour looking for another stream of it it's best to just skip for now, but try if you want and we'll test it out.
+
+Anything that can last at least 3 minutes without lagging, freezing or crashing is considered stable.
 
 Streams from O11 portals will NOT be accepted as these go down literally way too much and it's stressing to check them every 2 hours to see what works and what doesn't.
 
