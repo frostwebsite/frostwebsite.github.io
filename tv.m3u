@@ -269,13 +269,17 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv2.us",MTV2
-https://f.phite.ro/down.mp4
+http://hdhd.tk/Ford/Ford/303
+#EXTINF:-1 tvg-id="friforme",Freeform
+https://thevdm.xyz:25461/Jennifer/Year!/39764
+#EXTINF:-1 tvg-id="nktn.uk",NickToons UK
+https://linear006-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(nicktoons)/manifest_720.mpd
 #EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier
 https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
 https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
-https://f.phite.ro/down.mp4
+http://thevdm.xyz:25461/Jennifer/Year!/25183
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
@@ -423,7 +427,10 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://181.78.105.146:2000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="beinxtra.es",BeIN Sports Xtra Español
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="holyshitwtf",NickMusic Poland
+http://185.236.229.62:9981/play/a064
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
+https://linear404-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(nickelodeon)/manifest_720.mpd
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
 #EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
