@@ -278,18 +278,32 @@ http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
 http://84.203.199.198:9981/stream/channel/9b3708f50956b9e9de97671db26105aa
 #EXTINF:-1 tvg-id="cartoonnetwork.ro",Cartoon Network Romania
 http://51.159.199.88:1234/stream/romaniafocussat/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="dave.uk",Dave UK
+http://84.203.199.198:9981/stream/channel/47b88a8488f3320ef093d267b3a859d4
+#EXTINF:-1 tvg-id="dave2.uk",Dave ja vu
+http://84.203.199.198:9981/stream/channel/cec0cc7b1c2ab40e7e95208bf4d3a062
+#EXTINF:-1 tvg-id="hgtv.uk",HGTV UK
+http://84.203.199.198:9981/stream/channel/736ba2bbfe1f403a83a607ca2471a70e
+#EXTINF:-1 tvg-id="popmaxtimeshift.uk",Pop Max +1
+http://84.203.199.198:9981/stream/channel/81e8c23c5fdf0f63f32fd461d4374368
+#EXTINF:-1 tvg-id="yes.uk",Yesterday UK
+http://84.203.199.198:9981/stream/channel/64ad443ef899fe730d46963e2c9a031d
+#EXTINF:-1 tvg-id="really.uk",Really UK
+http://84.203.199.198:9981/stream/channel/df273006dd444958c1feed76a0d4e22a
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Always Funny Videos
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
-http://84.203.199.198:9981/stream/channel/b19fe2c520d3f786cc7dcc99634d384
+http://84.203.199.198:9981/stream/channel/b19fe2c520d3f786cc7dcc99634d384f?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1
 http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
 #EXTINF:-1 tvg-id="racing.com-au",Racing.com Australia
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="e4timeshift.uk",E4 +1
+http://84.203.199.198:9981/stream/channel/61037facebae7b56edafabdb9c241db9
 #EXTINF:-1 tvg-id="film4.uk",Film4
-http://84.203.199.198:9981/stream/channel/04c6e43202dec2d888e552593206b9cf?profile=webtv-vp8-vorbis-webm
+http://84.203.199.198:9981/stream/channel/04c6e43202dec2d888e552593206b9cf
 #EXTINF:-1 tvg-id="cn.normal",Cartoon Network
 https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
 #EXTINF:-1 tvg-id="hbo-s.la",HBO Signature LA
