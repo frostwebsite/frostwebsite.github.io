@@ -62,6 +62,14 @@ http://51.159.199.88:1234/stream/o11v22b1bin/france3/master.m3u8
 http://51.159.199.88:1234/stream/o11v22b1bin/france4/master.m3u8
 #EXTINF:-1 tvg-id="tf5.fr",France5
 http://51.159.199.88:1234/stream/o11v22b1bin/france5/master.m3u8
+#EXTINF:-1 tvg-id="4.uk",Channel 4 UK
+http://84.203.199.198:9981/stream/channel/6de89172871f09b611a5ba6e970d447e?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="e4.uk",E4
+http://84.203.199.198:9981/stream/channel/5e79467abc16c01c7be049fa6afb044a
+#EXTINF:-1 tvg-id="e4-more.uk",E4 Extra
+http://84.203.199.198:9981/stream/channel/926b6a23a608fa621805db7f391cd09d
+#EXTINF:-1 tvg-id="more4.uk",More4
+http://84.203.199.198:9981/stream/channel/3d2d356baa55cd33d9c9698fdadc5cda
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 #EXTINF:-1 tvg-id="vtv32",VTV Canal 32
@@ -238,6 +246,24 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakutentvshows.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Series Spain
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cula4",Cula4
+http://84.203.199.198:9981/stream/channel/d562a17f62e800c37a07997868913b8d
+#EXTINF:-1 tvg-id="cbeebies.uk",CBeebies
+http://84.203.199.198:9981/stream/channel/4d61c55ebcc9f3b941198ee1e555979c
+#EXTINF:-1 tvg-id="gm.uk",Great! Movies
+http://84.203.199.198:9981/stream/channel/e74e8cea730326c7c0e3effc790162ec
+#EXTINF:-1 tvg-id="dmax.uk",DMAX UK
+http://84.203.199.198:9981/stream/channel/f515d4d92a4abb2b775161ca8a0363f0
+#EXTINF:-1 tvg-id="q.uk",Quest UK
+http://84.203.199.198:9981/stream/channel/5f76aaecdaa580fe0948b1d370ec3f60
+#EXTINF:-1 tvg-id="qr.uk",Quest Red
+http://84.203.199.198:9981/stream/channel/2a46147ad332792b8c7bc25c96c682cd
+#EXTINF:-1 tvg-id="cbbc.uk",CBBC
+http://84.203.199.198:9981/stream/channel/4845ef3a27cb971b75eb515d0009c4de
+#EXTINF:-1 tvg-id="great1.uk",Great! TV
+http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
+#EXTINF:-1 tvg-id="gr.uk",Great! Romance
+http://84.203.199.198:9981/stream/channel/9b3708f50956b9e9de97671db26105aa
 #EXTINF:-1 tvg-id="cartoonnetwork.ro",Cartoon Network Romania
 http://51.159.199.88:1234/stream/romaniafocussat/cartoonnetwork/master.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Always Funny Videos
@@ -245,9 +271,13 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
-https://fortv.cc:8080/N0QaDD/625713/53730
+http://84.203.199.198:9981/stream/channel/b19fe2c520d3f786cc7dcc99634d384
+#EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1
+http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
 #EXTINF:-1 tvg-id="racing.com-au",Racing.com Australia
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="film4.uk",Film4
+http://84.203.199.198:9981/stream/channel/04c6e43202dec2d888e552593206b9cf?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="cn.normal",Cartoon Network
 https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
 #EXTINF:-1 tvg-id="hbo-s.la",HBO Signature LA
@@ -265,19 +295,13 @@ https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/a
 #EXTINF:-1 tvg-id="tcmeast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx",Golden Multiplex
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://38.252.157.62:8000/play/29
 #EXTINF:-1 tvg-id="mtv2.us",MTV2
 http://hdhd.tk/Ford/Ford/303
 #EXTINF:-1 tvg-id="friforme",Freeform
 https://thevdm.xyz:25461/Jennifer/Year!/39764
 #EXTINF:-1 tvg-id="nktn.uk",NickToons UK
 https://linear006-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(nicktoons)/manifest_720.mpd
-#EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier
-https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
 https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
@@ -335,6 +359,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="tnt.la",TNT Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165821
 #EXTINF:-1 tvg-id="space.mx",Space Mexico
+http://168.197.196.98:9981/stream/channel/155d9f78c6d03b7aa3df5a24774c7c32
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159256
 #EXTINF:-1 tvg-id="once-kids.mx",Once Ninos
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159141
@@ -447,7 +472,19 @@ http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png",AMC
 http://170.254.18.106/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="challenge",Challenge UK
-https://dpjhjf99gqyr4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvzenqyvh6pyy/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+http://84.203.199.198:9981/stream/channel/1cddf0b35f6da26f00c8c4367e0c6552
+#EXTINF:-1 tvg-id="tve.int",TVE
+http://168.197.196.98:9981/stream/channel/67828b617d57605221053687c6da58fa?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="v1.uk",Virgin Media 1
+http://84.203.199.198:9981/stream/channel/bb7276016aa8015097f5fddf37496baf
+#EXTINF:-1 tvg-id="v2.uk",Virgin Media 2
+http://84.203.199.198:9981/stream/channel/3b5a604c3631112913afad33baedd2b8
+#EXTINF:-1 tvg-id="v3.uk",Virgin Media 3
+http://84.203.199.198:9981/stream/channel/85603f5d19ca518315823c3c012ac6ea
+#EXTINF:-1 tvg-id="v4.uk",Virgin Media 4
+http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
+#EXTINF:-1 tvg-id="b2.uk",BBC Two
+http://84.203.199.198:9981/stream/channel/6b7e7d7412e523696ee6af35dcdb9cca
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",TBS
@@ -498,6 +535,10 @@ http://185.236.229.62:9981/play/a07c
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="8ey873723placeholder",Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-id="bbc1.uk",BBC One
+http://84.203.199.198:9981/stream/channel/bd5c5676bb29d9291172c5369b8bc455?profile=matroska
+#EXTINF:-1 tvg-id="itv4.uk",ITV4
+http://84.203.199.198:9981/stream/channel/31fdf53d8b284d9da875b6388f775a08?profile=matroska
 #EXTINF:-1 tvg-id="fx.mx",FX Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158684
 #EXTINF:-1 tvg-id="golden1.mx",Golden TV
