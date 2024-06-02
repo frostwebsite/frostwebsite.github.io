@@ -11,6 +11,14 @@ http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="cmt.us",CMT
 https://f.phite.ro/down.m3u8
+#EXTINF:-1 tvg-id="itv1.uk",ITV1
+http://fortv.cc:8080/N0QaDD/625713/53651
+#EXTINF:-1 tvg-id="itv2.uk",ITV2
+http://fortv.cc:8080/N0QaDD/625713/53671
+#EXTINF:-1 tvg-id="tbs.jp",TBS Japan
+https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+#EXTINF:-1 tvg-id="tokyo.jp",TV Tokyo
+https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-id="ace.us",Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="action.us",Action Channel
