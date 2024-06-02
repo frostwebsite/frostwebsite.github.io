@@ -529,6 +529,8 @@ http://170.254.18.106/MTV/index.m3u8
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discovery",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
+#EXTINF:-1 tvg-id="disjr.us",Disney Junior
+http://thevdm.xyz:25461/Jennifer/Year!/25181
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
