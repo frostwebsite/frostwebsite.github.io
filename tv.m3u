@@ -326,9 +326,12 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
+http://89.29.209.129:9981/stream/channelid/12590900
 http://84.203.199.198:9981/stream/channel/b19fe2c520d3f786cc7dcc99634d384f?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1
 http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
+#EXTINF:-1 tvg-id="semillitas",Semillitas
+http://45.228.234.30:16000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="racing.com-au",Racing.com Australia
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="e4timeshift.uk",E4 +1
