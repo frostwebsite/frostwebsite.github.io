@@ -134,6 +134,10 @@ https://seo.tv.bo/tv/ATV4_HD.m3u8
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159054
 #EXTINF:-1 tvg-id="chavodel8",El Chavo Del 8 24/7
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/35022
+#EXTINF:-1 tvg-id="tc.uk",TRUE Crime UK
+http://84.203.199.198:9981/stream/channel/fcbcbdbbc7cb8f1bb1d014070b7994bc
+#EXTINF:-1 tvg-id="tc2.uk",TRUE Crime Xtra
+http://84.203.199.198:9981/stream/channel/83032b3211580e6ab5e444bd8efb5162
 #EXTINF:-1 tvg-id="q2.uk",QVC Extra UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 #EXTINF:-1 tvg-id="q3.uk",QVC Style UK
@@ -209,7 +213,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-id="canal21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",Canal 21
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="pakapaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png",Paka Paka
-https://f.phite.ro/down.mp4
+http://168.197.196.98:9981/stream/channel/20382e2cf1cea16d5be5531caeede4e1
 #EXTINF:-1 tvg-id="pbsworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",PBS World
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png",SBT
