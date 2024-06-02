@@ -242,6 +242,35 @@ https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="superjail",Superjail 24/7
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:-1 tvg-id="stv",STV
+http://84.203.199.198:9981/stream/channel/adf5484a85c2b5baedfce63a9dfd0963
+#EXTINF:-1 tvg-id="thatstv2.uk",That's TV 2
+http://84.203.199.198:9981/stream/channel/8ad2b3dbd37bc318dad64826d213e06e
+#EXTINF:-1 tvg-id="legend.uk",Legend UK
+http://84.203.199.198:9981/stream/channel/ceb424dcb243b40d23ab16edb9d0bbde
+#EXTINF:-1 tvg-id="legend2.uk",Legend Xtra
+http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
+#EXTINF:-1 tvg-id="etv4",ETV4
+http://84.203.199.198:9981/stream/channel/bc68a32ac797d7cf20ba4bc370e45d61
+#EXTINF:-1 tvg-id="bbcnews.uk",BBC News UK
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+http://84.203.199.198:9981/stream/channel/8e21c580e20e1b8cb271b671e3eec6e7
+#EXTINF:-1 tvg-id="bbcnews.int",BBC News International
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="skynews.uk",Sky News UK
+http://84.203.199.198:9981/stream/channel/5921999176d588325d768f3fc7bbcdce
+#EXTINF:-1 tvg-id="etv5",ETV5
+http://84.203.199.198:9981/stream/channel/d22130fc8af350ed6914e30e14550adb
+#EXTINF:-1 tvg-id="w.uk",W UK
+http://84.203.199.198:9981/stream/channel/f6e3d8fb35d2f53c5f95e9172c0cd226
+#EXTINF:-1 tvg-id="food.uk",Food Network UK
+http://84.203.199.198:9981/stream/channel/0db003af123cab4d6201b30f734a5f2d
+#EXTINF:-1 tvg-id="utv",UTV
+http://84.203.199.198:9981/stream/channel/863dce68ed92c94c1f2ab4c036452601
+#EXTINF:-1 tvg-id="rte2",RTÉ2
+http://84.203.199.198:9981/stream/channel/d6b51c5b5e859d0e2c73f112ad78c40c
+#EXTINF:-1 tvg-id="rte1",RTÉ1
+http://84.203.199.198:9981/stream/channel/289161983b0b1f7d8fe4e0c321cebc42
 #EXTINF:-1 tvg-id="rickandmorty",Rick and Morty 24/7
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="kartoonchannel.us",Kartoon Channel
