@@ -105,11 +105,21 @@ http://46.252.39.94:8008/play/a012
 #EXTINF:-1 tvg-id="gloob.br",Gloob
 http://95.164.4.95/painel/globoplay/globo.php?id=7339146&q=&lat=-23.614942616362804&long=-46.69667531648953
 #EXTINF:-1 tvg-id="minimax.ro",Minimax Romania
-http://86.120.245.60:9981/stream/channel/420dd8a3e4b7a61b8978ca0964ac7578?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/420dd8a3e4b7a61b8978ca0964ac7578
+#EXTINF:-1 tvg-id="abcnews.au",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="euron",EuroNews
+https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="euron.es",EuroNews en Español
+https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="cbsnewsboston",CBS News Boston
+https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
+#EXTINF:-1 tvg-id="cbsnews.int",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="NickToons_CEE",NickToons CEE
 http://185.157.160.113:9981/stream/channel/769fd74d781ea07ecf83ebdb7fa4f86f
 #EXTINF:-1 tvg-id="mtv.eu",MTV Europe
-http://86.120.245.60:9981/stream/channel/d99ae27ffc3f586789b27bd51383846c?profile=webtv-h264-aac-matroska
+http://86.120.245.60:9981/stream/channel/d99ae27ffc3f586789b27bd51383846c
 #EXTINF:-1 tvg-id="mtv00s",MTV 00s Europe
 http://86.120.245.60:9981/stream/channel/1e8d3cfe3d89617dea98605a0dbcc2de
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
