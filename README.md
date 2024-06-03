@@ -45,6 +45,7 @@ Streams from O11 portals will NOT be accepted as these go down literally way too
 <a href="https://github.com/ExperiencersInternational"><img src="https://avatars.githubusercontent.com/u/56035537" width="88" height="88"></a>
 <a href="https://github.com/mimipipi22"><img src="https://avatars.githubusercontent.com/u/99712080" width="88" height="88"></a>
 <a href="https://github.com/mavijavi5124"><img src="https://avatars.githubusercontent.com/u/166801153" width="88" height="88"></a>
+<a href="https://github.com/pixieclaws"><img src="https://avatars.githubusercontent.com/u/157376956" width="88" height="88"></a>
 
 # Honorable mention
 For the domain :D
