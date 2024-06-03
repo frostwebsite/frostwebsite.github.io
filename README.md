@@ -14,7 +14,7 @@ Sadly this list won't work with IPTV Smarters Pro. It won't load channel names p
 
 No video files are stored. We're simply using user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/frostiptv/frostiptv.github.io/pulls) or opening an [issue](https://github.com/frostiptv/frostiptv.github.io/issues/). However, we have **no control** over the destination of the link, and just removing the link from the playlist will **not** remove its contents from the web. Note that linking does not directly infringe copyright because no copy is actually made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
--Quoted from [iptv-org](https://github.com/iptv-org/iptv/blob/7dc1be42dd5c8eb334845965b186e7d3e0362503/.readme/template.md?plain=1#L153)
+Quoted from [iptv-org](https://github.com/iptv-org/iptv/blob/7dc1be42dd5c8eb334845965b186e7d3e0362503/.readme/template.md?plain=1#L153)
 
 
 # Portal
@@ -27,7 +27,7 @@ Join the Matrix room: #frost:omada.cafe
 
 Want to help out? That'd be awesome!
 
-You can either open an issue or ask for an invite. If you open an issue you'll probably be invited anyways but it's your choice to join lmao.
+You can either open an issue to contribute or ask for an invite. If you open an issue you'll probably be invited anyways but it's your choice to join lmao.
 
 We will most likely NOT add streams from Xtream servers. These are usually really unstable and instead of spending an hour looking for another stream of it it's best to just skip for now, but try if you want and we'll test it out.
 
@@ -36,13 +36,13 @@ Anything that can last at least 3 minutes without lagging, freezing or crashing 
 Streams from O11 portals will NOT be accepted as these go down literally way too much and it's stressing to check them every 2 hours to see what works and what doesn't.
 
 # Members
- <a href="https://github.com/cold360"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/3d863873-af19-48a5-b1fa-fd1d3a4f86c7" width="88" height="88"></a>
- <a href="https://github.com/c4artisan"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/d16645c1-9e01-4835-a9c8-7957af9fc04e" width="88" height="88"></a>
- <a href="https://github.com/Keeper-CP1"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/d521270c-6fdd-422b-b824-9780122587bc" width="88" height="88"></a>
- <a href="https://github.com/joshietrue"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/b5390439-04a7-40ea-8c4b-439c75a8fda4" width="88" height="88"></a>
- <a href="https://github.com/rushereeeeee"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/5c9e0c24-fe8a-497b-9162-94e9fc8d0ef8" width="88" height="88"></a>
-<a href="https://github.com/cysjunk"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/9fd0f472-975e-485a-97a9-69780ce8b37c" width="88" height="88"></a>
-<a href="https://github.com/ExperiencersInternational"><img src="https://github.com/frostiptv/frostiptv.github.io/assets/164063937/b1005588-7bc5-4e33-ba6e-3782a127d4a9" width="88" height="88"></a>
+ <a href="https://github.com/shiawasevip"><img src="https://avatars.githubusercontent.com/u/164063937" width="88" height="88"></a>
+ <a href="https://github.com/c4artisan"><img src="https://avatars.githubusercontent.com/u/41709262" width="88" height="88"></a>
+ <a href="https://github.com/Keeper-CP1"><img src="https://avatars.githubusercontent.com/u/77489104" width="88" height="88"></a>
+ <a href="https://github.com/joshietrue"><img src="https://avatars.githubusercontent.com/u/78919116" width="88" height="88"></a>
+ <a href="https://github.com/rushereeeeee"><img src="https://avatars.githubusercontent.com/u/125172679" width="88" height="88"></a>
+<a href="https://github.com/cysjunk"><img src="https://avatars.githubusercontent.com/u/89982841" width="88" height="88"></a>
+<a href="https://github.com/ExperiencersInternational"><img src="https://avatars.githubusercontent.com/u/56035537" width="88" height="88"></a>
 <a href="https://github.com/mimipipi22"><img src="https://avatars.githubusercontent.com/u/99712080" width="88" height="88"></a>
 <a href="https://github.com/mavijavi5124"><img src="https://avatars.githubusercontent.com/u/166801153" width="88" height="88"></a>
 
