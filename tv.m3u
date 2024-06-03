@@ -47,8 +47,6 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 http://5.181.236.159:8484/stream/zapi/enfamilafhd/master.m3u8
 #EXTINF:-1 tvg-id="disneychannel.fr",Disney Channel France
 http://213.176.3.72:1234/stream/FRANCE/938/master.m3u8
-#EXTINF:-1 tvg-id="cartoonnetworkla",Cartoon Network LA
-https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="cartoonnetwork.fr",Cartoon Network France
 http://51.159.199.88:1234/stream/freefhd/cartoonnetworkfhd/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/1211/master.m3u8
