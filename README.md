@@ -8,7 +8,7 @@ Recommended players:
 
 [Sparkle TV](https://www.apk20.com/apk/se.hedekonsult.sparkle)
 
-This list won't work with IPTV Smarters Pro. Yes, it's the most popular player but it won't load channel names properly for some reason :(
+Sadly this list won't work with IPTV Smarters Pro. It won't load channel names properly for some reason :(
 
 # Disclaimer
 
