@@ -1,39 +1,39 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/ontvtonight.com/ontvtonight.com_us.channels.xml,https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/toonamiaftermath.com/toonamiaftermath.com.channels.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
 #EXTINF:-1 tvg-id="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
 http://38.252.157.62:8000/play/27
-#EXTINF:-1 tvg-id="metv",MeTV
+#EXTINF:-1 tvg-id="metv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
-#EXTINF:-1 tvg-id="as.backup",Adult Swim (single stream)
+#EXTINF:-1 tvg-id="as.backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png",Adult Swim (single stream)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="dis.la",Disney Channel LA
 http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
 #EXTINF:-1 tvg-id="thebox.uk",The Box (Closing on June 30)
 http://84.203.199.198:9981/stream/service/08a0fd537e49dd4ed27ecdfce449a860
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx",De Película Latin America
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película Latin America
 http://kstv.us:8080//live/tH300gvHff/8606073792/46576.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx",De Película Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png",De Película Plus
 http://kstv.us:8080//live/tH300gvHff/8606073792/46577.m3u8
-#EXTINF:-1 tvg-id="mtvclassic",MTV Classic
+#EXTINF:-1 tvg-id="mtvclassic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png",MTV Classic
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="mtvlive",MTV Live
+#EXTINF:-1 tvg-id="mtvlive" tvg-logo="https://i.imgur.com/3UByLqb.png",MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="laff.us",Laff
+#EXTINF:-1 tvg-id="laff.us" tvg-logo="https://i.imgur.com/PtHtgsn.png",Laff
 http://thevdm.xyz:25461/Jennifer/Year!/39792
-#EXTINF:-1 tvg-id="mtvU",mtvU
+#EXTINF:-1 tvg-id="mtvU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",mtvU
 https://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-id="zoomooasia",ZooMoo Asia
+#EXTINF:-1 tvg-id="zoomooasia" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo Asia
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
-#EXTINF:-1 tvg-id="ae.east",A&E
+#EXTINF:-1 tvg-id="ae.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E
 http://thevdm.xyz:25461/Jennifer/Year!/43987
 #EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
 http://84.203.199.198:9981/stream/service/1fddaddbcdee82e7513f38906cd62cb7
 #EXTINF:-1 tvg-id="cn.la",Cartoon Network LA
 http://192.141.99.3:8000/play/a05k
-#EXTINF:-1 tvg-id="antena3.int",Antena 3 Internacional
+#EXTINF:-1 tvg-id="antena3.int" tvg-logo="https://i.imgur.com/QMadWXp.png",Antena 3 Internacional
 http://200.59.188.3:8000/play/a0f3
-#EXTINF:-1 tvg-id="sonycomedias",Sony Comedias
+#EXTINF:-1 tvg-id="sonycomedias" tvg-logo="https://i.imgur.com/9QG3Jz6.png",Sony Comedias
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
-#EXTINF:-1 tvg-id="sonycomp",Sony Competencias
+#EXTINF:-1 tvg-id="sonycomp" tvg-logo="https://i.imgur.com/Dut8Ftk.png",Sony Competencias
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
 #EXTINF:-1 tvg-id="sonynovelas",Sony Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
