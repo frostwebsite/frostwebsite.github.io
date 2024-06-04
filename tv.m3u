@@ -47,8 +47,6 @@ http://38.7.223.20:8000/play/a02l
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="cmt.us" tvg-logo="https://i.imgur.com/S7DOpdY.png",CMT
 http://209.126.107.163:1234/stream/dtvcomplete/cmthd/master.m3u8
-#EXTINF:-1 tvg-id="nkglobal",Nick Global (Use france VPN)
-http://37.18.239.36:8888/Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 http://fortv.cc:8080/N0QaDD/625713/53651
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
@@ -309,12 +307,6 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://84.203.199.198:9981/stream/channel/5921999176d588325d768f3fc7bbcdce
 #EXTINF:-1 tvg-id="etv5",ETV5
 http://84.203.199.198:9981/stream/channel/d22130fc8af350ed6914e30e14550adb
-#EXTINF:-1 tvg-id="w.uk",W UK
-http://84.203.199.198:9981/stream/channel/f6e3d8fb35d2f53c5f95e9172c0cd226
-#EXTINF:-1 tvg-id="food.uk",Food Network UK
-http://84.203.199.198:9981/stream/channel/0db003af123cab4d6201b30f734a5f2d
-#EXTINF:-1 tvg-id="utv",UTV
-http://84.203.199.198:9981/stream/channel/863dce68ed92c94c1f2ab4c036452601
 #EXTINF:-1 tvg-id="rte2",RTÉ2
 http://84.203.199.198:9981/stream/channel/d6b51c5b5e859d0e2c73f112ad78c40c
 #EXTINF:-1 tvg-id="rte1",RTÉ1
@@ -341,8 +333,6 @@ http://84.203.199.198:9981/stream/channel/d562a17f62e800c37a07997868913b8d
 http://84.203.199.198:9981/stream/channel/4d61c55ebcc9f3b941198ee1e555979c
 #EXTINF:-1 tvg-id="gm.uk",Great! Movies
 http://84.203.199.198:9981/stream/channel/e74e8cea730326c7c0e3effc790162ec
-#EXTINF:-1 tvg-id="dmax.uk",DMAX UK
-http://84.203.199.198:9981/stream/channel/f515d4d92a4abb2b775161ca8a0363f0
 #EXTINF:-1 tvg-id="q.uk",Quest UK
 http://84.203.199.198:9981/stream/channel/5f76aaecdaa580fe0948b1d370ec3f60
 #EXTINF:-1 tvg-id="qr.uk",Quest Red
@@ -351,22 +341,8 @@ http://84.203.199.198:9981/stream/channel/2a46147ad332792b8c7bc25c96c682cd
 http://84.203.199.198:9981/stream/channel/4845ef3a27cb971b75eb515d0009c4de
 #EXTINF:-1 tvg-id="great1.uk",Great! TV
 http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
-#EXTINF:-1 tvg-id="gr.uk",Great! Romance
-http://84.203.199.198:9981/stream/channel/9b3708f50956b9e9de97671db26105aa
-#EXTINF:-1 tvg-id="cartoonnetwork.ro",Cartoon Network Romania
-http://51.159.199.88:1234/stream/romaniafocussat/cartoonnetwork/master.m3u8
 #EXTINF:-1 tvg-id="dave.uk",Dave UK
 http://84.203.199.198:9981/stream/channel/47b88a8488f3320ef093d267b3a859d4
-#EXTINF:-1 tvg-id="dave2.uk",Dave ja vu
-http://84.203.199.198:9981/stream/channel/cec0cc7b1c2ab40e7e95208bf4d3a062
-#EXTINF:-1 tvg-id="hgtv.uk",HGTV UK
-http://84.203.199.198:9981/stream/channel/736ba2bbfe1f403a83a607ca2471a70e
-#EXTINF:-1 tvg-id="popmaxtimeshift.uk",Pop Max +1
-http://84.203.199.198:9981/stream/channel/81e8c23c5fdf0f63f32fd461d4374368
-#EXTINF:-1 tvg-id="yes.uk",Yesterday UK
-http://84.203.199.198:9981/stream/channel/64ad443ef899fe730d46963e2c9a031d
-#EXTINF:-1 tvg-id="really.uk",Really UK
-http://84.203.199.198:9981/stream/channel/df273006dd444958c1feed76a0d4e22a
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Always Funny Videos
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
@@ -380,8 +356,6 @@ http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
 http://45.228.234.30:16000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="racing.com-au",Racing.com Australia
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="e4timeshift.uk",E4 +1
-http://84.203.199.198:9981/stream/channel/61037facebae7b56edafabdb9c241db9
 #EXTINF:-1 tvg-id="film4.uk",Film4
 http://84.203.199.198:9981/stream/channel/04c6e43202dec2d888e552593206b9cf
 #EXTINF:-1 tvg-id="cn.normal",Cartoon Network
@@ -510,8 +484,18 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.
 http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="24h TVE",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me
+#EXTINF:-1 tvg-id="ifchgo9n3cxmnes",ABC Me / ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="startve.es",Star TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="4music.uk",4Music (Geoblocked, closing on June 30)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+#EXTINF:-1 tvg-id="abctvplus.au",ABC TV Plus
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-id="channel44.au",Channel 44 Australia
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="tvsn.au",TVSN Australia
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="cuatro.es",Cuatro
 http://5.181.236.159:8484/stream/zapi/cuatrohd/master.m3u8
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel ES (English track)
