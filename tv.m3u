@@ -41,39 +41,39 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-#EXTINF:-1 tvg-id="cmt.us",CMT
+#EXTINF:-1 tvg-id="cmt.us" tvg-logo="https://i.imgur.com/S7DOpdY.png",CMT
 http://209.126.107.163:1234/stream/dtvcomplete/cmthd/master.m3u8
 #EXTINF:-1 tvg-id="nkglobal",Nick Global (Use france VPN)
 http://37.18.239.36:8888/Nickelodeon/video.m3u8
-#EXTINF:-1 tvg-id="itv1.uk",ITV1
+#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 http://fortv.cc:8080/N0QaDD/625713/53651
-#EXTINF:-1 tvg-id="itv2.uk",ITV2
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
 http://fortv.cc:8080/N0QaDD/625713/53671
-#EXTINF:-1 tvg-id="tbs.jp",TBS Japan
+#EXTINF:-1 tvg-id="tbs.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png",TBS Japan
 https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
-#EXTINF:-1 tvg-id="tokyo.jp",TV Tokyo
+#EXTINF:-1 tvg-id="tokyo.jp" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo
 https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-id="ace.us",Ace
+#EXTINF:-1 tvg-id="ace.us" tvg-logo="https://i.imgur.com/qNnk6Nk.png",Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-#EXTINF:-1 tvg-id="action.us",Action Channel
+#EXTINF:-1 tvg-id="action.us" tvg-logo="https://i.imgur.com/aMKtA68.png",Action Channel
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-#EXTINF:-1 tvg-id="revn.us",Rev'n
+#EXTINF:-1 tvg-id="revn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/512px-Rev%27n_logo.jpg",Rev'n
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
-#EXTINF:-1 tvg-id="estrellatv.us",Estrella TV
+#EXTINF:-1 tvg-id="estrellatv.us" tvg-logo="https://i.imgur.com/IZxjnyp.png",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="estrellanews.us",Estrella Noticias
+#EXTINF:-1 tvg-id="estrellanews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png",Estrella Noticias
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cineestrella.us",Cine Estrella
 https://lnc-cine-estrella.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="retro.us",RetroTV
+#EXTINF:-1 tvg-id="retro.us" tvg-logo="https://i.imgur.com/iUTL0pm.png",RetroTV
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 tvg-id="c31.au",C31
+#EXTINF:-1 tvg-id="c31.au" tvg-logo="https://i.imgur.com/Ge1EutY.png",C31
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="dkids.gt",Discovery Kids Guatemala (Panregional)
+#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png",Discovery Kids Panregional
 http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="nick-la.pluto",Nickelodeon en Español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
-#EXTINF:-1 tvg-id="samuraijack",Samurai Jack 24/7
+#EXTINF:-1 tvg-id="samuraijack" tvg-logo="https://i.imgur.com/UOZ4VTH.png",Samurai Jack 24/7
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="enfamilia.es",Enfamilia
 http://5.181.236.159:8484/stream/zapi/enfamilafhd/master.m3u8
@@ -82,59 +82,61 @@ http://213.176.3.72:1234/stream/FRANCE/938/master.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.fr",Cartoon Network France
 http://51.159.199.88:1234/stream/freefhd/cartoonnetworkfhd/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/1211/master.m3u8
-#EXTINF:-1 tvg-id="teletoon",Télétoon
+#EXTINF:-1 tvg-id="teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/512px-T%C3%A9l%C3%A9toon%2B_Logo.png",Télétoon
 http://213.176.3.72:1234/stream/FRANCE/672/master.m3u8
-#EXTINF:-1 tvg-id="cstarmusic.fr",CStar Hits
+#EXTINF:-1 tvg-id="cstarmusic.fr" tvg-logo="https://i.imgur.com/x9LQmnB.png",CStar Hits
 http://51.159.199.88:1234/stream/freefhd/cstarhitsfhd/master.m3u8
 #EXTINF:-1 tvg-id="boom.fr",Boomerang France
 http://51.159.199.88:1234/stream/freefhd/boomerangfhd/master.m3u8
-#EXTINF:-1 tvg-id="cstar.fr",CStar
+#EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://i.imgur.com/w4kAX1V.png",CStar
 http://51.159.199.88:1234/stream/molotovfrance/cstar/master.m3u8
-#EXTINF:-1 tvg-id="citynews-ca.toronto",CityNews Toronto
+#EXTINF:-1 tvg-id="citynews-ca.toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="tf1-timeshift",TF1 +1
+#EXTINF:-1 tvg-id="tf1-timeshift" tvg-logo="https://i.imgur.com/YYTgMdf.png",TF1 +1
 http://51.159.199.88:1234/stream/freefhd/tf11fhd/master.m3u8
-#EXTINF:-1 tvg-id="tf2.fr",France2
+#EXTINF:-1 tvg-id="tf2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France2
 http://51.159.199.88:1234/stream/o11v22b1bin/france2/master.m3u8
-#EXTINF:-1 tvg-id="tf3.fr",France3
+#EXTINF:-1 tvg-id="tf3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France3
 http://51.159.199.88:1234/stream/o11v22b1bin/france3/master.m3u8
-#EXTINF:-1 tvg-id="tf4.fr",France4
+#EXTINF:-1 tvg-id="tf4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France4
 http://51.159.199.88:1234/stream/o11v22b1bin/france4/master.m3u8
-#EXTINF:-1 tvg-id="tf5.fr",France5
+#EXTINF:-1 tvg-id="tf5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France5
 http://51.159.199.88:1234/stream/o11v22b1bin/france5/master.m3u8
-#EXTINF:-1 tvg-id="4.uk",Channel 4 UK
+#EXTINF:-1 tvg-id="4.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",Channel 4 UK
 http://84.203.199.198:9981/stream/channel/6de89172871f09b611a5ba6e970d447e?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="e4.uk",E4
+#EXTINF:-1 tvg-id="e4.uk" tvg-logo="https://i.imgur.com/22MfjF4.png",E4
 http://84.203.199.198:9981/stream/channel/5e79467abc16c01c7be049fa6afb044a
-#EXTINF:-1 tvg-id="e4-more.uk",E4 Extra
+#EXTINF:-1 tvg-id="e4-more.uk" tvg-logo="https://i.imgur.com/vA2j0YP.png",E4 Extra
 http://84.203.199.198:9981/stream/channel/926b6a23a608fa621805db7f391cd09d
-#EXTINF:-1 tvg-id="more4.uk",More4
+#EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
 http://84.203.199.198:9981/stream/channel/3d2d356baa55cd33d9c9698fdadc5cda
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
-#EXTINF:-1 tvg-id="vtv32",VTV Canal 32
+#EXTINF:-1 tvg-id="vtv32.do" tvg-logo="https://i.imgur.com/qjm4B0J.png",VTV Canal 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 #EXTINF:-1 tvg-id="sun.es",Sundance Spain
 http://45.67.98.12:1234/stream/csat/sundance/master.m3u8
-#EXTINF:-1 tvg-id="moviefe",MovieFe
+#EXTINF:-1 tvg-id="moviefe" tvg-logo="https://i.imgur.com/FqHLJmN.png",MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1 tvg-id="moviesphere",MovieSphere
+#EXTINF:-1 tvg-id="moviesphere" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere
 https://lnc-moviesphere.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="canal100.gt",Canal100 Guate
+#EXTINF:-1 tvg-id="canal100.gt" tvg-logo="https://i.imgur.com/ygNKJXx.png",Canal100 Guate
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-#EXTINF:-1 tvg-id="q.uk",QVC UK
+#EXTINF:-1 tvg-id="q.uk" tvg-logo="https://i.imgur.com/6TWUVrh.png",QVC UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:-1 tvg-id="azt.int",Azteca Internacional
+#EXTINF:-1 tvg-id="azt.int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="beanotv.uk",BeanoTV
+#EXTINF:-1 tvg-id="amas.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png",A+ Guate
+https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-id="az.mx" tvg-logo="https://i.imgur.com/wJkbhCu.png",Azteca 7
+https://live.info7.mx/info7/stream.m3u8
+#EXTINF:-1 tvg-id="beanotv.uk" tvg-logo="https://i.imgur.com/IKHFZDJ.png",BeanoTV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="canal27.gt",Canal 27 Guate
-https://live.canal27.tv:3633/live/canal27live.m3u8
 #EXTINF:-1 tvg-id="chocolatethings",Ding Dong
 http://46.252.39.94:8008/play/a011
 #EXTINF:-1 tvg-id="ahhhshshhhhah777",Clover
 http://46.252.39.94:8008/play/a012
-#EXTINF:-1 tvg-id="gloob.br",Gloob
+#EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://i.imgur.com/N1BUULh.png",Gloob
 http://95.164.4.95/painel/globoplay/globo.php?id=7339146&q=&lat=-23.614942616362804&long=-46.69667531648953
 #EXTINF:-1 tvg-id="minimax.ro",Minimax Romania
 http://86.120.245.60:9981/stream/channel/420dd8a3e4b7a61b8978ca0964ac7578
