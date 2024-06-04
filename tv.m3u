@@ -215,7 +215,7 @@ http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.la",Lifetime LA
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="universo.us",NBC Universo
-https://f.phite.ro/down.mp4
+http://209.126.107.163:1234/stream/dtvcomplete/universo/master.m3u8
 #EXTINF:-1 tvg-id="7mateau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/2560px-7mate_logo_2020.svg.png",7mate
 https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
 #EXTINF:-1 tvg id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp",Discovery Kids
@@ -546,8 +546,12 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158827
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158828
 #EXTINF:-1 tvg-id="ESPN4.mx",ESPN 4 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/15883
-#EXTINF:-1 tvg-id="tlnovelas1",TLNovelas Mexico
+#EXTINF:-1 tvg-id="tlnovelas.mx",TLNovelas Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159095
+#EXTINF:-1 tvg-id="tlnovelas.us",Univision TLNovelas
+http://209.126.107.163:1234/stream/dtvcomplete/univisiontlnovelas/master.m3u8
+#EXTINF:-1 tvg-id="uptv",UPtv
+http://209.126.107.163:1234/stream/dtvcomplete/uptv/master.m3u8
 #EXTINF:-1 tvg-id="tlsur",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="canal13.gt",Trecevision
