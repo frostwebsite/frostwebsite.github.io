@@ -9,6 +9,14 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
 #EXTINF:-1 tvg-id="TheBox.uk",The Box (Closing on June 30)
 http://84.203.199.198:9981/stream/service/08a0fd537e49dd4ed27ecdfce449a860
+#EXTINF:-1 tvg-id="fxx.east",FXX
+http://84.17.40.25:80/FXX/index.m3u8
+#EXTINF:-1 tvg-id="freeform.us",Freeform
+http://212.102.60.231/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="hbofam.us",HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="betsoul.us",BET Soul
+http://143.244.60.30/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película
 http://kstv.us:8080//live/tH300gvHff/8606073792/46576.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png",De Película Plus
@@ -376,14 +384,10 @@ http://143.244.60.30/TCM/index.m3u8
 http://38.252.157.62:8000/play/29
 #EXTINF:-1 tvg-id="mtv2.us",MTV2
 https://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="friforme",Freeform
-https://thevdm.xyz:25461/Jennifer/Year!/39764
-#EXTINF:-1 tvg-id="nktn.uk",NickToons UK
-https://linear006-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(nicktoons)/manifest_720.mpd
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
-https://f.phite.ro/down.mp4
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
-http://thevdm.xyz:25461/Jennifer/Year!/25183
+http://212.102.60.231/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="nickpluto" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png/revision/latest?cb=20240101170832",Nick Pluto TV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1 tvg-id="toonamiaftermath" tvg-logo="https://i.imgur.com/y0aF3SA.png",Toonami Aftermath
@@ -528,6 +532,8 @@ http://181.115.69.117:8000/play/a0l4/index.m3u8
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158826
 #EXTINF:-1 tvg-id="syfy.es",Syfy Spain
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159740
+#EXTINF:-1 tvg-id="syfy.us",SYFY
+http://212.102.60.231:80/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx",ESPN 2 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158827
 #EXTINF:-1 tvg-id="ESPN3.mx",ESPN 3 Mexico
@@ -603,6 +609,8 @@ http://170.254.18.106/BET/index.m3u8
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="bether.us",BET Her
+http://212.102.60.231:80/BET_HER/index.m3u8
 #EXTINF:-1 tvg-id="M-US",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="VHuno",VH1
@@ -610,7 +618,7 @@ http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discovery",Investigation Discovery
 http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 #EXTINF:-1 tvg-id="disjr.us",Disney Junior
-http://thevdm.xyz:25461/Jennifer/Year!/25181
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
