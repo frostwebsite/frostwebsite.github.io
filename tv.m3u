@@ -45,8 +45,6 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-#EXTINF:-1 tvg-id="cmt.us" tvg-logo="https://i.imgur.com/S7DOpdY.png",CMT
-http://209.126.107.163:1234/stream/dtvcomplete/cmthd/master.m3u8
 #EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 http://fortv.cc:8080/N0QaDD/625713/53651
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
