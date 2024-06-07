@@ -37,6 +37,8 @@ http://thevdm.xyz:25461/Jennifer/Year!/43987
 http://84.203.199.198:9981/stream/service/1fddaddbcdee82e7513f38906cd62cb7
 #EXTINF:-1 tvg-id="cn.la",Cartoon Network LA
 http://192.141.99.3:8000/play/a05k
+#EXTINF:-1 tvg-id="cc.la",Comedy Central LA
+http://45.5.151.151:8000/play/a01p
 #EXTINF:-1 tvg-id="nickjrtoo.uk",Nick Jr. Too
 http://84.203.199.198:9981/stream/service/f9551ab09a03891df8dba84a95277fab
 #EXTINF:-1 tvg-id="antena3.int" tvg-logo="https://i.imgur.com/QMadWXp.png",Antena 3 Internacional
