@@ -7,8 +7,6 @@ http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.la",Disney Channel LA
 http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
-#EXTINF:-1 tvg-id="TheBox.uk",The Box (Closing on June 30)
-http://84.203.199.198:9981/stream/service/08a0fd537e49dd4ed27ecdfce449a860
 #EXTINF:-1 tvg-id="fxx.east",FXX
 http://84.17.40.25:80/FXX/index.m3u8
 #EXTINF:-1 tvg-id="freeform.us",Freeform
@@ -33,13 +31,11 @@ https://fl2.moveonjoy.com/MTV_U/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 #EXTINF:-1 tvg-id="ae.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E
 http://thevdm.xyz:25461/Jennifer/Year!/43987
-#EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
-http://84.203.199.198:9981/stream/service/1fddaddbcdee82e7513f38906cd62cb7
 #EXTINF:-1 tvg-id="cn.la",Cartoon Network LA
 http://192.141.99.3:8000/play/a05k
 #EXTINF:-1 tvg-id="cc.la",Comedy Central LA
 http://45.5.151.151:8000/play/a01p
-#EXTINF:-1 tvg-id="dj.pl",Disney Junior Poland
+#EXTINF:-1 tvg-id="dj.pl",Disney Junior Poland (Eng+Pol tracks)
 http://185.236.229.62:9981/play/a06n
 #EXTINF:-1 tvg-id="nickjrtoo.uk",Nick Jr. Too
 http://84.203.199.198:9981/stream/service/f9551ab09a03891df8dba84a95277fab
@@ -140,9 +136,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="cbsnewsboston",CBS News Boston
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 #EXTINF:-1 tvg-id="cbsnews.int",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="NickToons_CEE",NickToons CEE
-http://185.157.160.113:9981/stream/channel/769fd74d781ea07ecf83ebdb7fa4f86f
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f8
 #EXTINF:-1 tvg-id="mtv.eu",MTV Europe
 http://86.120.245.60:9981/stream/channel/d99ae27ffc3f586789b27bd51383846c
 #EXTINF:-1 tvg-id="mtv00s",MTV 00s Europe
@@ -456,8 +450,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manife
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
 http://thevdm.xyz:25461/live/Jennifer/Year!/20874.m3u8
-#EXTINF:-1 tvg-id="com.la",Comedy Central LA
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159155
 #EXTINF:-1 tvg-id="lecjeijes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="lecjeijez" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png",La 2
@@ -470,8 +462,6 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="startve.es",Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="abctvplus.au",ABC TV Plus
-https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="channel44.au",Channel 44 Australia
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 tvg-id="tvsn.au",TVSN Australia
