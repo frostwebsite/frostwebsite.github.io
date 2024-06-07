@@ -51,6 +51,8 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="as.la",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
+#EXTINF:-1 tvg-id="ds.mx",Disney Junior Mexico
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
@@ -113,8 +115,8 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="amas.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png",A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-id="az.mx" tvg-logo="https://i.imgur.com/wJkbhCu.png",Azteca 7
-https://live.info7.mx/info7/stream.m3u8
+#EXTINF:-1 tvg-id="az.mx" tvg-logo="https://i.imgur.com/wJkbhCu.png",Azteca 7 (Geoblocked)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="beanotv.uk" tvg-logo="https://i.imgur.com/IKHFZDJ.png",BeanoTV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="chocolatethings",Ding Dong
@@ -189,8 +191,6 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159212
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 tvg-id="fuse.us",Fuse
-https://f.phite.ro/down.mp4
 #EXTINF:-1 tvg-id="rakutenfam.eu",Rakuten Family EU
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbox-its-not-pron-btw",HBO Xtreme
@@ -331,7 +331,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
-http://89.29.209.129:9981/stream/channelid/12590900
 http://84.203.199.198:9981/stream/channel/b19fe2c520d3f786cc7dcc99634d384f?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1
 http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
@@ -342,7 +341,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="film4.uk",Film4
 http://84.203.199.198:9981/stream/channel/04c6e43202dec2d888e552593206b9cf
 #EXTINF:-1 tvg-id="cn.normal",Cartoon Network
-hhhhh
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="hbo-s.la",HBO Signature LA
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="countryunknown",HBO Mundi
@@ -447,7 +446,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Clan TVE Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/1200px-Clan_TVE_logo.svg.png",Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-id="tdp" tvg-id="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
+#EXTINF:-1 tvg-id="tdp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="u3rdhs833hd8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
@@ -467,8 +466,6 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="startve.es",Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="4music.uk",4Music (Geoblocked, closing on June 30)
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-id="abctvplus.au",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="channel44.au",Channel 44 Australia
@@ -509,7 +506,7 @@ http://181.115.69.117:8000/play/a0l4/index.m3u8
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158826
 #EXTINF:-1 tvg-id="syfy.es",Syfy Spain
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159740
-#EXTINF:-1 tvg-id="syfy.us",SYFY
+#EXTINF:-1 tvg-id="syfy.us",Syfy
 http://212.102.60.231:80/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx",ESPN 2 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158827
@@ -529,7 +526,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://181.78.105.146:2000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="beinxtra.es",BeIN Sports Xtra Español
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="holyshitwtf",NickMusic Poland[?]
+#EXTINF:-1 tvg-id="holyshitwtf",NickMusic Poland
 http://185.236.229.62:9981/play/a064
 #EXTINF:-1 tvg-id="nickmusic.us",NickMusic
 http://212.102.60.231:80/NICK_MUSIC/index.m3u8
@@ -551,13 +548,13 @@ http://170.254.18.106/AMC/mono.m3u8
 http://84.203.199.198:9981/stream/channel/1cddf0b35f6da26f00c8c4367e0c6552
 #EXTINF:-1 tvg-id="tve.int",TVE
 http://168.197.196.98:9981/stream/channel/67828b617d57605221053687c6da58fa?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="v1.uk",Virgin Media 1
+#EXTINF:-1 tvg-id="v1.uk",Virgin Media One
 http://84.203.199.198:9981/stream/channel/bb7276016aa8015097f5fddf37496baf
-#EXTINF:-1 tvg-id="v2.uk",Virgin Media 2
+#EXTINF:-1 tvg-id="v2.uk",Virgin Media Two
 http://84.203.199.198:9981/stream/channel/3b5a604c3631112913afad33baedd2b8
-#EXTINF:-1 tvg-id="v3.uk",Virgin Media 3
+#EXTINF:-1 tvg-id="v3.uk",Virgin Media Three
 http://84.203.199.198:9981/stream/channel/85603f5d19ca518315823c3c012ac6ea
-#EXTINF:-1 tvg-id="v4.uk",Virgin Media 4
+#EXTINF:-1 tvg-id="v4.uk",Virgin Media Four
 http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
 #EXTINF:-1 tvg-id="b2.uk",BBC Two
 http://84.203.199.198:9981/stream/channel/6b7e7d7412e523696ee6af35dcdb9cca
@@ -589,8 +586,10 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="bether.us",BET Her
 http://212.102.60.231:80/BET_HER/index.m3u8
-#EXTINF:-1 tvg-id="M-US",MTV
-http://170.254.18.106/MTV/index.m3u8
+#EXTINF:-1 tvg-id="okay-uhhh",Canal Infantil
+http://38.252.158.1:8000/play/a00a
+#EXTINF:-1 tvg-id="mtv.us",MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="VHuno",VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discovery",Investigation Discovery
