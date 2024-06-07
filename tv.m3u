@@ -605,8 +605,6 @@ http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/159135.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="disneyjunior.mx",Disney Junior Mexico
-http://190.61.43.117:45000/play/a045
 #EXTINF:-1 tvg-id="disneychannel.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/220px-DisneyChannelEMEA.svg.png",Disney Channel Romania
 http://86.120.245.60:9981/stream/channel/cc786b9eba61d340e666247ed8faf105
 #EXTINF:-1 tvg-id="disneyxd.pl",Disney XD Poland
