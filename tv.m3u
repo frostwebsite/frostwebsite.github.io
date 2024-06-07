@@ -547,7 +547,7 @@ http://170.254.18.106/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="challenge",Challenge UK
 http://84.203.199.198:9981/stream/channel/1cddf0b35f6da26f00c8c4367e0c6552
 #EXTINF:-1 tvg-id="tve.int",TVE
-http://168.197.196.98:9981/stream/channel/67828b617d57605221053687c6da58fa?profile=webtv-vp8-vorbis-webm
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="v1.uk",Virgin Media One
 http://84.203.199.198:9981/stream/channel/bb7276016aa8015097f5fddf37496baf
 #EXTINF:-1 tvg-id="v2.uk",Virgin Media Two
