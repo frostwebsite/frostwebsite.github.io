@@ -85,31 +85,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="enfamilia.es",Enfamilia
 http://5.181.236.159:8484/stream/zapi/enfamilafhd/master.m3u8
-#EXTINF:-1 tvg-id="disneychannel.fr",Disney Channel France
-http://213.176.3.72:1234/stream/FRANCE/938/master.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.fr",Cartoon Network France
-http://51.159.199.88:1234/stream/freefhd/cartoonnetworkfhd/master.m3u8
-http://213.176.3.72:1234/stream/FRANCE/1211/master.m3u8
-#EXTINF:-1 tvg-id="teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/512px-T%C3%A9l%C3%A9toon%2B_Logo.png",Télétoon
-http://213.176.3.72:1234/stream/FRANCE/672/master.m3u8
-#EXTINF:-1 tvg-id="cstarmusic.fr" tvg-logo="https://i.imgur.com/x9LQmnB.png",CStar Hits
-http://51.159.199.88:1234/stream/freefhd/cstarhitsfhd/master.m3u8
-#EXTINF:-1 tvg-id="boom.fr",Boomerang France
-http://51.159.199.88:1234/stream/freefhd/boomerangfhd/master.m3u8
-#EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://i.imgur.com/w4kAX1V.png",CStar
-http://51.159.199.88:1234/stream/molotovfrance/cstar/master.m3u8
 #EXTINF:-1 tvg-id="citynews-ca.toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="tf1-timeshift" tvg-logo="https://i.imgur.com/YYTgMdf.png",TF1 +1
-http://51.159.199.88:1234/stream/freefhd/tf11fhd/master.m3u8
-#EXTINF:-1 tvg-id="tf2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France2
-http://51.159.199.88:1234/stream/o11v22b1bin/france2/master.m3u8
-#EXTINF:-1 tvg-id="tf3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France3
-http://51.159.199.88:1234/stream/o11v22b1bin/france3/master.m3u8
-#EXTINF:-1 tvg-id="tf4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France4
-http://51.159.199.88:1234/stream/o11v22b1bin/france4/master.m3u8
-#EXTINF:-1 tvg-id="tf5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France5
-http://51.159.199.88:1234/stream/o11v22b1bin/france5/master.m3u8
 #EXTINF:-1 tvg-id="4.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",Channel 4 UK
 http://84.203.199.198:9981/stream/channel/6de89172871f09b611a5ba6e970d447e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="e4.uk" tvg-logo="https://i.imgur.com/22MfjF4.png",E4
