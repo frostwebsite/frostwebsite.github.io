@@ -33,6 +33,10 @@ https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/43987
 #EXTINF:-1 tvg-id="cn.la",Cartoon Network LA
 http://192.141.99.3:8000/play/a05k
+#EXTINF:-1 tvg-id="nkjr1",Nick Jr. Global(?)
+http://185.236.229.62:9981/play/a065
+#EXTINF:-1 tvg-id="nk1",Nick Global
+http://37.18.239.36:8888/Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="cc.la",Comedy Central LA
 http://45.5.151.151:8000/play/a01p
 #EXTINF:-1 tvg-id="dj.pl",Disney Junior Poland (Eng+Pol tracks)
