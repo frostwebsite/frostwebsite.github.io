@@ -9,6 +9,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
 #EXTINF:-1 tvg-id="fxx.east",FXX
 http://84.17.40.25:80/FXX/index.m3u8
+#EXTINF:-1 tvg-id="eurekatv",Eureka
+http://38.252.158.1:8000/play/a007
 #EXTINF:-1 tvg-id="freeform.us",Freeform
 http://212.102.60.231/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="hbofam.us",HBO Family
@@ -225,7 +227,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="zoomoo",ZooMoo Australia
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="aztecagt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png",Azteca
+#EXTINF:-1 tvg-id="aztecagt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png",Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="9televisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/NU9VE_2018.svg",NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
@@ -416,11 +418,26 @@ https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png",Bang Bang
 http://45.90.80.250:8000/play/a013
+#EXTINF:-1 tvg-id="telehit",Telehit
+http://38.252.158.1:8000/play/a028
+#EXTINF:-1 tvg-id="candddd78",Canal+ Seriale
+http://185.236.229.62:9981/play/a054
+#EXTINF:-1 tvg-id="cdoku",Canal+ Dokument
+http://185.236.229.62:9981/play/a059
+#EXTINF:-1 tvg-id="tel2",Telehit Musica
+http://38.252.158.1:8000/play/a029
 #EXTINF:-1 tvg-id="realmadridtv.us",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="tnt.la",TNT Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165821
+#EXTINF:-1 tvg-id="starmain",Star Channel
+http://38.252.158.1:8000/play/a021
+#EXTINF:-1 tvg-id="tnt-n",TNT Novelas
+http://38.252.158.1:8000/play/a022
+#EXTINF:-1 tvg-id="tcm.la",TCM Latin America
+http://38.252.158.1:8000/play/a023
 #EXTINF:-1 tvg-id="space.mx",Space Mexico
+http://38.252.158.1:8000/play/a020
 http://168.197.196.98:9981/stream/channel/155d9f78c6d03b7aa3df5a24774c7c32
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159256
 #EXTINF:-1 tvg-id="once-kids.mx",Once Ninos
