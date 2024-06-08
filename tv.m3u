@@ -13,8 +13,10 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Di
 http://84.17.40.25:80/FXX/index.m3u8
 #EXTINF:-1 tvg-id="biggs.pt",Biggs
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level%282100000%29
-#EXTINF:-1 tvg-id="eurekatv",Eureka
+#EXTINF:-1 tvg-id="eurekatv",Eureka / Canal Capital(?)
 http://38.252.158.1:8000/play/a007
+#EXTINF:-1 tvg-id="nickjr.la",Nick Jr. LA
+http://181.78.4.186:8000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="freeform.us",Freeform
 http://212.102.60.231/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="hbofam.us",HBO Family
