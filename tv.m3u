@@ -71,6 +71,14 @@ https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
 https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-id="canal2.sv",Canal 2 El Salvador
 http://186.96.95.204:8000/play/a0cv/index.m3u8
+#EXTINF:-1 tvg-id="jimjam.pl",Polsat JimJam
+http://185.236.229.62:9981/play/a07e
+#EXTINF:-1 tvg-id="dis.pl",Disney Channel Poland
+http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 tvg-id="mtv00s",MTV 00s
+http://185.236.229.62:9981/play/a07f
+#EXTINF:-1 tvg-id="cool.id",Investigation Discovery LA
+http://38.252.158.1:8000/play/a01j
 #EXTINF:-1 tvg-id="ace.us" tvg-logo="https://i.imgur.com/qNnk6Nk.png",Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="action.us" tvg-logo="https://i.imgur.com/aMKtA68.png",Action Channel
