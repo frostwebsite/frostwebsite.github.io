@@ -11,6 +11,14 @@ http://5.181.236.159:8484/stream/canada/disneychannelcanada/master.m3u8
 http://5.181.236.159:8484/stream/canada/boomerang/master.m3u8
 #EXTINF:-1 tvg-id="ytv.ca",YTV
 http://5.181.236.159:8484/stream/canada/ytveast/master.m3u8
+#EXTINF:-1 tvg-id="t.ca",Treehouse
+http://5.181.236.159:8484/stream/canada/treehouse/master.m3u8
+#EXTINF:-1 tvg-id="cn.ca",Cartoon Network Canada
+http://5.181.236.159:8484/stream/canada/cartoonnetworkphf/master.m3u8
+#EXTINF:-1 tvg-id="f.ca",Family Canada
+http://5.181.236.159:8484/stream/canada/familyeast/master.m3u8
+#EXTINF:-1 tvg-id="f2.ca",Family Jr. Canada
+http://5.181.236.159:8484/stream/canada/familyjrhd/master.m3u8
 #EXTINF:-1 tvg-id="disjr.ca",Disney Junior Canada
 http://5.181.236.159:8484/stream/canada/disneyjuniorcanada/master.m3u8
 #EXTINF:-1 tvg-id="nick.la",Nick Panregional
