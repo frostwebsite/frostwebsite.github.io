@@ -63,6 +63,8 @@ http://fortv.cc:8080/N0QaDD/625713/53671
 https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
 #EXTINF:-1 tvg-id="tokyo.jp" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo
 https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-id="canal2.sv",Canal 2 El Salvador
+http://186.96.95.204:8000/play/a0cv/index.m3u8
 #EXTINF:-1 tvg-id="ace.us" tvg-logo="https://i.imgur.com/qNnk6Nk.png",Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="action.us" tvg-logo="https://i.imgur.com/aMKtA68.png",Action Channel
