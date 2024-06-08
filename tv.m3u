@@ -1,6 +1,18 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/ontvtonight.com/ontvtonight.com_us.channels.xml,https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml"
 #EXTINF:-1 tvg-id="BitMe.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
 http://38.252.157.62:8000/play/27
+#EXTINF:-1 tvg-id="nick.la",Nickelodeon Panregional(?) [ENG+SPA audio]
+http://168.181.122.234:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="rcnno",RCN Novelas
+http://168.181.122.234:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="tnts",TNT Series
+http://168.181.122.234:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="ae.la",A&E LA
+http://168.181.122.234:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="nickmusic2",NickMusic EMEA
+http://185.236.229.62:9981/play/a064
+#EXTINF:-1 tvg-id="telemundo.int",Telemundo Internacional
+http://168.181.122.234:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png",Adult Swim (single stream)
@@ -11,6 +23,8 @@ http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 tvg-id="fxx.east",FXX
 http://84.17.40.25:80/FXX/index.m3u8
+#EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
+http://ultimateportai.org:8080/5qYER7emJEZN/UpmJPDsLPsnM/11057
 #EXTINF:-1 tvg-id="biggs.pt",Biggs
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level%282100000%29
 #EXTINF:-1 tvg-id="eurekatv",Eureka / Canal Capital(?)
