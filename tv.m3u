@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-id="BitMe.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",BitMe
 http://38.252.157.62:8000/play/27
 #EXTINF:-1 tvg-id="dxd.ca",Disney XD Canada
+http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1915
 http://5.181.236.159:8484/stream/canada/disneyxdcanada/master.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.ca",Nick Canada
 http://5.181.236.159:8484/stream/canada/nickelodeoncanada/master.m3u8
@@ -181,6 +182,8 @@ http://84.203.199.198:9981/stream/channel/3d2d356baa55cd33d9c9698fdadc5cda
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 #EXTINF:-1 tvg-id="sun.es",Sundance Spain
 http://45.67.98.12:1234/stream/csat/sundance/master.m3u8
+#EXTINF:-1,Pop Max
+http://84.203.199.198:9981/stream/channelid/1793448986?profile=pass
 #EXTINF:-1 tvg-id="moviefe" tvg-logo="https://i.imgur.com/FqHLJmN.png",MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-id="moviesphere" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere
@@ -409,7 +412,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
 http://84.203.199.198:9981/stream/channel/b19fe2c520d3f786cc7dcc99634d384f?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1
+#EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1 (Ireland feed)
 http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
 #EXTINF:-1 tvg-id="semillitas",Semillitas
 http://45.228.234.30:16000/play/a00j/index.m3u8
@@ -521,7 +524,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://181.78.105.146:2000/play/a08m/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.us",Telemundo
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+http://thevdm.xyz:25461/live/Jennifer/Year!/19955.m3u8
+#EXTINF:1,HBO Latino
+http://thevdm.xyz:25461/live/Jennifer/Year!/52182.m3u8
 #EXTINF:-1 tvg-id="espn2.us",ESPN2
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/127365
 #EXTINF:-1 tvg-id="bobross.us",The Bob Ross Channel
@@ -594,6 +599,10 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158826
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159740
 #EXTINF:-1 tvg-id="syfy.us",Syfy
 http://212.102.60.231:80/SYFY/index.m3u8
+#EXTINF:-1,Cartoon Network West
+http://supersonictv.live:8080/live/242306/210404/21794.m3u8
+#EXTINF:-1,Pasiones
+http://supersonictv.live:8080/live/242306/210404/61825.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx",ESPN 2 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158827
 #EXTINF:-1 tvg-id="ESPN3.mx",ESPN 3 Mexico
@@ -603,9 +612,11 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/15883
 #EXTINF:-1 tvg-id="tlnovelas.mx",TLNovelas Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159095
 #EXTINF:-1 tvg-id="tlnovelas.us",Univision TLNovelas
-http://209.126.107.163:1234/stream/dtvcomplete/univisiontlnovelas/master.m3u8
+http://thevdm.xyz:25461/live/Jennifer/Year!/20033.m3u8
+#EXTINF:-1,Tr3s
+http://supersonictv.live:8080/live/242306/210404/61902.m3u8
 #EXTINF:-1 tvg-id="uptv",UPtv
-http://209.126.107.163:1234/stream/dtvcomplete/uptv/master.m3u8
+http://thevdm.xyz:25461/live/Jennifer/Year!/39858.m3u8
 #EXTINF:-1 tvg-id="tlsur",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="canal13.gt",Trecevision
@@ -685,7 +696,7 @@ http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
-http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/159135.m3u8
+http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1668
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
