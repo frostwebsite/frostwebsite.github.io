@@ -540,8 +540,6 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 http://5.181.236.159:8484/stream/zapi/cuatrohd/master.m3u8
 #EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel ES (English track)
 http://5.181.236.159:8484/stream/zapi/disneychsd/master.m3u8
-#EXTINF:-1 tvg-id="POPMax.uk",Pop Max
-https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="galatv",Galavision
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="sorianaidontwantdrinkydrinkyim15idiot",Dabl
