@@ -13,6 +13,10 @@ http://5.181.236.159:8484/stream/canada/boomerang/master.m3u8
 http://5.181.236.159:8484/stream/canada/ytveast/master.m3u8
 #EXTINF:-1 tvg-id="t.ca",Treehouse
 http://5.181.236.159:8484/stream/canada/treehouse/master.m3u8
+#EXTINF:-1,Boomerang
+http://thevdm.xyz:25461/live/Jennifer/Year!/44006.m3u8
+#EXTINF:-1,CMT
+http://thevdm.xyz:25461/live/Jennifer/Year!/39731.m3u8
 #EXTINF:-1 tvg-id="cn.ca",Cartoon Network Canada
 http://5.181.236.159:8484/stream/canada/cartoonnetworkphf/master.m3u8
 #EXTINF:-1 tvg-id="f.ca",Family Canada
