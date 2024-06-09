@@ -57,6 +57,16 @@ http://ultimateportai.org:8080/5qYER7emJEZN/UpmJPDsLPsnM/11057
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level%282100000%29
 #EXTINF:-1 tvg-id="eurekatv",Canal Capital
 http://38.252.158.1:8000/play/a007
+#EXTINF:-1,NickToons Global
+http://185.236.229.62:9981/play/a06a
+#EXTINF:-1,CBS Reality Poland
+http://185.236.229.62:9981/play/a02v
+#EXTINF:-1,BBC Brit
+http://185.236.229.62:9981/play/a06r
+#EXTINF:-1,CBeebies Poland
+http://185.236.229.62:9981/play/a06s
+#EXTINF:-1,Univision Panregional
+http://38.252.158.1:8000/play/a02k
 #EXTINF:-1 tvg-id="nickjr.la",Nick Jr. LA
 http://181.78.4.186:8000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="freeform.us",Freeform
