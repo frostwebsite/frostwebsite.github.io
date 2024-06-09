@@ -35,6 +35,9 @@ http://185.236.229.62:9981/play/a064
 http://168.181.122.234:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
+#EXTINF:-1,PBS Kids South Africa
+PBS Kids South Africa
+http://sxefpyc.mexamo.xyz:80/live/4845884733/2597608062/186796.ts
 #EXTINF:-1,Comedy Central Austria
 http://94.236.135.81:9981/stream/channelid/1411063020?ticket=FB050884A59C410F560697432E66A8F5C0C6D5ED&profile=pass
 #EXTINF:-1,Nick CEE(?)
