@@ -5,26 +5,26 @@ http://38.252.157.62:8000/play/27
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1915
 http://5.181.236.159:8484/stream/canada/disneyxdcanada/master.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.ca",Nick Canada
+http://212.102.58.155:1234/stream/canada/nickelodeoncanada/master.m3u8
 http://5.181.236.159:8484/stream/canada/nickelodeoncanada/master.m3u8
 #EXTINF:-1 tvg-id="d.ca",Disney Channel Canada
+http://212.102.58.155:1234/stream/canada/disneychannelcanada/master.m3u8
 http://5.181.236.159:8484/stream/canada/disneychannelcanada/master.m3u8
 #EXTINF:-1 tvg-id="b.ca",Boomerang Canada
+http://212.102.58.155:1234/stream/canada/boomerang/master.m3u8
 http://5.181.236.159:8484/stream/canada/boomerang/master.m3u8
 #EXTINF:-1 tvg-id="ytv.ca",YTV
+http://212.102.58.155:1234/stream/canada/ytveast/master.m3u8
 http://5.181.236.159:8484/stream/canada/ytveast/master.m3u8
-#EXTINF:-1 tvg-id="t.ca",Treehouse
-http://5.181.236.159:8484/stream/canada/treehouse/master.m3u8
 #EXTINF:-1,Boomerang
 http://thevdm.xyz:25461/live/Jennifer/Year!/44006.m3u8
 #EXTINF:-1,CMT
 http://thevdm.xyz:25461/live/Jennifer/Year!/39731.m3u8
 #EXTINF:-1 tvg-id="cn.ca",Cartoon Network Canada
+http://212.102.58.155:1234/stream/canada/cartoonnetworkphf/master.m3u8
 http://5.181.236.159:8484/stream/canada/cartoonnetworkphf/master.m3u8
-#EXTINF:-1 tvg-id="f.ca",Family Canada
-http://5.181.236.159:8484/stream/canada/familyeast/master.m3u8
-#EXTINF:-1 tvg-id="f2.ca",Family Jr. Canada
-http://5.181.236.159:8484/stream/canada/familyjrhd/master.m3u8
 #EXTINF:-1 tvg-id="disjr.ca",Disney Junior Canada
+http://212.102.58.155:1234/stream/canada/disneyjuniorcanada/master.m3u8
 http://5.181.236.159:8484/stream/canada/disneyjuniorcanada/master.m3u8
 #EXTINF:-1 tvg-id="nick.la",Nick Panregional
 http://168.181.122.234:8000/play/a028/index.m3u8
