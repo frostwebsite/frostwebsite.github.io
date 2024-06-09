@@ -35,6 +35,14 @@ http://185.236.229.62:9981/play/a064
 http://168.181.122.234:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
+#EXTINF:-1,Comedy Central Austria
+http://94.236.135.81:9981/stream/channelid/1411063020?ticket=FB050884A59C410F560697432E66A8F5C0C6D5ED&profile=pass
+#EXTINF:-1,Nick CEE(?)
+http://94.236.135.81:9981/stream/channelid/2145198913?ticket=B0FCE6C7D340112B4DA41EFA95985F327F614FDC&profile=pass
+#EXTINF:-1,Cartoon Network Bulgaria
+http://94.236.135.81:9981/stream/channelid/1399698961?ticket=891445F8D830FD57DBE2418D984C20C2A0EC4906&profile=pass
+#EXTINF:-1,Disney Channel Bulgaria
+http://94.236.135.81:9981/stream/channelid/2032488120?ticket=8430F70AEBAB0D37DD6490EA7E3A0E64F4ABBC97&profile=pass
 #EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png",Adult Swim (single stream)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.la",Disney Channel LA
