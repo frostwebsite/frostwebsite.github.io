@@ -231,16 +231,18 @@ http://86.120.245.60:9981/stream/channel/1e8d3cfe3d89617dea98605a0dbcc2de
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="mtv.jp",MTV Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 tvg-id="Nicktoons_Armenia",NickToons Armenia
+#EXTINF:-1 tvg-id="Nicktoons-global2",NickToons Global (Armenian audio)
 https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1,KidsCo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281501
 #EXTINF:-1 tvg-id="RakutenPopUK",Pop UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nhk-bs.jp",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="nhk-g.jp",NHK
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1,Discovery Turbo
+http://45.228.234.30:16000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/AFV_2004.png/revision/latest/scale-to-width-down/250?cb=20230718232723",AFV en Español
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://seeklogo.com/images/I/ign-logo-4A32DEDED6-seeklogo.com.png",IGN
