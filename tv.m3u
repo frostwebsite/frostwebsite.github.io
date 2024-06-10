@@ -667,6 +667,7 @@ http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
 #EXTINF:-1 tvg-id="b2.uk",BBC Two
 http://84.203.199.198:9981/stream/channel/6b7e7d7412e523696ee6af35dcdb9cca
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUDN
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdBzkefWT1rvdRCoj9XOyx&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOVlFycTZhM29aZmRCemtlZldUMXJ2ZFJDb2o5WE95eCIsImV4cCI6MTY1NjE5ODE4NSwiYWRfcGFycyI6eyJkZnAiOnsiaXVfdmFsdWVfZnJvbV9wYWdlIjoiL3VuZGVmaW5lZC9yZC51bml2aXNpb25fdmlkZW9fZGVwb3J0ZXMvZGFpIiwidXJsIjoiaHR0cHM6Ly93d3cudHVkbi5jb20vdHVkbi1saXZlc3RyZWFtLTI0LTciLCJwbGF5ZXJfd2lkdGgiOiI3NTMiLCJwbGF5ZXJfaGVpZ2h0IjoiNDI0IiwicHAiOiJEZXNrdG9wQml0UmF0ZXMiLCJtdnBkIjoidGVtcF9wYXNzIn19LCJ2aWQiOiJhZHN0a1pqME52S3F6QjZlIiwidXNlcl9wYXJzIjp7InByZWZlcnJlZF9jZG4iOnsibmFtZSI6ImFrYW1haSIsImZvcmNlIjp0cnVlfX19.Y9JMF-b_SUsCZ3WMkjU1cmNkiHvT7lmvYLsVbCx-Dhg
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",TBS
 http://143.244.60.30/TBS/index.m3u8
