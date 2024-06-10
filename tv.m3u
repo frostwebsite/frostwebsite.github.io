@@ -42,7 +42,7 @@ http://168.181.122.234:8000/play/a011/index.m3u8
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1,PBS Kids South Africa
 http://sxefpyc.mexamo.xyz:80/live/4845884733/2597608062/186796.ts
-#EXTINF:-1,Comedy Central Austria
+#EXTINF:-1,Nick/Comedy Central Austria
 http://94.236.135.81:9981/stream/channelid/1411063020?ticket=FB050884A59C410F560697432E66A8F5C0C6D5ED&profile=pass
 #EXTINF:-1,Nick CEE(?)
 http://94.236.135.81:9981/stream/channelid/2145198913?ticket=B0FCE6C7D340112B4DA41EFA95985F327F614FDC&profile=pass
@@ -416,7 +416,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
 http://84.203.199.198:9981/stream/channel/b19fe2c520d3f786cc7dcc99634d384f?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1 (Ireland feed)
+#EXTINF:-1 tvg-id="poptimeshift.uk",Pop +1
 http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
 #EXTINF:-1 tvg-id="semillitas",Semillitas
 http://45.228.234.30:16000/play/a00j/index.m3u8
@@ -476,7 +476,7 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="wackchannel",Nosey Judge Karen's Court
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
-#EXTINF:-1 tvg-id="cn.idk",Cartoon Network (Unknown feed, Russian audio)
+#EXTINF:-1 tvg-id="cn.idk",Cartoon Network RSEE
 http://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 tvg-id="jjhhhhyyegggettddyyshh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cufo_TV.png/640px-Cufo_TV.png",Cufo
 http://45.90.80.250:8000/play/a01c
