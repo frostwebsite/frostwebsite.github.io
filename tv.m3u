@@ -271,11 +271,18 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryH_H_LA",Discovery H&H LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159160
+#EXTINF:-1,ActionMax
+http://thevdm.xyz:25461/Jennifer/Year!/34460
+#EXTINF:-1,beIN Sports en Español
+http://thevdm.xyz:25461/Jennifer/Year!/19848
 #EXTINF:-1 tvg-id="cinecanalcanal",Cinecanal
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159212
+#EXTINF:-1,The CW
+http://thevdm.xyz:25461/Jennifer/Year!/85977
 #EXTINF:-1 tvg-id="britboxFAST.us",Britbox Mysteries
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
+http://fl2.moveonjoy.com/CNN/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="rakutenfam.eu",Rakuten Family EU
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -683,14 +690,20 @@ http://thevdm.xyz:25461/live/Jennifer/Year!/39705.m3u8
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-id="HBOfam",HBO Family LA
 http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1,TeenNick Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="CC",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="bether.us",BET Her
 http://212.102.60.231:80/BET_HER/index.m3u8
+#EXTINF:-1,BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="okay-uhhh",Canal Infantil
 http://38.252.158.1:8000/play/a00a
 #EXTINF:-1 tvg-id="mtv.us",MTV
 https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1,Caracol Internacional
+https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/27978
 #EXTINF:-1 tvg-id="VHuno",VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="investigation-discovery",Investigation Discovery
@@ -699,8 +712,10 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/31434.ts
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="unimas.us",UniMas
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
+#EXTINF:-1,ESPNU
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1668
+http://thevdm.xyz:25461/Jennifer/Year!/20880
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
