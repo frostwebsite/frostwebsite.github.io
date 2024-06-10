@@ -56,6 +56,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
 #EXTINF:-1 tvg-id="disney.pt",Disney Channel Portugal
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 tvg-id="disneyjr.pt", Disney Junior PT
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Junior_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ9_/Level(5242880)
 #EXTINF:-1 tvg-id="fxx.east",FXX
 http://84.17.40.25:80/FXX/index.m3u8
 #EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
