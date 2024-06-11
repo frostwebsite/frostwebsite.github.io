@@ -184,8 +184,6 @@ http://84.203.199.198:9981/stream/channel/926b6a23a608fa621805db7f391cd09d
 http://84.203.199.198:9981/stream/channel/3d2d356baa55cd33d9c9698fdadc5cda
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
-#EXTINF:-1 tvg-id="sun.es",Sundance Spain
-http://45.67.98.12:1234/stream/csat/sundance/master.m3u8
 #EXTINF:-1,Pop Max
 http://84.203.199.198:9981/stream/channelid/1793448986?profile=pass
 #EXTINF:-1 tvg-id="moviefe" tvg-logo="https://i.imgur.com/FqHLJmN.png",MovieFe
