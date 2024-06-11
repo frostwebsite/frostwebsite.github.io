@@ -338,6 +338,8 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158667
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158669
 #EXTINF:-1 tvg-id="discofamlat.us",Discovery Familia
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165457
+#EXTINF:-1 tvg-id="Disney Channel Spain",Disney Channel ES
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="bbchome.us",BBC Home & Garden
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="canal21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",Canal 21
