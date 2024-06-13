@@ -18,6 +18,8 @@ http://212.102.58.155:1234/stream/canada/ytveast/master.m3u8
 http://5.181.236.159:8484/stream/canada/ytveast/master.m3u8
 #EXTINF:-1,Boomerang
 http://thevdm.xyz:25461/Jennifer/Year!/44006
+#EXTINF:-1,Telemundo Novelas
+https://r.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 #EXTINF:-1,CMT
 http://thevdm.xyz:25461/Jennifer/Year!/39731
 #EXTINF:-1 tvg-id="cn.ca",Cartoon Network Canada
@@ -124,6 +126,8 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="as.la",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
+#EXTINF:-1,Garfield & Friends 24/7
+https://r.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 #EXTINF:-1,W UK
 http://185.138.159.106:9981/stream/channel/a6b31f4ebcb16e7b1b3fc82697255309
 #EXTINF:-1,Really UK
@@ -189,7 +193,11 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png",Discovery Kids Panregional
 http://181.78.105.146:8800/play/a06j
 #EXTINF:-1 tvg-id="nick-la.pluto",Nickelodeon en Español
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+https://r.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
+#EXTINF:-1,Kitchen Nightmares 24/7
+https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+#EXTINF:-1,Hell's Kitchen 24/7
+https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
 #EXTINF:-1 tvg-id="samuraijack" tvg-logo="https://i.imgur.com/UOZ4VTH.png",Samurai Jack 24/7
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="enfamilia.es",Enfamilia
