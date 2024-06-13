@@ -124,6 +124,10 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="as.la",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
+#EXTINF:-1,W UK
+http://185.138.159.106:9981/stream/channel/a6b31f4ebcb16e7b1b3fc82697255309
+#EXTINF:-1,Really UK
+http://185.138.159.106:9981/stream/channel/387dd3d9cf82e726edefc9f075fc614f
 #EXTINF:-1 tvg-id="ds.mx",Disney Junior Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159129
 #EXTINF:-1 tvg-id="asdaily",Adult Swim Daily Animated
@@ -131,7 +135,27 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 http://45.11.190.178:8000/play/003/index.m3u8
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
-http://fortv.cc:8080/N0QaDD/625713/53671
+http://185.138.159.106:9981/stream/channel/2ee4d49cda95824d3117bd5f8343868d
+#EXTINF:-1,BBC Three
+http://185.138.159.106:9981/stream/channel/96aa230142c3e68f6ca7eeca5ea42c03
+#EXTINF:-1,DMAX UK
+http://185.138.159.106:9981/stream/channel/53bb4b0ab123e8632ae68324e3ae090a
+#EXTINF:-1,BBC Four
+http://185.138.159.106:9981/stream/channel/383a24a20e010b3a02e5e4760448ac27
+#EXTINF:-1,Blaze UK
+http://185.138.159.106:9981/stream/channel/4fe913a9f1323b1f79bb059e5f48cb0e
+#EXTINF:-1,5ACTION
+http://185.138.159.106:9981/stream/channel/44e98a2926b2ae84c5990380c815b501
+#EXTINF:-1,5SELECT
+http://185.138.159.106:9981/stream/channel/de112ff60f4210ded4f5ad54dc2b633b
+#EXTINF:-1,5STAR
+http://185.138.159.106:9981/stream/channel/286c09932ebcc200544ee7f7d4c5a669
+#EXTINF:-1,Sky Mix
+http://185.138.159.106:9981/stream/channel/b774fa5beab1eeca952e0bcc2f8c1d83
+#EXTINF:-1,Sky Arts
+http://185.138.159.106:9981/stream/channel/c75b2be1ca5da92f20f761a4fbe76c13
+#EXTINF:-1,4seven
+http://185.138.159.106:9981/stream/channel/713edb6e9f5eda8cde694a96b9aa2b29
 #EXTINF:-1 tvg-id="tbs.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png",TBS Japan
 https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
 #EXTINF:-1 tvg-id="tokyo.jp" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo
