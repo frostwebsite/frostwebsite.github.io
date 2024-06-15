@@ -33,6 +33,8 @@ http://94.236.135.81:9981/stream/channelid/2145198913?ticket=B0FCE6C7D340112B4DA
 http://94.236.135.81:9981/stream/channelid/1399698961?ticket=891445F8D830FD57DBE2418D984C20C2A0EC4906&profile=pass
 #EXTINF:-1,Disney Channel Bulgaria
 http://94.236.135.81:9981/stream/channelid/2032488120?ticket=8430F70AEBAB0D37DD6490EA7E3A0E64F4ABBC97&profile=pass
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us",Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png",Adult Swim (single stream)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.la",Disney Channel LA
