@@ -104,9 +104,9 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="sonynovelas",Sony Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="as.la",Adult Swim LA
+http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="fxx.us",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
-http://38.7.223.20:8000/play/a02l
 #EXTINF:-1,Garfield & Friends 24/7
 https://r.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 #EXTINF:-1,W UK
