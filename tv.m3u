@@ -255,6 +255,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f8
 http://86.120.245.60:9981/stream/channel/d99ae27ffc3f586789b27bd51383846c
 #EXTINF:-1 tvg-id="mtv00s",MTV 00s Europe
 http://86.120.245.60:9981/stream/channel/1e8d3cfe3d89617dea98605a0dbcc2de
+#EXTINF:-1 tvg-id="DisneyChannel.jp",Disney Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
