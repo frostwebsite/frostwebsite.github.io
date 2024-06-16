@@ -3,6 +3,8 @@
 http://38.252.157.62:8000/play/27
 #EXTINF:-1 tvg-id="dxd.ca",Disney XD Canada
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1915
+#EXTINF:-1,DHE
+http://190.14.242.93:8086/play/a02k
 #EXTINF:-1,Boomerang
 http://thevdm.xyz:25461/Jennifer/Year!/44006
 #EXTINF:-1,Telemundo Novelas
@@ -51,6 +53,7 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.la",Disney Channel LA
 http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
+http://190.14.242.93:8086/play/a020
 #EXTINF:-1,Discovery Kids India
 http://144.24.62.197:9981/stream/channel/37f7c370718e596d907c9f1349870f74
 #EXTINF:-1,Disney Junior India
@@ -98,6 +101,7 @@ https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 #EXTINF:-1 tvg-id="ae.east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E
 http://thevdm.xyz:25461/Jennifer/Year!/43987
 #EXTINF:-1 tvg-id="cn.la",Cartoon Network Colombia
+http://190.14.242.93:8086/play/a020
 http://192.141.99.3:8000/play/a05k
 #EXTINF:-1 tvg-id="nickjr.ru",Nick Jr. Russia
 https://bkm.beetv.kz/btv/live/hls/000000449.m3u8
@@ -300,14 +304,18 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/35022
 http://84.203.199.198:9981/stream/channel/fcbcbdbbc7cb8f1bb1d014070b7994bc
 #EXTINF:-1 tvg-id="tc2.uk",TRUE Crime Xtra
 http://84.203.199.198:9981/stream/channel/83032b3211580e6ab5e444bd8efb5162
+#EXTINF:-1,RCN
+http://190.14.242.93:8086/play/a01h
 #EXTINF:-1 tvg-id="q2.uk",QVC Extra UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 #EXTINF:-1 tvg-id="q3.uk",QVC Style UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:-1 tvg-id="q4.uk",QVC Beauty UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryH_H_LA",Discovery H&H LA
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159160
+#EXTINF:-1 tvg-id="DiscoveryH_H_LA",Discovery H&H
+http://190.14.242.93:8086/play/a01b
+#EXTINF:-1,Universal TV
+http://190.14.242.93:8086/play/a01c
 #EXTINF:-1,ActionMax
 http://thevdm.xyz:25461/Jennifer/Year!/34460
 #EXTINF:-1,beIN Sports en Español
