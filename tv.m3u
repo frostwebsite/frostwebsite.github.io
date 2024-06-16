@@ -11,6 +11,8 @@ http://thevdm.xyz:25461/Jennifer/Year!/44006
 https://r.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 #EXTINF:-1,NickToons South Africa
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281534
+#EXTINF:-1, 7+/Nickelodeon
+http://82.64.147.221:9981/stream/channel/2b10f14110197f0e398515193e94ec72
 #EXTINF:-1,CMT
 http://thevdm.xyz:25461/Jennifer/Year!/39731
 #EXTINF:-1 tvg-id="nick.la",Nick Panregional
@@ -614,6 +616,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="eiuhzu",Nick Jr.
 http://thevdm.xyz:25461/live/Jennifer/Year!/20874.m3u8
 #EXTINF:-1 tvg-id="lecjeijes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
+http://82.64.147.221:9981/stream/channel/c7b90a5526c78928bad2fb2a9a97cd79
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="lecjeijez" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png",La 2
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.m3u8
