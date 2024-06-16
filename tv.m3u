@@ -23,10 +23,18 @@ http://168.181.122.234:8000/play/a010/index.m3u8
 http://185.236.229.62:9981/play/a064
 #EXTINF:-1 tvg-id="telemundo.int",Telemundo Internacional
 http://168.181.122.234:8000/play/a011/index.m3u8
+#EXTINF:-1,Disney Channel India
+http://144.24.62.197:9981/stream/channel/4af403e1c2f041188d146b543adc5668
 #EXTINF:-1 tvg-id="MeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",MeTV
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1,PBS Kids South Africa
 http://sxefpyc.mexamo.xyz:80/live/4845884733/2597608062/186796.ts
+#EXTINF:-1,Cartoon Network India
+http://144.24.62.197:9981/stream/channel/ee7009ac506e80d55f6f5d3de0b713ac
+#EXTINF:-1,Nick India
+http://144.24.62.197:9981/stream/channel/249cb007cee905073e730f8e64a3266b
+#EXTINF:-1,Nick HD+ India
+http://144.24.62.197:9981/stream/channel/6e9cc5bc9fb37115dddf59047db21850
 #EXTINF:-1,Nick/Comedy Central Austria
 http://94.236.135.81:9981/stream/channelid/1411063020?ticket=FB050884A59C410F560697432E66A8F5C0C6D5ED&profile=pass
 #EXTINF:-1,Nick CEE(?)
@@ -41,6 +49,10 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.la",Disney Channel LA
 http://168.197.196.98:9981/stream/channel/cb87d6081f8d7ab78990665d10dccd68
+#EXTINF:-1,Discovery Kids India
+http://144.24.62.197:9981/stream/channel/37f7c370718e596d907c9f1349870f74
+#EXTINF:-1,Disney Junior India
+http://144.24.62.197:9981/stream/channel/d6ae7d5b9dfad06bcb98bdcd0a1f7455
 #EXTINF:-1 tvg-id="cn.uk",Cartoon Network UK
 http://84.203.199.198:9981/stream/service/1fddaddbcdee82e7513f38906cd62cb7
 #EXTINF:-1,Cartoon Network UK +1
