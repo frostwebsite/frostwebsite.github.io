@@ -109,7 +109,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/43987
 #EXTINF:-1 tvg-id="cn.la",Cartoon Network Colombia
 http://190.14.242.93:8086/play/a020
 http://192.141.99.3:8000/play/a05k
-#EXTINF:-1 tvg-id="nickjr.ru",Nick Jr. Russia
+#EXTINF:-1 tvg-id="nickjr3",Nick Jr. CIS
 https://bkm.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 tvg-id="nkjr1",Nick Jr. Global(?)
 http://185.236.229.62:9981/play/a065
