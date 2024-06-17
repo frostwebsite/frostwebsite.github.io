@@ -3,6 +3,8 @@
 http://38.252.157.62:8000/play/27
 #EXTINF:-1 tvg-id="dxd.ca",Disney XD Canada
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1915
+#EXTINF:-1 tvg-id="disneych.ca",Disney Channel Canada
+http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1916
 #EXTINF:-1,DHE
 http://190.14.242.93:8086/play/a02k
 #EXTINF:-1,Boomerang
