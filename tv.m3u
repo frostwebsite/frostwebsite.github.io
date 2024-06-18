@@ -7,6 +7,8 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1915
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1916
 #EXTINF:-1,DHE
 http://190.14.242.93:8086/play/a02k
+#EXTINF:-1,WatchMojo
+https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TeleUp_WatchMojo/b948d6f9-6877-4976-b052-0ebaae04fd20/5.m3u8
 #EXTINF:-1,Boomerang
 http://thevdm.xyz:25461/Jennifer/Year!/44006
 #EXTINF:-1,Telemundo Novelas
@@ -19,6 +21,8 @@ http://82.64.147.221:9981/stream/channel/2b10f14110197f0e398515193e94ec72
 http://168.197.196.98:9981/stream/channel/a4f0e51c2b175ac3e9a0868b94294666
 #EXTINF:-1,CMT
 http://thevdm.xyz:25461/Jennifer/Year!/39731
+#EXTINF:-1,FX CIS
+http://stream01.vnet.am/Fox/video.m3u8
 #EXTINF:-1 tvg-id="nick.la",Nick Panregional
 http://168.181.122.234:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="rcnno",RCN Novelas
@@ -705,6 +709,8 @@ http://185.236.229.62:9981/play/a064
 http://212.102.60.231:80/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
+#EXTINF:-1,Multimedios (Canal 6 Mexico)
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="9LifeSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png?20211019042107",9Life
