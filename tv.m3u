@@ -153,12 +153,15 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 http://45.11.190.178:8000/play/003/index.m3u8
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
 http://185.138.159.106:9981/stream/channel/2ee4d49cda95824d3117bd5f8343868d
+https://photocalltv.site/h3ct/fo.m3u8?ch=itv2
 #EXTINF:-1,BBC Three
 http://185.138.159.106:9981/stream/channel/96aa230142c3e68f6ca7eeca5ea42c03
 #EXTINF:-1,DMAX UK
 http://185.138.159.106:9981/stream/channel/53bb4b0ab123e8632ae68324e3ae090a
 #EXTINF:-1,BBC Four
 http://185.138.159.106:9981/stream/channel/383a24a20e010b3a02e5e4760448ac27
+#EXTINF:-1,PIX11
+https://dcs-live-ue1.mp.lura.live/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-0&anvsid=m177618737-n6ee544c7a73b78c724c4d2d09a5cd878&ts=1718749047&anvtrid=74ad39aacd48e2b095e16c15b4a5c170
 #EXTINF:-1,Blaze UK
 http://185.138.159.106:9981/stream/channel/4fe913a9f1323b1f79bb059e5f48cb0e
 #EXTINF:-1,5ACTION
@@ -276,13 +279,17 @@ http://86.120.245.60:9981/stream/channel/1e8d3cfe3d89617dea98605a0dbcc2de
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:1 tvg-id="AT-X.jp",AT-X
 https://neetball.net/live/neet3.m3u8
+#EXTINF:-1,Telemadrid
+https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
+#EXTINF:-1,Guatevision
+https://live-c.cf.dmcdn.net/sec2(vzQGks1c3xSMdWZWctaRKn9jKD3bJKnisAG4YVVOx2gPXu6nNC5mQxHv_pWt0zSfYeJdvutEeujv1VEJjDAgrj5XHN3nyQPiiKT8laE2EP4)/dm/3/x8lth64/s/live-2.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.jp",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="Nicktoons-global2",NickToons Global (Armenian audio)
+#EXTINF:-1 tvg-id="Nicktoons-cis",NickToons CIS
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1,KidsCo
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281501
