@@ -31,6 +31,10 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 https://26363.live.streamtheworld.com/WZPWFM.mp3?dist=onlineradiobox
 #EXTINF:-1,MyxRadio
 https://ice55.securenetsystems.net/DASH62
+#EXTINF:-1,Xtrema 101.3 Guatemala
+https://alba-gt-chapinradio-xtrema.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,Clasica 106.5 Guatemala
+https://26183.live.streamtheworld.com/CLASICA_1065AAC_SC
 #EXTINF:-1,One FM Spain
 https://azura.streamingradio.online/radio/8050/onefm.mp3
 #EXTINF:-1,La X 103.1
@@ -39,6 +43,8 @@ https://prod-3-87-146-226.amperwave.net/eldorado-kxvvfmaac-ibc1?
 https://24413.live.streamtheworld.com/KCMLAAC.aac?dist=onlineradiobox
 #EXTINF:-1,K104.7 New York
 https://ais-sa1.streamon.fm/7835_128k.aac?_=206692
+#EXTINF:-1,LOS40 Guatemala
+https://25053.live.streamtheworld.com/LOS40_GUATEMALAAAC.aac
 #EXTINF:-1,96.9 WINK FM
 https://26223.live.streamtheworld.com/WINKFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,97.5 MeTV FM
@@ -47,7 +53,7 @@ https://d25j5qm9y8ulag.cloudfront.net/1392/42537bfe248b1cba08b0e3c4ec74f612/4253
 https://19253.live.streamtheworld.com/KEZEFMAAC_SC?dist=onlineradiobox
 #EXTINF:-1,WALK 97.5
 https://19813.live.streamtheworld.com/WALKFMAAC.aac?dist=tg&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=ba6cedcf-992c-4fdc-aa76-553e806eb625
-#EXTINF:-1 WRAL Mix 101.5
+#EXTINF:-1,WRAL Mix 101.5
 https://ais-sa8.cdnstream1.com/2748_64.aac
 #EXTINF:-1,96.5 KOIT
 https://bonneville.cdnstream1.com/2624_48.aac
