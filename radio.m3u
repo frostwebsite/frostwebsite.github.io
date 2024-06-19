@@ -23,6 +23,18 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 https://ample.revma.ihrhls.com/zc1469/49_v2r1t5sigcdd02/playlist.m3u8?zip=&streamid=1469&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=8518754403&aw_0_1st.skey=8518754403&host=webapp.US&playedFrom=157&stationid=1469&territory=US
 #EXTINF:-1,Hot 97 NY
 https://24083.live.streamtheworld.com/WQHTFMAAC.aac
+#EXTINF:-1,MEGA 107.7 Guatemala
+https://15693.live.streamtheworld.com/LA_MEGA.mp3
+#EXTINF:-1,NDR 1
+https://d131.rndfnk.com/ard/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3?cid=01FBQ1T52FB81EDG99JE36KN5J&sid=2i75hNoKjj1xKPc2dPfSG9hjGEm&token=jbTFiW71hO-LUZqlDpKbfd-NQByiE7Zef2qobGD1pTo&tvf=LTULjWqV2hdkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Cherie FM
+https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?origine=radiogarden&cdn_path=adswizz_lbs12&access_token=c5a01e88bee44759a041ace622486e81
+#EXTINF:-1,Electro Swing Revolution
+https://streamer.radio.co/s2c3cc784b/listen
+#EXTINF:-1,Stereo 100.3 Guatemala
+https://sh1.radioonlinehd.com:8056/stream
+#EXTINF:-1,La Patrona Guatemala
+https://play10.tikast.com/proxy/lajefacoatepeque?mp=/stream
 #EXTINF:-1,Global Hits Colombia
 https://stream.zeno.fm/e3r11d73sfeuv
 #EXTINF:-1,Q102 Ireland
