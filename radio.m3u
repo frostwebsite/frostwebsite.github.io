@@ -23,6 +23,10 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 https://ample.revma.ihrhls.com/zc1469/49_v2r1t5sigcdd02/playlist.m3u8?zip=&streamid=1469&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=8518754403&aw_0_1st.skey=8518754403&host=webapp.US&playedFrom=157&stationid=1469&territory=US
 #EXTINF:-1,Hot 97 NY
 https://24083.live.streamtheworld.com/WQHTFMAAC.aac
+#EXTINF:-1,Nova 100 Australia
+https://19273.live.streamtheworld.com/NOVA_100_AAC48.aac
+#EXTINF:-1,Hope 103.2 Australia
+https://stream.hopemedia.com.au/hope-mp3
 #EXTINF:-1,MEGA 107.7 Guatemala
 https://15693.live.streamtheworld.com/LA_MEGA.mp3
 #EXTINF:-1,NDR 1
