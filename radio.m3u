@@ -15,8 +15,6 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio 4 Extra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
-#EXTINF:-1,BBC Radio 5 Sports Extra
-http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Asian Network
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC World Service
@@ -25,10 +23,30 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 https://ample.revma.ihrhls.com/zc1469/49_v2r1t5sigcdd02/playlist.m3u8?zip=&streamid=1469&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=8518754403&aw_0_1st.skey=8518754403&host=webapp.US&playedFrom=157&stationid=1469&territory=US
 #EXTINF:-1,Hot 97 NY
 https://24083.live.streamtheworld.com/WQHTFMAAC.aac
+#EXTINF:-1,Global Hits Colombia
+https://stream.zeno.fm/e3r11d73sfeuv
+#EXTINF:-1,Q102 Ireland
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1,RTE Gold
+https://icecast.rte.ie/gold
+#EXTINF:-1,RTE Radio 1
+http://icecast.rte.ie/radio1
+#EXTINF:-1,RTE Radio 1 Extra
+http://icecast.rte.ie/radio1extra
+#EXTINF:-1,RTE Lyric
+http://icecast.rte.ie/lyric
+#EXTINF:-1,RTE Pulse
+http://icecast.rte.ie/pulse
+#EXTINF:-1,RTE Radio 2
+https://icecast.rte.ie/2fm
 #EXTINF:-1,KTU 103.5 NY
 https://stream.revma.ihrhls.com/zc1473
 #EXTINF:-1,WXLO 104.5
 https://24413.live.streamtheworld.com/WXLOFMAAC.aac
+#EXTINF:-1,Capital (South)
+https://media-ice.musicradio.com/CapitalBirminghamMP3?.mp3
+#EXTINF:-1,Capital (North)
+https://media-ice.musicradio.com/CapitalEdinburghMP3?.mp3
 #EXTINF:-1,97.9 Aktiva FM
 https://s18.myradiostream.com:9314/;
 #EXTINF:-1,Cool 102 FM
