@@ -19,6 +19,38 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_ra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:-1,One FM Spain
+https://azura.streamingradio.online/radio/8050/onefm.mp3
+#EXTINF:-1,La X 103.1
+https://prod-3-87-146-226.amperwave.net/eldorado-kxvvfmaac-ibc1?
+#EXTINF:-1,99.9 LITE FM
+https://24413.live.streamtheworld.com/KCMLAAC.aac?dist=onlineradiobox
+#EXTINF:-1,K104.7 New York
+https://ais-sa1.streamon.fm/7835_128k.aac?_=206692
+#EXTINF:-1,96.9 WINK FM
+https://26223.live.streamtheworld.com/WINKFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,97.5 MeTV FM
+https://d25j5qm9y8ulag.cloudfront.net/1392/42537bfe248b1cba08b0e3c4ec74f612/42537bfe248b1cba08b0e3c4ec74f612_44610.aac?sid=6903
+#EXTINF:-1,Hot 96.9 Washington
+https://19253.live.streamtheworld.com/KEZEFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1,WALK 97.5
+https://19813.live.streamtheworld.com/WALKFMAAC.aac?dist=tg&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=ba6cedcf-992c-4fdc-aa76-553e806eb625
+#EXTINF:-1 WRAL Mix 101.5
+https://ais-sa8.cdnstream1.com/2748_64.aac
+#EXTINF:-1,96.5 KOIT
+https://bonneville.cdnstream1.com/2624_48.aac
+#EXTINF:-1,Blue Radio Kenya
+https://scraper2.onlineradiobox.com/ke.blue
+#EXTINF:-1,Hot 101.9
+https://scraper2.onlineradiobox.com/us.hot1019fm
+#EXTINF:-1,107.9 The Mix
+https://scraper2.onlineradiobox.com/us.wntr
+#EXTINF:-1,Juntos Radio
+https://stream20.usastreams.com/8052/;
+#EXTINF:-1,Q Summer
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema_high.aac?aw_0_1st.playerId=redirect
+#EXTINF:-1,Y-102
+https://scraper2.onlineradiobox.com/us.kzxy
 #EXTINF:-1,Z100 NY
 https://ample.revma.ihrhls.com/zc1469/49_v2r1t5sigcdd02/playlist.m3u8?zip=&streamid=1469&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=8518754403&aw_0_1st.skey=8518754403&host=webapp.US&playedFrom=157&stationid=1469&territory=US
 #EXTINF:-1,Hot 97 NY
