@@ -9,6 +9,16 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_t
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio 5
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1,181.FM The Beat
+https://listen.181fm.com/181-beat_128k.mp3
+#EXTINF:-1,202.FM Hot Jamz
+https://scraper2.onlineradiobox.com/us.202hotjamz?l=1718832577
+#EXTINF:-1,Monstercat 24/7
+https://ice55.securenetsystems.net/DASH63
+#EXTINF:-1,WPMZ Power FM
+https://ice6.securenetsystems.net:80/WPMZ
+#EXTINF:-1,WMEZ Hot 94.1
+https://19803.live.streamtheworld.com/WMEZFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,BBC Radio 6
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio 1Xtra
@@ -19,6 +29,10 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_ra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:-1,Z92.3
+https://26363.live.streamtheworld.com/WZPWFM.mp3?dist=onlineradiobox
+#EXTINF:-1,MyxRadio
+https://ice55.securenetsystems.net/DASH62
 #EXTINF:-1,One FM Spain
 https://azura.streamingradio.online/radio/8050/onefm.mp3
 #EXTINF:-1,La X 103.1
