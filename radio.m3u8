@@ -25,6 +25,84 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 https://ample.revma.ihrhls.com/zc1469/49_v2r1t5sigcdd02/playlist.m3u8?zip=&streamid=1469&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=8518754403&aw_0_1st.skey=8518754403&host=webapp.US&playedFrom=157&stationid=1469&territory=US
 #EXTINF:-1,Hot 97 NY
 https://24083.live.streamtheworld.com/WQHTFMAAC.aac
+#EXTINF:-1,KTU 103.5 NY
+https://stream.revma.ihrhls.com/zc1473
+#EXTINF:-1,WXLO 104.5
+https://24413.live.streamtheworld.com/WXLOFMAAC.aac
+#EXTINF:-1,97.9 Aktiva FM
+https://s18.myradiostream.com:9314/;
+#EXTINF:-1,Cool 102 FM
+https://stream.revma.ihrhls.com/zc6757
+#EXTINF:-1,Capital Dance UK
+https://media-ssl.musicradio.com/CapitalDance
+#EXTINF:-1,Capital Xtra
+https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3
+#EXTINF:-1,Y100 Miami
+https://n1ba-e2.revma.ihrhls.com/zc561
+#EXTINF:-1,WAXQ 104.3
+https://stream.revma.ihrhls.com/zc1465
+#EXTINF:-1,WGBH
+https://wgbh-live.streamguys1.com/wgbh-aac
+#EXTINF,B87.7 FM MA
+https://streamer.radio.co/s883e1674e/listen
+#EXTINF:-1,Heart London
+https://ice-sov.musicradio.com/HeartLondonMP3
+#EXTINF:-1,Heart 70s
+https://media-ssl.musicradio.com/Heart70s
+#EXTINF:-1,Mix 106.5 Mexico
+https://25093.live.streamtheworld.com/XHDFMFMAAC_SC
+#EXTINF:-1,Heart 80s
+https://media-ssl.musicradio.com/Heart80s
+#EXTINF:-1,Heart 90s
+https://media-ssl.musicradio.com/Heart90s
+#EXTINF:-1,Heart Dance
+https://media-ssl.musicradio.com/HeartDance
+#EXTINF:-1,XEDA Imagen
+https://26193.live.streamtheworld.com/XEDAFMAAC.aac
+#EXTINF:-1,LOS40
+https://27743.live.streamtheworld.com/LOS40.mp3
+#EXTINF:-1,LOS40 Classic
+https://22183.live.streamtheworld.com/LOS40_CLASSIC.mp3
+#EXTINF:-1,LOS40 Dance
+https://27913.live.streamtheworld.com/LOS40_DANCE.mp3
+#EXTINF:-1,LOS40 Urban
+https://23543.live.streamtheworld.com/LOS40_URBAN.mp3
+#EXTINF:-1,LOS40 Mexico
+https://14153.live.streamtheworld.com/LOS40_MEXICOAAC.aac
+#EXTINF:-1,102.3 The Whale
+https://crystalout.surfernetwork.com:8001/WDRC-FM_MP3
+#EXTINF:-1,Virgin Radio Anthems
+https://radio.virginradio.co.uk/stream-anthems
+#EXTINF:-1,102.7 KIIS FM
+https://stream.revma.ihrhls.com/zc185
+#EXTINF:-1,103.5 KOST FM
+https://stream.revma.ihrhls.com/zc193
+#EXTINF:-1,103.5 KISS FM
+https://stream.revma.ihrhls.com/zc849
+#EXTINF:-1,WGCI 107.5
+https://stream.revma.ihrhls.com/zc841
+#EXTINF:-1 WPNA 103.1
+https://s4.yesstreaming.net:17078/stream
+#EXTINF:-1,J1 Tokyo
+https://jenny.torontocast.com:2000/stream/J1HITS
+#EXTINF:-1,J1 Extra
+https://jenny.torontocast.com:2000/stream/J1XTRA
+#EXTINF:-1,J1 Gold
+https://jenny.torontocast.com:2000/stream/J1GOLD
+#EXTINF:-1,Q107 Canada
+https://corus.leanstream.co/CILQFM
+#EXTINF:-1,Mega 101.7
+http://146.71.118.220:35050/stream
+#EXTINF:-1,Virgin Radio
+https://radio.virginradio.co.uk/stream
+#EXTINF:-1,Capital Xtra Reloaded
+https://media-ssl.musicradio.com/CapitalXTRAReloaded
+#EXTINF:-1,105.9 The River
+https://stream.revma.ihrhls.com/zc429
+#EXTINF:-1,Power 105.1 NY
+https://stream.revma.ihrhls.com/zc1481
+#EXTINF:-1,106.7 Lite FM NY
+https://n11a-e2.revma.ihrhls.com/zc1477
 #EXTINF:-1 tvg-id="vern1",Vern Hip-Hop
 https://radio.vern.cc/hip-hop.ogg.m3u
 #EXTINF:-1 tvg-id="vern2",Vern Lo-Fi
