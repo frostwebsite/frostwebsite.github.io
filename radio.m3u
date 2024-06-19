@@ -10,9 +10,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_
 #EXTINF:-1,BBC Radio 5
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1,181.FM The Beat
-https://listen.181fm.com/181-beat_128k.mp3
-#EXTINF:-1,202.FM Hot Jamz
-https://scraper2.onlineradiobox.com/us.202hotjamz?l=1718832577
+http://relay.181.fm:8054
 #EXTINF:-1,Monstercat 24/7
 https://ice55.securenetsystems.net/DASH63
 #EXTINF:-1,WPMZ Power FM
@@ -53,18 +51,16 @@ https://19813.live.streamtheworld.com/WALKFMAAC.aac?dist=tg&tdsdk=js-2.9&swm=fal
 https://ais-sa8.cdnstream1.com/2748_64.aac
 #EXTINF:-1,96.5 KOIT
 https://bonneville.cdnstream1.com/2624_48.aac
-#EXTINF:-1,Blue Radio Kenya
-https://scraper2.onlineradiobox.com/ke.blue
 #EXTINF:-1,Hot 101.9
-https://scraper2.onlineradiobox.com/us.hot1019fm
+https://ice1.amtstreaming.com:8443/krsqfm
 #EXTINF:-1,107.9 The Mix
-https://scraper2.onlineradiobox.com/us.wntr
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNTRFMAAC_SC?dist=onlineradiobox
 #EXTINF:-1,Juntos Radio
 https://stream20.usastreams.com/8052/;
 #EXTINF:-1,Q Summer
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema_high.aac?aw_0_1st.playerId=redirect
 #EXTINF:-1,Y-102
-https://scraper2.onlineradiobox.com/us.kzxy
+https://live.amperwave.net/manifest/eldorado-kzxyfmaac-ibc2
 #EXTINF:-1,Z100 NY
 https://ample.revma.ihrhls.com/zc1469/49_v2r1t5sigcdd02/playlist.m3u8?zip=&streamid=1469&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=8518754403&aw_0_1st.skey=8518754403&host=webapp.US&playedFrom=157&stationid=1469&territory=US
 #EXTINF:-1,Hot 97 NY
@@ -195,5 +191,5 @@ https://radio.vern.cc/rock.ogg.m3u
 https://radio.vern.cc/metal-instrumental.ogg.m3u
 #EXTINF:-1 tvg-id="toonami",Toonami Aftermath Radio
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="tildetown",Tilde.town Radio
+#EXTINF:-1 tvg-id="tildetown",Tilde.Town Radio
 https://azuracast.tilderadio.org/radio/8000/radio.ogg
