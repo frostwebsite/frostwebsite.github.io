@@ -9,6 +9,8 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_t
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio 5
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC Radio 1 Dance
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
 #EXTINF:-1,The Beat
 http://relay.181.fm:8054
 #EXTINF:-1,The Office (Pop)
@@ -21,6 +23,8 @@ https://ice10.securenetsystems.net/WQYX
 https://listen.181fm.com/181-uktop40_128k.mp3
 #EXTINF:-1,G100
 https://dbc.streamguys1.com/wxyy-fm.aac
+#EXTINF:-1,BBC Radio 1 Relax
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one_relax.m3u8
 #EXTINF:-1,93.1 Jamz
 https://15693.live.streamtheworld.com/WJQMFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,Hot Radio
@@ -192,6 +196,10 @@ https://wgbh-live.streamguys1.com/wgbh-aac
 https://streamer.radio.co/s883e1674e/listen
 #EXTINF:-1,Heart London
 https://ice-sov.musicradio.com/HeartLondonMP3
+#EXTINF:-1,KISS UK
+https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=48158906790296
+#EXTINF:-1,Magic UK
+https://stream-mz.planetradio.co.uk/magicnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=750651207667466
 #EXTINF:-1,Heart 70s
 https://media-ssl.musicradio.com/Heart70s
 #EXTINF:-1,Mix 106.5 Mexico
@@ -200,6 +208,8 @@ https://25093.live.streamtheworld.com/XHDFMFMAAC_SC
 https://media-ssl.musicradio.com/Heart80s
 #EXTINF:-1,Heart 90s
 https://media-ssl.musicradio.com/Heart90s
+#EXTINF:-1,Heart 00s
+https://media-ssl.musicradio.com/Heart00s
 #EXTINF:-1,Heart Dance
 https://media-ssl.musicradio.com/HeartDance
 #EXTINF:-1,XEDA Imagen
@@ -218,6 +228,10 @@ https://14153.live.streamtheworld.com/LOS40_MEXICOAAC.aac
 https://crystalout.surfernetwork.com:8001/WDRC-FM_MP3
 #EXTINF:-1,Virgin Radio Anthems
 https://radio.virginradio.co.uk/stream-anthems
+#EXTINF:-1,KIIS-HD2 Canada
+https://stream-176.zeno.fm/mzse617dbm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtenNlNjE3ZGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im1NRGsxaWJUU0FPWUZWRHRkc3MtTXciLCJpYXQiOjE3MTg4NTM2MzQsImV4cCI6MTcxODg1MzY5NH0.gq7HDmrN4I_a3W9EChPZbjdFAbo7xauZuGt89GtBxLo
+#EXTINF:-1,100.3 KIIS FM Canada
+https://stream.zeno.fm/uw5uwxpfe2zuv
 #EXTINF:-1,102.7 KIIS FM
 https://stream.revma.ihrhls.com/zc185
 #EXTINF:-1,103.5 KOST FM
@@ -226,6 +240,8 @@ https://stream.revma.ihrhls.com/zc193
 https://stream.revma.ihrhls.com/zc849
 #EXTINF:-1,WGCI 107.5
 https://stream.revma.ihrhls.com/zc841
+#EXTINF:-1,C97.7 Canada
+https://rawlco.leanstream.co/CHUPFM
 #EXTINF:-1,WPNA 103.1
 https://s4.yesstreaming.net:17078/stream
 #EXTINF:-1,J1 Tokyo
