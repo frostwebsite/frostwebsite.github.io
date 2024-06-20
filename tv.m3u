@@ -39,11 +39,46 @@ http://168.181.122.234:8000/play/a03i/index.m3u8
 http://168.181.122.234:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="nickmusic2",NickMusic EMEA
 http://185.236.229.62:9981/play/a064
+#EXTINF:-1,NickRewind
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,OWN
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1,ShowTime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1,ShowTime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1,ShowTime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1,ShowTime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,ShowTime Women
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1,Starz Latino
+http://thevdm.xyz:25461/Jennifer/Year!/52221
+#EXTINF:-1,Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1,Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1,TBN
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
+#EXTINF:-1,Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1,Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1,Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1,Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1,PBS Create
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="telemundo.int",Telemundo Internacional
 http://168.181.122.234:8000/play/a011/index.m3u8
+#EXTINF:-1,NHL Network 
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1,Disney Channel India
 http://144.24.62.197:9981/stream/channel/4af403e1c2f041188d146b543adc5668
 #EXTINF:-1 tvg-id="MeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/39798
 #EXTINF:-1,PBS Kids South Africa
 http://sxefpyc.mexamo.xyz:80/live/4845884733/2597608062/186796.ts
@@ -644,10 +679,21 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/39744.m3u8
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="tbnsmile",Smile
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
+#EXTINF:-1,The Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="news12",News12 New York
 https://lnc-news12.tubi.video/primary/2.m3u8
+#EXTINF:-1,Starz In Black
+http://thevdm.xyz:25461/Jennifer/Year!/52212
+#EXTINF:-1,Starz Kids & Family
+http://thevdm.xyz:25461/Jennifer/Year!/52215
+#EXTINF:-1,TV One
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1,YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="tl89r8s",TLC
-http://thevdm.xyz:25461/live/Jennifer/Year!/39846.m3u8
+http://fl2.moveonjoy.com/TLC/index.m3u8
+http://thevdm.xyz:25461/Jennifer/Year!/39846
 #EXTINF:-1 tvg-id="pbskids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us",FOX Deportes
@@ -775,10 +821,18 @@ https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/l
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="teennick.us",TeenNick
 http://thevdm.xyz:25461/Jennifer/Year!/20880
+#EXTINF:-1,FYI
+http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1,FXM
+http://thevdm.xyz:25461/Jennifer/Year!/39768
+#EXTINF:-1,Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1,HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1,Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1,Discovery Family
@@ -801,6 +855,8 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159222
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="fillername8738178313",Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1,Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="filler2292929381317hghhhhh13",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="filler-name39239139",Canela Music
@@ -821,6 +877,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png",Ion Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1 tvg-id="rcnmas",RCN Mas
