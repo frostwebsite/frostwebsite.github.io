@@ -9,11 +9,31 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_t
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio 5
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-#EXTINF:-1,181.FM The Beat
+#EXTINF:-1,The Beat
 http://relay.181.fm:8054
-#EXTINF:-1,Monstercat 24/7
-https://ice55.securenetsystems.net/DASH63
-#EXTINF:-1,WPMZ Power FM
+#EXTINF:-1,The Office (Pop)
+https://listen.181fm.com/181-office_128k.mp3
+#EXTINF:-1,KATO 93.1
+https://ice24.securenetsystems.net/KATO
+#EXTINF:-1,WQYX Pop
+https://ice10.securenetsystems.net/WQYX
+#EXTINF:-1,181FM Top UK
+https://listen.181fm.com/181-uktop40_128k.mp3
+#EXTINF:-1,G100
+https://dbc.streamguys1.com/wxyy-fm.aac
+#EXTINF:-1,93.1 Jamz
+https://15693.live.streamtheworld.com/WJQMFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Hot Radio
+https://c25.radioboss.fm:8203/stream
+#EXTINF:-1,The Box (Urban)
+https://listen.181fm.com/181-thebox_128k.mp3
+#EXTINF:-1,Old School
+https://listen.181fm.com/181-oldschool_128k.mp3
+#EXTINF:-1,181FM Top
+https://listen.181fm.com/181-powerexplicit_128k.mp3
+#EXTINF:-1,Party 181FM
+https://listen.181fm.com/181-party_128k.mp3
+#EXTINF:-1,WPMZ Poder FM
 https://ice6.securenetsystems.net:80/WPMZ
 #EXTINF:-1,WMEZ Hot 94.1
 https://19803.live.streamtheworld.com/WMEZFMAAC.aac?dist=onlineradiobox
@@ -75,6 +95,32 @@ https://24083.live.streamtheworld.com/WQHTFMAAC.aac
 https://19273.live.streamtheworld.com/NOVA_100_AAC48.aac
 #EXTINF:-1,Hope 103.2 Australia
 https://stream.hopemedia.com.au/hope-mp3
+#EXTINF:-1,KISS 102.3
+https://stream.revma.ihrhls.com/zc1421
+#EXTINF:-1,104.5SNX
+https://stream.revma.ihrhls.com/zc1173
+#EXTINF:-1,102.5 WFMF
+https://stream.revma.ihrhls.com/zc1005
+#EXTINF:-1,98.9 KISS FM Louisville
+https://stream.revma.ihrhls.com/zc3387
+#EXTINF:-1,96.5 KISS FM
+https://stream.revma.ihrhls.com/zc1729
+#EXTINF:-1,96.1 KISS FM
+https://stream.revma.ihrhls.com/zc2021
+#EXTINF:-1,96.9 FM Lancaster
+https://stream.revma.ihrhls.com/zc2776
+#EXTINF:-1,96.7 KISS FM
+https://stream.revma.ihrhls.com/zc2173
+#EXTINF:-1,WILD 94.9
+https://stream.revma.ihrhls.com/zc305
+#EXTINF:-1,Q102 Philadelphia
+https://stream.revma.ihrhls.com/zc1997
+#EXTINF:-1,WNCI97.9
+https://stream.revma.ihrhls.com/zc1753
+#EXTINF:-1,KISS 107.1
+https://stream.revma.ihrhls.com/zc1705
+#EXTINF:-1,G105 Raleigh
+https://stream.revma.ihrhls.com/zc1641
 #EXTINF:-1,MEGA 107.7 Guatemala
 https://15693.live.streamtheworld.com/LA_MEGA.mp3
 #EXTINF:-1,NDR 1
@@ -85,10 +131,25 @@ https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?origine=radiogarden&cdn_path=adswi
 https://streamer.radio.co/s2c3cc784b/listen
 #EXTINF:-1,Stereo 100.3 Guatemala
 https://sh1.radioonlinehd.com:8056/stream
+#EXTINF:-1,106.1 KISS FM
+https://stream.revma.ihrhls.com/zc2245
 #EXTINF:-1,La Patrona Guatemala
 https://play10.tikast.com/proxy/lajefacoatepeque?mp=/stream
 #EXTINF:-1,Global Hits Colombia
 https://stream.zeno.fm/e3r11d73sfeuv
+#EXTINF:-1,Mix 93.1 Boston
+https://stream.revma.ihrhls.com/zc1101
+#EXTINF:-1,101.3 KGOT Alaska
+https://stream.revma.ihrhls.com/zc2942
+#EXTINF:-1,96.9 Boston
+https://stream.revma.ihrhls.com/zc1109
+#EXTINF:-1,104.3 MYfm
+https://stream.revma.ihrhls.com/zc173
+#EXTINF:-1,KC101
+https://stream.revma.ihrhls.com/zc457
+#EXTINF:-1,Kiss 94.7
+https://stream.revma.ihrhls.com/zc433
+#EXTINF:-1,Jam'n 94.5 Boston
 #EXTINF:-1,Q102 Ireland
 https://wg.cdn.tibus.net/q102MP3128
 #EXTINF:-1,RTE Gold
@@ -101,6 +162,8 @@ http://icecast.rte.ie/radio1extra
 http://icecast.rte.ie/lyric
 #EXTINF:-1,RTE Pulse
 http://icecast.rte.ie/pulse
+#EXTINF:-1,KISS 108 Boston
+https://stream.revma.ihrhls.com/zc1097
 #EXTINF:-1,RTE Radio 2
 https://icecast.rte.ie/2fm
 #EXTINF:-1,KTU 103.5 NY
