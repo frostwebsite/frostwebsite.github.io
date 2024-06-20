@@ -29,14 +29,14 @@ http://91.107.219.115:8000/radio.mp3
 http://148.251.22.248:1200/radio.mp3.m3u
 #EXTINF:-1,FM Latina
 http://142.44.210.38:8000/RadioLatina925.m3u
-#EXTINF:-1,Unknown Icecast
+#EXTINF:-1,Unknown Latin Icecast
 http://131.153.174.123:8096/stream
-#EXTINF:-1,Arcade Gum (Classic Rock)
+#EXTINF:-1,CitySoundz
+http://s10.citrus3.com:8374/stream
+#EXTINF:-1,Arcade Gum Radio
 http://209.142.70.36:8000/wagr.m3u
 #EXTINF:-1,The Mellow Sound
 http://209.141.35.75:8000/mellow.m3u
-#EXTINF:-1,CitySoundz
-http://s10.citrus3.com:8374/stream
 #EXTINF:-1,NXT
 http://server6.radio-streams.net:8058/mobile
 #EXTINF:-1,BBC Radio 1 Relax
@@ -51,7 +51,7 @@ http://streams.radiomast.io/ebca0c3d-4178-4386-88a1-4db6b7d9e291
 https://c25.radioboss.fm:8203/stream
 #EXTINF:-1,Flashback Alternatives
 http://puma.streemlion.com:1240/stream
-#EXTINF:-1,KixFM (Rock, NZ)
+#EXTINF:-1,KixFM
 https://stream.kixfm.co.nz:8178/stream
 #EXTINF:-1,The Box (Urban)
 https://listen.181fm.com/181-thebox_128k.mp3
