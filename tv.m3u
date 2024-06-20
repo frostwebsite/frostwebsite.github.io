@@ -44,7 +44,7 @@ http://168.181.122.234:8000/play/a011/index.m3u8
 #EXTINF:-1,Disney Channel India
 http://144.24.62.197:9981/stream/channel/4af403e1c2f041188d146b543adc5668
 #EXTINF:-1 tvg-id="MeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",MeTV
-http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
+http://thevdm.xyz:25461/Jennifer/Year!/39798
 #EXTINF:-1,PBS Kids South Africa
 http://sxefpyc.mexamo.xyz:80/live/4845884733/2597608062/186796.ts
 #EXTINF:-1,Cartoon Network India
@@ -76,8 +76,6 @@ http://84.203.199.198:9981/stream/service/1fddaddbcdee82e7513f38906cd62cb7
 http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
 #EXTINF:-1 tvg-id="biggs.pt",Biggs
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level%282100000%29
-#EXTINF:-1 tvg-id="eurekatv",Canal Capital
-http://38.252.158.1:8000/play/a007
 #EXTINF:-1,NickToons Global
 http://185.236.229.62:9981/play/a06a
 #EXTINF:-1,CBS Reality Poland
@@ -119,8 +117,6 @@ http://192.141.99.3:8000/play/a05k
 https://bkm.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 tvg-id="nkjr1",Nick Jr. Global(?)
 http://185.236.229.62:9981/play/a065
-#EXTINF:-1 tvg-id="nk1",Nick Global
-http://37.18.239.36:8888/Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="cc.la",Comedy Central LA
 http://45.5.151.151:8000/play/a01p
 #EXTINF:-1 tvg-id="dj.pl",Disney Junior Poland
@@ -206,7 +202,7 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://lnc-cine-estrella.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="retro.us" tvg-logo="https://i.imgur.com/iUTL0pm.png",RetroTV
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 tvg-id="c31.au" tvg-logo="https://i.imgur.com/Ge1EutY.png",C31
+#EXTINF:-1 tvg-id="c31.au" tvg-logo="https://i.imgur.com/Ge1EutY.png",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png",Discovery Kids Panregional
 http://181.78.105.146:8800/play/a06j
@@ -261,16 +257,12 @@ http://46.252.39.94:8008/play/a011
 http://46.252.39.94:8008/play/a012
 #EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://i.imgur.com/N1BUULh.png",Gloob
 http://95.164.4.95/painel/globoplay/globo.php?id=7339146&q=&lat=-23.614942616362804&long=-46.69667531648953
-#EXTINF:-1 tvg-id="minimax.ro",Minimax Romania
-http://86.120.245.60:9981/stream/channel/420dd8a3e4b7a61b8978ca0964ac7578
 #EXTINF:-1 tvg-id="abcnews.au",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="euron",EuroNews
 https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="euron.es",EuroNews en Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="cbsnewsboston",CBS News Boston
-https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 #EXTINF:-1 tvg-id="cbsnews.int",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f8
 #EXTINF:-1 tvg-id="mtv.eu",MTV Europe
@@ -293,8 +285,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="Nicktoons-cis",NickToons CIS
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1,KidsCo
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281501
 #EXTINF:-1 tvg-id="RakutenPopUK",Pop UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nhk-bs.jp",NHK BS
@@ -335,8 +325,6 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
 http://190.14.242.93:8086/play/a01b
 #EXTINF:-1,Universal TV
 http://190.14.242.93:8086/play/a01c
-#EXTINF:-1,ActionMax
-http://thevdm.xyz:25461/Jennifer/Year!/34460
 #EXTINF:-1,beIN Sports en Español
 http://thevdm.xyz:25461/Jennifer/Year!/19848
 #EXTINF:-1 tvg-id="cinecanalcanal",Cinecanal
@@ -347,7 +335,6 @@ http://thevdm.xyz:25461/Jennifer/Year!/85977
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn.us",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="rakutenfam.eu",Rakuten Family EU
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbox-its-not-pron-btw",HBO Xtreme
@@ -405,7 +392,7 @@ https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 https://i.mjh.nz/10-nsw.m3u
 #EXTINF:-1 tvg-id="72au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1200px-7two_logo_2020.svg.png",7two
 https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
-#EXTINF:-1 tvg-id="Enfamila.es",Enfamila
+#EXTINF:-1 tvg-id="Enfamilia.es",Enfamilia
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158667
 #EXTINF:-1 tvg-id="tnla",TeenNick LA
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158669
@@ -451,7 +438,6 @@ http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
 http://84.203.199.198:9981/stream/channel/bc68a32ac797d7cf20ba4bc370e45d61
 #EXTINF:-1 tvg-id="bbcnews.uk",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-http://84.203.199.198:9981/stream/channel/8e21c580e20e1b8cb271b671e3eec6e7
 #EXTINF:-1 tvg-id="bbcnews.int",BBC News International
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="skynews.uk",Sky News UK
@@ -514,8 +500,6 @@ https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="countryunknown",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 tvg-id="hot7.lc",Hot7 Caribbean
-https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png",Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="canal19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_19_El_Salvador_%282022%29.svg/revision/latest/scale-to-width-down/300?cb=20240131022938",Canal 19
@@ -526,8 +510,6 @@ https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/a
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
 http://38.252.157.62:8000/play/29
-#EXTINF:-1 tvg-id="mtv2.us",MTV2
-https://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010",Disney XD
@@ -548,10 +530,6 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="canalsurandalucia",Canal Sur Andalucia
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="americateve",America TeVe
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-id="11.mx",Once Mexico
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="judge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",CourtTV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="tbd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/2560px-TBD_Logo_2019.svg.png",TBD
@@ -560,7 +538,7 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="wackchannel",Nosey Judge Karen's Court
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
-#EXTINF:-1 tvg-id="cn.idk",Cartoon Network RSEE
+#EXTINF:-1,Cartoon Network RSEE
 http://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 tvg-id="jjhhhhyyegggettddyyshh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cufo_TV.png/640px-Cufo_TV.png",Cufo
 http://45.90.80.250:8000/play/a01c
@@ -801,6 +779,10 @@ http://thevdm.xyz:25461/Jennifer/Year!/20880
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="NBCLX.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1,Toonami Aftermath West
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1,Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="disneyxd.pl",Disney XD Poland
 http://185.236.229.62:9981/play/a07c
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg",Ion
