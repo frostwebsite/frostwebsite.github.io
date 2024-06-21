@@ -53,7 +53,7 @@ https://c25.radioboss.fm:8203/stream
 http://puma.streemlion.com:1240/stream
 #EXTINF:-1,KixFM
 https://stream.kixfm.co.nz:8178/stream
-#EXTINF:-1,The Box (Urban)
+#EXTINF:-1,The Box US (Urban)
 https://listen.181fm.com/181-thebox_128k.mp3
 #EXTINF:-1,Old School
 https://listen.181fm.com/181-oldschool_128k.mp3
@@ -193,7 +193,7 @@ https://stream.zeno.fm/e3r11d73sfeuv
 https://stream.revma.ihrhls.com/zc1101
 #EXTINF:-1,101.3 KGOT Alaska
 https://stream.revma.ihrhls.com/zc2942
-#EXTINF:-1,96.9 Boston
+#EXTINF:-1,96.9 Variety Boston
 https://stream.revma.ihrhls.com/zc1109
 #EXTINF:-1,104.3 MYfm
 https://stream.revma.ihrhls.com/zc173
@@ -227,9 +227,7 @@ https://icecast.rte.ie/2fm
 https://stream.revma.ihrhls.com/zc1473
 #EXTINF:-1,WXLO 104.5
 https://24413.live.streamtheworld.com/WXLOFMAAC.aac
-#EXTINF:-1,Capital (South)
-https://media-ice.musicradio.com/CapitalBirminghamMP3?.mp3
-#EXTINF:-1,Capital (North)
+#EXTINF:-1,Capital UK
 https://media-ice.musicradio.com/CapitalEdinburghMP3?.mp3
 #EXTINF:-1,97.9 Aktiva FM
 https://s18.myradiostream.com:9314/;
