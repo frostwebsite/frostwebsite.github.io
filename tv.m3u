@@ -699,9 +699,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/39846
 #EXTINF:-1 tvg-id="pbskids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us",FOX Deportes
-http://thevdm.xyz:25461/live/Jennifer/Year!/19894.m3u8
+http://thevdm.xyz:25461/Jennifer/Year!/19894
 #EXTINF:-1 tvg-id="FoxSports2.mx",FOX Sports 2 Mexico
-http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/158834.m3u8
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158834
 #EXTINF:-1 tvg-id="FoxSports3.mx",FOX Sports 3 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158835
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx",FOX Sports Premium Mexico
@@ -715,9 +715,9 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159740
 #EXTINF:-1 tvg-id="syfy.us",Syfy
 http://212.102.60.231:80/SYFY/index.m3u8
 #EXTINF:-1,Cartoon Network West
-http://supersonictv.live:8080/live/242306/210404/21794.m3u8
+http://supersonictv.live:8080/242306/210404/21794
 #EXTINF:-1,Pasiones
-http://supersonictv.live:8080/live/242306/210404/61825.m3u8
+http://supersonictv.live:8080/242306/210404/61825
 #EXTINF:-1 tvg-id="ESPN2.mx",ESPN 2 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158827
 #EXTINF:-1 tvg-id="ESPN3.mx",ESPN 3 Mexico
@@ -727,11 +727,11 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/15883
 #EXTINF:-1 tvg-id="tlnovelas.mx",TLNovelas Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159095
 #EXTINF:-1 tvg-id="tlnovelas.us",Univision TLNovelas
-http://thevdm.xyz:25461/live/Jennifer/Year!/20033.m3u8
+http://thevdm.xyz:25461/Jennifer/Year!/20033
 #EXTINF:-1,Tr3s
-http://supersonictv.live:8080/live/242306/210404/61902.m3u8
+http://supersonictv.live:8080/242306/210404/61902
 #EXTINF:-1 tvg-id="uptv",UPtv
-http://thevdm.xyz:25461/live/Jennifer/Year!/39858.m3u8
+http://thevdm.xyz:25461/Jennifer/Year!/39858
 #EXTINF:-1 tvg-id="tlsur",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="canal13.gt",Trecevision
@@ -744,7 +744,7 @@ http://185.236.229.62:9981/play/a064
 http://212.102.60.231:80/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="nick-uk",Nickelodeon UK
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
-#EXTINF:-1,Multimedios (Canal 6 Mexico)
+#EXTINF:-1,Canal 6 Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
