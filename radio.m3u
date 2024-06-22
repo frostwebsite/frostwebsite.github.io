@@ -11,6 +11,8 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio 1 Dance
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
+#EXTINF:-1,EHFM
+https://ehfm.out.airtime.pro/ehfm_a
 #EXTINF:-1,The Beat
 http://relay.181.fm:8054
 #EXTINF:-1,The Office (Pop)
