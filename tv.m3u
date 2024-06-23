@@ -29,6 +29,10 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 http://stream01.vnet.am/Fox/video.m3u8
 #EXTINF:-1 tvg-id="nick.la",Nick Panregional
 http://168.181.122.234:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="CN.ph",Cartoon Network PH (Geo-Blocked)
+https://bisdaktv.serv00.net/channel.php?id=145
+#EXTINF:-1 tvg-id="Moonbugkids",Moonbug Kids (Geo-Blocked)
+https://bisdaktv.serv00.net/channel.php?id=146
 #EXTINF:-1 tvg-id="rcnno",RCN Novelas
 http://168.181.122.234:8000/play/a024/index.m3u8
 #EXTINF:-1,Tooncast 16:9
