@@ -33,10 +33,14 @@ http://168.181.122.234:8000/play/a038/index.m3u8
 http://168.181.122.234:8000/play/a037/index.m3u8
 #EXTINF:-1,OSN Family
 http://185.104.253.38:9981/stream/channelid/1719957113
-#EXTINF:1,MBC3
+#EXTINF:-1,MBC3
 http://185.104.253.38:9981/stream/channelid/1798328255
+#EXTINF:-1,Azteca Corazon
+http://45.186.106.207:8000/play/a00a/index.m3u8
+#EXTINF:-1,Azteca Mundo
+http://45.186.106.207:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="Tennis.us",Tennis Channel
-https://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1,NickToons MENA
 http://185.104.253.38:9981/stream/channelid/365999624
 #EXTINF:-1,TeenNick LA
