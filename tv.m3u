@@ -344,7 +344,7 @@ https://neetball.net/live/neet3.m3u8
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF:-1,Guatevision
 https://live-c.cf.dmcdn.net/sec2(vzQGks1c3xSMdWZWctaRKn9jKD3bJKnisAG4YVVOx2gPXu6nNC5mQxHv_pWt0zSfYeJdvutEeujv1VEJjDAgrj5XHN3nyQPiiKT8laE2EP4)/dm/3/x8lth64/s/live-2.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.jp",Disney Channel Japan
+#EXTINF:-1 tvg-id="Disney.jp",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
