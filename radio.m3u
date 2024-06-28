@@ -15,12 +15,36 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://ehfm.out.airtime.pro/ehfm_a
 #EXTINF:-1,The Beat
 http://relay.181.fm:8054
+#EXTINF:-1,2000FM - Hip Hop & R&B
+https://das-edge12-live365-dal02.cdnstream.com/a48930
+#EXTINF:-1,NRJ EDM
+https://scdn.nrjaudio.fm/fr/31419/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-EDM&cdn_path=adswizz_lbs7&adws_out_2&access_token=c4d71d770ebb466799f1e838eadc95d4
+#EXTINF:-1,NRJ Top
+https://scdn.nrjaudio.fm/fr/57084/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Top-100-De-La-Decennie&cdn_path=adswizz_lbs12&adws_out_3&access_token=17e35dd9abfc4dfda2131f505ed7fafd
 #EXTINF:-1,The Office (Pop)
 https://listen.181fm.com/181-office_128k.mp3
-#EXTINF:-1,KATO 93.1
+#EXTINF:-1,NRJ Pop
+https://scdn.nrjaudio.fm/fr/30053/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Pop&cdn_path=adswizz_lbs8&adws_out_1&access_token=0c42b370bb1c4cd190908e206302ad04
+#EXTINF:-1,KISSFM France
+https://kissfm.ice.infomaniak.ch/kissfm-128.mp3
+#EXTINF:-1,NRJ Rap
+https://scdn.nrjaudio.fm/fr/30061/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Rap-US&cdn_path=adswizz_lbs10&adws_out_3&access_token=f4950db813084791bd43d6d4a3863172
+#EXTINF:-1,NRJ Hits
+https://scdn.nrjaudio.fm/fr/30043/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Hits&cdn_path=adswizz_lbs12&adws_out_1&access_token=c3ecdf1c97414939aa98c56bf2d713e4
+#EXTINF:-1,KISS Norge
+https://live-bauerno.sharp-stream.com/kiss_no_mp3
+#EXTINF:-1,KISS FM Finland
+https://stream.radioplay.fi/kiss/kiss_64.aac
+#EXTINF:-1,2000FM - Top 40
+https://das-edge11-live365-dal03.cdnstream.com/a26436
+#EXTINF:-1,KISS104.1 Binghamton
+https://d25j5qm9y8ulag.cloudfront.net/1221/50c7e6d417811ecfbf28204dac8231e8/50c7e6d417811ecfbf28204dac8231e8_123820.aac?sid=4996
+https://prod-34-239-111-187.amperwave.net/townsquare-wwylfmaac-hlsc3.m3u8
 https://ice24.securenetsystems.net/KATO
 #EXTINF:-1,WQYX Pop
 https://ice10.securenetsystems.net/WQYX
+#EXTINF:-1,Q99.7 Atlanta
+https://24943.live.streamtheworld.com/WWWQFMAAC.aac
 #EXTINF:-1,Delta France
 https://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3
 #EXTINF:-1,Delta Party
@@ -278,9 +302,9 @@ https://streamer.radio.co/s883e1674e/listen
 #EXTINF:-1,Heart London
 https://ice-sov.musicradio.com/HeartLondonMP3
 #EXTINF:-1,KISS UK
-https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=48158906790296
+https://stream-kiss.planetradio.co.uk/kissnational.aac
 #EXTINF:-1,Magic UK
-https://stream-mz.planetradio.co.uk/magicnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=750651207667466
+https://stream-mz.planetradio.co.uk/magicnational.aac
 #EXTINF:-1,Heart 70s
 https://media-ssl.musicradio.com/Heart70s
 #EXTINF:-1,Mix 106.5 Mexico
