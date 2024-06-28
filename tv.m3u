@@ -439,6 +439,8 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159081
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-id="soltv",Sol TV Guatemala
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1,MeTV Toons (SD)
+http://46.128.235.49:9981/stream/channel/f966be30117b54f5a5ddd8236e21f49c
 #EXTINF:-1 tvg-id="zoomoo",ZooMoo Australia
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="aztecagt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png",Azteca Guate
