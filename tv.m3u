@@ -288,11 +288,11 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 #EXTINF:-1 tvg-id="4.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",Channel 4 UK
 http://84.203.199.198:9981/stream/channel/6de89172871f09b611a5ba6e970d447e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="e4.uk" tvg-logo="https://i.imgur.com/22MfjF4.png",E4
-http://84.203.199.198:9981/stream/channel/5e79467abc16c01c7be049fa6afb044a
+http://84.203.16.74:9981/stream/channel/5e79467abc16c01c7be049fa6afb044a
 #EXTINF:-1 tvg-id="e4-more.uk" tvg-logo="https://i.imgur.com/vA2j0YP.png",E4 Extra
-http://84.203.199.198:9981/stream/channel/926b6a23a608fa621805db7f391cd09d
+http://84.203.16.74:9981/stream/channel/926b6a23a608fa621805db7f391cd09d
 #EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
-http://84.203.199.198:9981/stream/channel/3d2d356baa55cd33d9c9698fdadc5cda
+http://84.203.16.74:9981/stream/channel/3d2d356baa55cd33d9c9698fdadc5cda
 #EXTINF:-1 tvg-id="cbc-comedy",CBC Comedy
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 #EXTINF:-1,Pop Max
@@ -535,22 +535,20 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakutentvshows.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten Series Spain
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="cula4",Cula4
-http://84.203.199.198:9981/stream/channel/d562a17f62e800c37a07997868913b8d
 #EXTINF:-1 tvg-id="cbeebies.uk",CBeebies
-http://84.203.199.198:9981/stream/channel/4d61c55ebcc9f3b941198ee1e555979c
+http://84.203.16.74:9981/stream/channel/4d61c55ebcc9f3b941198ee1e555979c
 #EXTINF:-1 tvg-id="gm.uk",Great! Movies
-http://84.203.199.198:9981/stream/channel/e74e8cea730326c7c0e3effc790162ec
+http://84.203.16.74:9981/stream/channel/e74e8cea730326c7c0e3effc790162ec
 #EXTINF:-1 tvg-id="q.uk",Quest UK
-http://84.203.199.198:9981/stream/channel/5f76aaecdaa580fe0948b1d370ec3f60
+http://84.203.16.74:9981/stream/channel/5f76aaecdaa580fe0948b1d370ec3f60
 #EXTINF:-1 tvg-id="qr.uk",Quest Red
-http://84.203.199.198:9981/stream/channel/2a46147ad332792b8c7bc25c96c682cd
+http://84.203.16.74:9981/stream/channel/2a46147ad332792b8c7bc25c96c682cd
 #EXTINF:-1 tvg-id="cbbc.uk",CBBC
-http://84.203.199.198:9981/stream/channel/4845ef3a27cb971b75eb515d0009c4de
+http://84.203.16.74:9981/stream/channel/4845ef3a27cb971b75eb515d0009c4de
 #EXTINF:-1 tvg-id="great1.uk",Great! TV
-http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
+http://84.203.16.74:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
 #EXTINF:-1 tvg-id="dave.uk",Dave UK
-http://84.203.199.198:9981/stream/channel/47b88a8488f3320ef093d267b3a859d4
+http://84.203.16.74:9981/stream/channel/47b88a8488f3320ef093d267b3a859d4
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Always Funny Videos
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/featuredImage.jpg",Yu-Gi-Oh 24/7
