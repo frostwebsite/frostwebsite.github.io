@@ -21,10 +21,24 @@ https://listen.181fm.com/181-office_128k.mp3
 https://ice24.securenetsystems.net/KATO
 #EXTINF:-1,WQYX Pop
 https://ice10.securenetsystems.net/WQYX
+#EXTINF:-1,Delta France
+https://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3
+#EXTINF:-1,Delta Party
+https://deltaparty.ice.infomaniak.ch/deltaparty-128.aac
+#EXTINF:-1,Delta Hits
+https://deltahits.ice.infomaniak.ch/deltahits-128.aac
+#EXTINF:-1,Delta+
+https://delta.ice.infomaniak.ch/delta-192.mp3
+#EXTINF:-1,Delta Retro
+https://deltafmretro.ice.infomaniak.ch/deltafmretro-128.aac
+#EXTINF:-1,Delta Top
+https://deltafmtop.ice.infomaniak.ch/deltafmtop-128.aac
 #EXTINF:-1,Sonica 106.9 Guatemala
 https://s6.voscast.com:9039/stream
 #EXTINF:-1,181FM Top UK
 https://listen.181fm.com/181-uktop40_128k.mp3
+#EXTINF:-1,KISS Fitness France
+https://kissfmclassicdance.ice.infomaniak.ch/kissfmclassicdance-192.mp3
 #EXTINF:-1,G100
 https://dbc.streamguys1.com/wxyy-fm.aac
 #EXTINF:-1,Flamingo Netherlands
