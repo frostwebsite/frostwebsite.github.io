@@ -11,6 +11,8 @@ http://190.14.242.93:8086/play/a02k
 https://live.realms.pub/live/01aec3bf-b9bb-4c3f-93e8-fc76542016f4/index.m3u8
 #EXTINF:-1,Cartoon Network Arabia
 http://185.104.253.38:9981/stream/channelid/395236338
+#EXTINF:-1,Adult Swim Canada
+http://likea8bitboss.xyz:80/641980858/6173295804/761358
 #EXTINF:-1,Spacetoon
 http://185.104.253.38:9981/stream/channelid/903716372
 #EXTINF:1,Nick Jr. MENA
