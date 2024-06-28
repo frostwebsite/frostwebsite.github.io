@@ -221,10 +221,22 @@ http://icecast.rte.ie/radio1
 http://icecast.rte.ie/radio1extra
 #EXTINF:-1,RTE Lyric
 http://icecast.rte.ie/lyric
+#EXTINF:-1,Lo Mas Sonado en Mexico
+https://stream-172.zeno.fm/9pspaebal7uvv
+#EXTINF:-1,La Mejor 92.9
+https://das-edge12-live365-dal02.cdnstream.com/a47473
+#EXTINF:-1,Radio Latina Italy
+https://nrf1.newradio.it:9806/stream
+#EXTINF:-1,NRJ France
+https://scdn.nrjaudio.fm/fr/30001/mp3_128.mp3
 #EXTINF:-1,RTE Pulse
 http://icecast.rte.ie/pulse
 #EXTINF:-1,KISS 108 Boston
 https://stream.revma.ihrhls.com/zc1097
+#EXTINF:-1,V101.1 Sacramento
+https://stream.revma.ihrhls.com/zc225
+#EXTINF:-1,105.5 KISS FM
+https://stream.revma.ihrhls.com/zc2321
 #EXTINF:-1,RTE Radio 2
 https://icecast.rte.ie/2fm
 #EXTINF:-1,KTU 103.5 NY
